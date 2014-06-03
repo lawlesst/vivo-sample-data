@@ -8,5 +8,3 @@ This is intended to make it easy to load a fresh VIVO instance with test data.  
 
 The data is modeled with the [VIVO ISF](https://wiki.duraspace.org/display/VIVO/VIVO-ISF+Ontology) ontology in mind.  The VIVO ISF was introduced in VIVO version 1.6.
 
-##Adding the data to VIVO
-Login to a VIVO installation as a site administrator.  Click on "Site Admin" in the top right corner and click "Add/Remove RDF Data" to upload the file.  
