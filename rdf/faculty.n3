@@ -1,0 +1,2064 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vivo.school.edu/individual/person-054759c0> a vivo:FacultyMember ;
+    rdfs:label "McGill, Rebecca E." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-054759c0-vcard> .
+
+<http://vivo.school.edu/individual/person-0a2d481f> a vivo:FacultyMember ;
+    rdfs:label "wong, Hwagyun" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-0a2d481f-vcard> .
+
+<http://vivo.school.edu/individual/person-0bcb050f> a vivo:FacultyMember ;
+    rdfs:label "Gurry, Guy L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-0bcb050f-vcard> .
+
+<http://vivo.school.edu/individual/person-0c7c03e3> a vivo:FacultyMember ;
+    rdfs:label "Retner, Gary L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-0c7c03e3-vcard> .
+
+<http://vivo.school.edu/individual/person-11e9b5be> a vivo:FacultyMember ;
+    rdfs:label "Musner, Jeffrey M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-11e9b5be-vcard> .
+
+<http://vivo.school.edu/individual/person-1333856> a vivo:FacultyMember ;
+    rdfs:label "Dexter, Jerry D." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-1333856-vcard> .
+
+<http://vivo.school.edu/individual/person-18fdb6b4> a vivo:FacultyMember ;
+    rdfs:label "Lowess, Patricia S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-18fdb6b4-vcard> .
+
+<http://vivo.school.edu/individual/person-1921874d> a vivo:FacultyMember ;
+    rdfs:label "Hani, Salem G." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-1921874d-vcard> .
+
+<http://vivo.school.edu/individual/person-194fc3c7> a vivo:FacultyMember ;
+    rdfs:label "Pakostina, Natalia V." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-194fc3c7-vcard> .
+
+<http://vivo.school.edu/individual/person-1aedaf52> a vivo:FacultyMember ;
+    rdfs:label "Winston, S B." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-1aedaf52-vcard> .
+
+<http://vivo.school.edu/individual/person-24e3e4e2> a vivo:FacultyMember ;
+    rdfs:label "Woodly, Billy D." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-24e3e4e2-vcard> .
+
+<http://vivo.school.edu/individual/person-262ead89> a vivo:FacultyMember ;
+    rdfs:label "Ditross, Joseph J." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-262ead89-vcard> .
+
+<http://vivo.school.edu/individual/person-26f30b82> a vivo:FacultyMember ;
+    rdfs:label "Szewski, Saskia" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-26f30b82-vcard> .
+
+<http://vivo.school.edu/individual/person-274f2d27> a vivo:FacultyMember ;
+    rdfs:label "Hartfield, Lloyd K." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-274f2d27-vcard> .
+
+<http://vivo.school.edu/individual/person-2dec06e9> a vivo:FacultyMember ;
+    rdfs:label "Sadav, Manjit S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-2dec06e9-vcard> .
+
+<http://vivo.school.edu/individual/person-332dadae> a vivo:FacultyMember ;
+    rdfs:label "Smiths, Randolph H." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-332dadae-vcard> .
+
+<http://vivo.school.edu/individual/person-3469d15f> a vivo:FacultyMember ;
+    rdfs:label "Pyndap, Kathrin A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-3469d15f-vcard> .
+
+<http://vivo.school.edu/individual/person-38160486> a vivo:FacultyMember ;
+    rdfs:label "Kinley, William J." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-38160486-vcard> .
+
+<http://vivo.school.edu/individual/person-38f0640f> a vivo:FacultyMember ;
+    rdfs:label "Briggs, Brian C." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-38f0640f-vcard> .
+
+<http://vivo.school.edu/individual/person-3c8aa927> a vivo:FacultyMember ;
+    rdfs:label "Rahman, Mohamed T." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-3c8aa927-vcard> .
+
+<http://vivo.school.edu/individual/person-4.33E+12> a vivo:FacultyMember ;
+    rdfs:label "Wurst, Ralph A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-4.33E+12-vcard> .
+
+<http://vivo.school.edu/individual/person-40f09614> a vivo:FacultyMember ;
+    rdfs:label "Burbanks, Micky D." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-40f09614-vcard> .
+
+<http://vivo.school.edu/individual/person-42be1339> a vivo:FacultyMember ;
+    rdfs:label "Zetinos, Zenon" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-42be1339-vcard> .
+
+<http://vivo.school.edu/individual/person-430cacbc> a vivo:FacultyMember ;
+    rdfs:label "Bloomberg, Wanda" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-430cacbc-vcard> .
+
+<http://vivo.school.edu/individual/person-4326eaa3> a vivo:FacultyMember ;
+    rdfs:label "Shmidth, Loren C." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-4326eaa3-vcard> .
+
+<http://vivo.school.edu/individual/person-4663e6b4> a vivo:FacultyMember ;
+    rdfs:label "Wu, Le" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-4663e6b4-vcard> .
+
+<http://vivo.school.edu/individual/person-48d141da> a vivo:FacultyMember ;
+    rdfs:label "Pappadopulos, Gregory F." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-48d141da-vcard> .
+
+<http://vivo.school.edu/individual/person-4ff5edcb> a vivo:FacultyMember ;
+    rdfs:label "Woodey, Joanna R." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-4ff5edcb-vcard> .
+
+<http://vivo.school.edu/individual/person-54317d5b> a vivo:FacultyMember ;
+    rdfs:label "Brison, Gary T." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-54317d5b-vcard> .
+
+<http://vivo.school.edu/individual/person-543231b1> a vivo:FacultyMember ;
+    rdfs:label "Necker, Andreas" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-543231b1-vcard> .
+
+<http://vivo.school.edu/individual/person-5677ce1c> a vivo:FacultyMember ;
+    rdfs:label "Mepal, Bimal P." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-5677ce1c-vcard> .
+
+<http://vivo.school.edu/individual/person-5c2cef0e> a vivo:FacultyMember ;
+    rdfs:label "Vay, Matilda W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-5c2cef0e-vcard> .
+
+<http://vivo.school.edu/individual/person-5cebea29> a vivo:FacultyMember ;
+    rdfs:label "Thomsson, Alston V." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-5cebea29-vcard> .
+
+<http://vivo.school.edu/individual/person-5e728236> a vivo:FacultyMember ;
+    rdfs:label "Gupta, Akhil" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-5e728236-vcard> .
+
+<http://vivo.school.edu/individual/person-613870d1> a vivo:FacultyMember ;
+    rdfs:label "Roberts, Kathryn J." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-613870d1-vcard> .
+
+<http://vivo.school.edu/individual/person-6340ff0a> a vivo:FacultyMember ;
+    rdfs:label "Herthy, Bharathi S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-6340ff0a-vcard> .
+
+<http://vivo.school.edu/individual/person-6dd3957c> a vivo:FacultyMember ;
+    rdfs:label "Micholssen, John M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-6dd3957c-vcard> .
+
+<http://vivo.school.edu/individual/person-6df86023> a vivo:FacultyMember ;
+    rdfs:label "Pane, Tanya" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-6df86023-vcard> .
+
+<http://vivo.school.edu/individual/person-6ebab0fa> a vivo:FacultyMember ;
+    rdfs:label "Samac, Bill" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-6ebab0fa-vcard> .
+
+<http://vivo.school.edu/individual/person-6edf97c6> a vivo:FacultyMember ;
+    rdfs:label "Warren, Jonathan" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-6edf97c6-vcard> .
+
+<http://vivo.school.edu/individual/person-786fc0f3> a vivo:FacultyMember ;
+    rdfs:label "Juarez, Carmen L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-786fc0f3-vcard> .
+
+<http://vivo.school.edu/individual/person-7a7aa175> a vivo:FacultyMember ;
+    rdfs:label "Monroe, Kevin M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-7a7aa175-vcard> .
+
+<http://vivo.school.edu/individual/person-7f4e9eb4> a vivo:FacultyMember ;
+    rdfs:label "Stagner, Robert O." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-7f4e9eb4-vcard> .
+
+<http://vivo.school.edu/individual/person-7f8372f3> a vivo:FacultyMember ;
+    rdfs:label "Groass, Harold P." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-7f8372f3-vcard> .
+
+<http://vivo.school.edu/individual/person-8.57E+08> a vivo:FacultyMember ;
+    rdfs:label "Monroe, Georgianne W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-8.57E+08-vcard> .
+
+<http://vivo.school.edu/individual/person-8422a439> a vivo:FacultyMember ;
+    rdfs:label "Tado, John E." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-8422a439-vcard> .
+
+<http://vivo.school.edu/individual/person-84ce7aef> a vivo:FacultyMember ;
+    rdfs:label "Garsson, Charles W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-84ce7aef-vcard> .
+
+<http://vivo.school.edu/individual/person-8775e8bc> a vivo:FacultyMember ;
+    rdfs:label "Brunoh, Linda L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-8775e8bc-vcard> .
+
+<http://vivo.school.edu/individual/person-883c4cb7> a vivo:FacultyMember ;
+    rdfs:label "Rammstein, Heather L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-883c4cb7-vcard> .
+
+<http://vivo.school.edu/individual/person-8bf8898a> a vivo:FacultyMember ;
+    rdfs:label "Reiner, Robin M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-8bf8898a-vcard> .
+
+<http://vivo.school.edu/individual/person-8da37bea> a vivo:FacultyMember ;
+    rdfs:label "Yuang, Anxiao" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-8da37bea-vcard> .
+
+<http://vivo.school.edu/individual/person-90e6f6c0> a vivo:FacultyMember ;
+    rdfs:label "Harter, Weston W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-90e6f6c0-vcard> .
+
+<http://vivo.school.edu/individual/person-939f7165> a vivo:FacultyMember ;
+    rdfs:label "Bertol, Julio S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-939f7165-vcard> .
+
+<http://vivo.school.edu/individual/person-96285042> a vivo:FacultyMember ;
+    rdfs:label "Szewski, Thomas D." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-96285042-vcard> .
+
+<http://vivo.school.edu/individual/person-97af54fb> a vivo:FacultyMember ;
+    rdfs:label "Hauer, Dustin T." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-97af54fb-vcard> .
+
+<http://vivo.school.edu/individual/person-980e771d> a vivo:FacultyMember ;
+    rdfs:label "Maldonado, Jasen J." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-980e771d-vcard> .
+
+<http://vivo.school.edu/individual/person-9a25a80b> a vivo:FacultyMember ;
+    rdfs:label "Ryak, Larry W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9a25a80b-vcard> .
+
+<http://vivo.school.edu/individual/person-9c4dca0b> a vivo:FacultyMember ;
+    rdfs:label "Carpou, Andreas A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9c4dca0b-vcard> .
+
+<http://vivo.school.edu/individual/person-9c75f491> a vivo:FacultyMember ;
+    rdfs:label "Strauss, Peter F." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9c75f491-vcard> .
+
+<http://vivo.school.edu/individual/person-9d92ca8b> a vivo:FacultyMember ;
+    rdfs:label "Serry, Amie L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9d92ca8b-vcard> .
+
+<http://vivo.school.edu/individual/person-9ed36091> a vivo:FacultyMember ;
+    rdfs:label "Nissen, Colleen V." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9ed36091-vcard> .
+
+<http://vivo.school.edu/individual/person-9ed54600> a vivo:FacultyMember ;
+    rdfs:label "Posnik, Michael P." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-9ed54600-vcard> .
+
+<http://vivo.school.edu/individual/person-a90924e6> a vivo:FacultyMember ;
+    rdfs:label "Pyang, Ping" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-a90924e6-vcard> .
+
+<http://vivo.school.edu/individual/person-a96b562e> a vivo:FacultyMember ;
+    rdfs:label "Bourgess, Anthony" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-a96b562e-vcard> .
+
+<http://vivo.school.edu/individual/person-b20fdbd9> a vivo:FacultyMember ;
+    rdfs:label "Sane, Stephen H." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-b20fdbd9-vcard> .
+
+<http://vivo.school.edu/individual/person-b2c12cd3> a vivo:FacultyMember ;
+    rdfs:label "Birkke, Shanna H." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-b2c12cd3-vcard> .
+
+<http://vivo.school.edu/individual/person-b6f25071> a vivo:FacultyMember ;
+    rdfs:label "Bach, Susan A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-b6f25071-vcard> .
+
+<http://vivo.school.edu/individual/person-b888266f> a vivo:FacultyMember ;
+    rdfs:label "McGregor, Robert B." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-b888266f-vcard> .
+
+<http://vivo.school.edu/individual/person-b9098a8e> a vivo:FacultyMember ;
+    rdfs:label "Losh, Stephen B." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-b9098a8e-vcard> .
+
+<http://vivo.school.edu/individual/person-bca92840> a vivo:FacultyMember ;
+    rdfs:label "Kyer, Ellisa L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-bca92840-vcard> .
+
+<http://vivo.school.edu/individual/person-bd6831b8> a vivo:FacultyMember ;
+    rdfs:label "Timoshenko, Yaroslav" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-bd6831b8-vcard> .
+
+<http://vivo.school.edu/individual/person-bf813378> a vivo:FacultyMember ;
+    rdfs:label "Abbott, James D." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-bf813378-vcard> .
+
+<http://vivo.school.edu/individual/person-bf942ec6> a vivo:FacultyMember ;
+    rdfs:label "Krisci, Kevin L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-bf942ec6-vcard> .
+
+<http://vivo.school.edu/individual/person-c0f341af> a vivo:FacultyMember ;
+    rdfs:label "Chaparo, Robert M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-c0f341af-vcard> .
+
+<http://vivo.school.edu/individual/person-c500baf1> a vivo:FacultyMember ;
+    rdfs:label "Grass, Kati P." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-c500baf1-vcard> .
+
+<http://vivo.school.edu/individual/person-c7f9a04d> a vivo:FacultyMember ;
+    rdfs:label "Pederssen, Adam P." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-c7f9a04d-vcard> .
+
+<http://vivo.school.edu/individual/person-c81ef444> a vivo:FacultyMember ;
+    rdfs:label "Gergman, Mindy E." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-c81ef444-vcard> .
+
+<http://vivo.school.edu/individual/person-ca139916> a vivo:FacultyMember ;
+    rdfs:label "Tenrieth, Robin L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ca139916-vcard> .
+
+<http://vivo.school.edu/individual/person-ca61ede1> a vivo:FacultyMember ;
+    rdfs:label "Brandon, Timothy J." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ca61ede1-vcard> .
+
+<http://vivo.school.edu/individual/person-cc1476d6> a vivo:FacultyMember ;
+    rdfs:label "Bilbaos, David L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-cc1476d6-vcard> .
+
+<http://vivo.school.edu/individual/person-ce238e6e> a vivo:FacultyMember ;
+    rdfs:label "Muchkin, Robert S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ce238e6e-vcard> .
+
+<http://vivo.school.edu/individual/person-d138d94a> a vivo:FacultyMember ;
+    rdfs:label "Horty, Robert L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-d138d94a-vcard> .
+
+<http://vivo.school.edu/individual/person-d2caf464> a vivo:FacultyMember ;
+    rdfs:label "Preston, John W." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-d2caf464-vcard> .
+
+<http://vivo.school.edu/individual/person-d40b0c98> a vivo:FacultyMember ;
+    rdfs:label "Martin, Lanny R." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-d40b0c98-vcard> .
+
+<http://vivo.school.edu/individual/person-d522fec6> a vivo:FacultyMember ;
+    rdfs:label "Atckins, Stephen R." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-d522fec6-vcard> .
+
+<http://vivo.school.edu/individual/person-d6f8c320> a vivo:FacultyMember ;
+    rdfs:label "Jackson, Michael A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-d6f8c320-vcard> .
+
+<http://vivo.school.edu/individual/person-dd8077e2> a vivo:FacultyMember ;
+    rdfs:label "Booner, Robert E." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-dd8077e2-vcard> .
+
+<http://vivo.school.edu/individual/person-de1f2aed> a vivo:FacultyMember ;
+    rdfs:label "Roberts, Tatyana" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-de1f2aed-vcard> .
+
+<http://vivo.school.edu/individual/person-e3bd8752> a vivo:FacultyMember ;
+    rdfs:label "Wang, Lei" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-e3bd8752-vcard> .
+
+<http://vivo.school.edu/individual/person-e4fec57c> a vivo:FacultyMember ;
+    rdfs:label "Dahl, Ronald A." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-e4fec57c-vcard> .
+
+<http://vivo.school.edu/individual/person-e6ff3828> a vivo:FacultyMember ;
+    rdfs:label "Poznan, Anthony N." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-e6ff3828-vcard> .
+
+<http://vivo.school.edu/individual/person-e7ee497b> a vivo:FacultyMember ;
+    rdfs:label "Braggs, Belinda L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-e7ee497b-vcard> .
+
+<http://vivo.school.edu/individual/person-ea52a51f> a vivo:FacultyMember ;
+    rdfs:label "Sahrana, Krishan C." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ea52a51f-vcard> .
+
+<http://vivo.school.edu/individual/person-ea775348> a vivo:FacultyMember ;
+    rdfs:label "Landy, Ryland F." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ea775348-vcard> .
+
+<http://vivo.school.edu/individual/person-ec810b24> a vivo:FacultyMember ;
+    rdfs:label "Wuo, Li-Jen" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-ec810b24-vcard> .
+
+<http://vivo.school.edu/individual/person-f17715d0> a vivo:FacultyMember ;
+    rdfs:label "Gowan, Annie L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-f17715d0-vcard> .
+
+<http://vivo.school.edu/individual/person-f1c6fff3> a vivo:FacultyMember ;
+    rdfs:label "Gartner, Gerard T." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-f1c6fff3-vcard> .
+
+<http://vivo.school.edu/individual/person-f2751f8b> a vivo:FacultyMember ;
+    rdfs:label "Nesson, Liesl S." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-f2751f8b-vcard> .
+
+<http://vivo.school.edu/individual/person-f53479a0> a vivo:FacultyMember ;
+    rdfs:label "Monroe, Lori L." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-f53479a0-vcard> .
+
+<http://vivo.school.edu/individual/person-f9f641f8> a vivo:FacultyMember ;
+    rdfs:label "Sulik, Yeran M." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-f9f641f8-vcard> .
+
+<http://vivo.school.edu/individual/person-fd023ba6> a vivo:FacultyMember ;
+    rdfs:label "Coghi, Behbood B." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-fd023ba6-vcard> .
+
+<http://vivo.school.edu/individual/person-fda04cc0> a vivo:FacultyMember ;
+    rdfs:label "Yehon, Alvin T." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-fda04cc0-vcard> .
+
+<http://vivo.school.edu/individual/person-fed03dd1> a vivo:FacultyMember ;
+    rdfs:label "Hahn, Johanna E." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-fed03dd1-vcard> .
+
+<http://vivo.school.edu/individual/person-fee0dccb> a vivo:FacultyMember ;
+    rdfs:label "Vuzella, Nancy B." ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/person-fee0dccb-vcard> .
+
+<http://vivo.school.edu/individual/person-054759c0-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-054759c0-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-054759c0-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-054759c0-vcard-title> .
+
+<http://vivo.school.edu/individual/person-054759c0-vcard-email> a vcard:Work ;
+    vcard:email "rebeccaMcGill@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-054759c0-vcard-name> a vcard:Name ;
+    vivo:middleName "E" ;
+    vcard:familyName "McGill" ;
+    vcard:givenName "Rebecca" .
+
+<http://vivo.school.edu/individual/person-054759c0-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-0a2d481f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-0a2d481f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-0a2d481f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-0a2d481f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-0a2d481f-vcard-email> a vcard:Work ;
+    vcard:email "hagenwong@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-0a2d481f-vcard-name> a vcard:Name ;
+    vcard:familyName "wong" ;
+    vcard:givenName "Hwagyun" .
+
+<http://vivo.school.edu/individual/person-0a2d481f-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-0bcb050f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-0bcb050f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-0bcb050f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-0bcb050f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-0bcb050f-vcard-email> a vcard:Work ;
+    vcard:email "g-Gurry@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-0bcb050f-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Gurry" ;
+    vcard:givenName "Guy" .
+
+<http://vivo.school.edu/individual/person-0bcb050f-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-0c7c03e3-vcard> a vcard:Individual ;
+    vcard:hasName <http://vivo.school.edu/individual/person-0c7c03e3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-0c7c03e3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-0c7c03e3-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Retner" ;
+    vcard:givenName "Gary" .
+
+<http://vivo.school.edu/individual/person-0c7c03e3-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-11e9b5be-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-11e9b5be-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-11e9b5be-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-11e9b5be-vcard-title> .
+
+<http://vivo.school.edu/individual/person-11e9b5be-vcard-email> a vcard:Work ;
+    vcard:email "jeffrey-m-b-Musner@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-11e9b5be-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Musner" ;
+    vcard:givenName "Jeffrey" .
+
+<http://vivo.school.edu/individual/person-11e9b5be-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Associate Professor" .
+
+<http://vivo.school.edu/individual/person-1333856-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-1333856-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-1333856-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-1333856-vcard-title> .
+
+<http://vivo.school.edu/individual/person-1333856-vcard-email> a vcard:Work ;
+    vcard:email "jDexter@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-1333856-vcard-name> a vcard:Name ;
+    vivo:middleName "D" ;
+    vcard:familyName "Dexter" ;
+    vcard:givenName "Jerry" .
+
+<http://vivo.school.edu/individual/person-1333856-vcard-title> a vcard:Title ;
+    vcard:title "Executive Professor" .
+
+<http://vivo.school.edu/individual/person-18fdb6b4-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-18fdb6b4-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-18fdb6b4-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-18fdb6b4-vcard-title> .
+
+<http://vivo.school.edu/individual/person-18fdb6b4-vcard-email> a vcard:Work ;
+    vcard:email "psLowess@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-18fdb6b4-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Lowess" ;
+    vcard:givenName "Patricia" .
+
+<http://vivo.school.edu/individual/person-18fdb6b4-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Professor" .
+
+<http://vivo.school.edu/individual/person-1921874d-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-1921874d-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-1921874d-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-1921874d-vcard-title> .
+
+<http://vivo.school.edu/individual/person-1921874d-vcard-email> a vcard:Work ;
+    vcard:email "Hanisg@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-1921874d-vcard-name> a vcard:Name ;
+    vivo:middleName "G" ;
+    vcard:familyName "Hani" ;
+    vcard:givenName "Salem" .
+
+<http://vivo.school.edu/individual/person-1921874d-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-194fc3c7-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-194fc3c7-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-194fc3c7-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-194fc3c7-vcard-title> .
+
+<http://vivo.school.edu/individual/person-194fc3c7-vcard-email> a vcard:Work ;
+    vcard:email "Pakostina@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-194fc3c7-vcard-name> a vcard:Name ;
+    vivo:middleName "V" ;
+    vcard:familyName "Pakostina" ;
+    vcard:givenName "Natalia" .
+
+<http://vivo.school.edu/individual/person-194fc3c7-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-1aedaf52-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-1aedaf52-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-1aedaf52-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-1aedaf52-vcard-title> .
+
+<http://vivo.school.edu/individual/person-1aedaf52-vcard-email> a vcard:Work ;
+    vcard:email "bWinston@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-1aedaf52-vcard-name> a vcard:Name ;
+    vivo:middleName "B" ;
+    vcard:familyName "Winston" ;
+    vcard:givenName "S" .
+
+<http://vivo.school.edu/individual/person-1aedaf52-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-24e3e4e2-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-24e3e4e2-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-24e3e4e2-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-24e3e4e2-vcard-title> .
+
+<http://vivo.school.edu/individual/person-24e3e4e2-vcard-email> a vcard:Work ;
+    vcard:email "woodly@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-24e3e4e2-vcard-name> a vcard:Name ;
+    vivo:middleName "D" ;
+    vcard:familyName "Woodly" ;
+    vcard:givenName "Billy" .
+
+<http://vivo.school.edu/individual/person-24e3e4e2-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-262ead89-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-262ead89-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-262ead89-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-262ead89-vcard-title> .
+
+<http://vivo.school.edu/individual/person-262ead89-vcard-email> a vcard:Work ;
+    vcard:email "Ditross@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-262ead89-vcard-name> a vcard:Name ;
+    vivo:middleName "J" ;
+    vcard:familyName "Ditross" ;
+    vcard:givenName "Joseph" .
+
+<http://vivo.school.edu/individual/person-262ead89-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-26f30b82-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-26f30b82-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-26f30b82-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-26f30b82-vcard-title> .
+
+<http://vivo.school.edu/individual/person-26f30b82-vcard-email> a vcard:Work ;
+    vcard:email "saskias@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-26f30b82-vcard-name> a vcard:Name ;
+    vcard:familyName "Szewski" ;
+    vcard:givenName "Saskia" .
+
+<http://vivo.school.edu/individual/person-26f30b82-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-274f2d27-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-274f2d27-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-274f2d27-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-274f2d27-vcard-title> .
+
+<http://vivo.school.edu/individual/person-274f2d27-vcard-email> a vcard:Work ;
+    vcard:email "kHartfield@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-274f2d27-vcard-name> a vcard:Name ;
+    vivo:middleName "K" ;
+    vcard:familyName "Hartfield" ;
+    vcard:givenName "Lloyd" .
+
+<http://vivo.school.edu/individual/person-274f2d27-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-2dec06e9-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-2dec06e9-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-2dec06e9-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-2dec06e9-vcard-title> .
+
+<http://vivo.school.edu/individual/person-2dec06e9-vcard-email> a vcard:Work ;
+    vcard:email "Sadav@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-2dec06e9-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Sadav" ;
+    vcard:givenName "Manjit" .
+
+<http://vivo.school.edu/individual/person-2dec06e9-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-332dadae-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-332dadae-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-332dadae-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-332dadae-vcard-title> .
+
+<http://vivo.school.edu/individual/person-332dadae-vcard-email> a vcard:Work ;
+    vcard:email "rSmiths@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-332dadae-vcard-name> a vcard:Name ;
+    vivo:middleName "H" ;
+    vcard:familyName "Smiths" ;
+    vcard:givenName "Randolph" .
+
+<http://vivo.school.edu/individual/person-332dadae-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Professor" .
+
+<http://vivo.school.edu/individual/person-3469d15f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-3469d15f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-3469d15f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-3469d15f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-3469d15f-vcard-email> a vcard:Work ;
+    vcard:email "kPyndap@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-3469d15f-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Pyndap" ;
+    vcard:givenName "Kathrin" .
+
+<http://vivo.school.edu/individual/person-3469d15f-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-38160486-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-38160486-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-38160486-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-38160486-vcard-title> .
+
+<http://vivo.school.edu/individual/person-38160486-vcard-email> a vcard:Work ;
+    vcard:email "wjKinley@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-38160486-vcard-name> a vcard:Name ;
+    vivo:middleName "J" ;
+    vcard:familyName "Kinley" ;
+    vcard:givenName "William" .
+
+<http://vivo.school.edu/individual/person-38160486-vcard-title> a vcard:Title ;
+    vcard:title "Senior Lecturer" .
+
+<http://vivo.school.edu/individual/person-38f0640f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-38f0640f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-38f0640f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-38f0640f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-38f0640f-vcard-email> a vcard:Work ;
+    vcard:email "brianBriggs@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-38f0640f-vcard-name> a vcard:Name ;
+    vivo:middleName "C" ;
+    vcard:familyName "Briggs" ;
+    vcard:givenName "Brian" .
+
+<http://vivo.school.edu/individual/person-38f0640f-vcard-title> a vcard:Title ;
+    vcard:title "Visiting Lecturer" .
+
+<http://vivo.school.edu/individual/person-3c8aa927-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-3c8aa927-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-3c8aa927-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-3c8aa927-vcard-title> .
+
+<http://vivo.school.edu/individual/person-3c8aa927-vcard-email> a vcard:Work ;
+    vcard:email "mohamed-t-Rahman@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-3c8aa927-vcard-name> a vcard:Name ;
+    vivo:middleName "T" ;
+    vcard:familyName "Rahman" ;
+    vcard:givenName "Mohamed" .
+
+<http://vivo.school.edu/individual/person-3c8aa927-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-4.33E+12-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-4.33E+12-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-4.33E+12-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-4.33E+12-vcard-title> .
+
+<http://vivo.school.edu/individual/person-4.33E+12-vcard-email> a vcard:Work ;
+    vcard:email "r-Wurst@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-4.33E+12-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Wurst" ;
+    vcard:givenName "Ralph" .
+
+<http://vivo.school.edu/individual/person-4.33E+12-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-40f09614-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-40f09614-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-40f09614-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-40f09614-vcard-title> .
+
+<http://vivo.school.edu/individual/person-40f09614-vcard-email> a vcard:Work ;
+    vcard:email "m-Burbanks@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-40f09614-vcard-name> a vcard:Name ;
+    vivo:middleName "D" ;
+    vcard:familyName "Burbanks" ;
+    vcard:givenName "Micky" .
+
+<http://vivo.school.edu/individual/person-40f09614-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-42be1339-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-42be1339-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-42be1339-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-42be1339-vcard-title> .
+
+<http://vivo.school.edu/individual/person-42be1339-vcard-email> a vcard:Work ;
+    vcard:email "zetinos@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-42be1339-vcard-name> a vcard:Name ;
+    vcard:familyName "Zetinos" ;
+    vcard:givenName "Zenon" .
+
+<http://vivo.school.edu/individual/person-42be1339-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-430cacbc-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-430cacbc-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-430cacbc-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-430cacbc-vcard-title> .
+
+<http://vivo.school.edu/individual/person-430cacbc-vcard-email> a vcard:Work ;
+    vcard:email "august@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-430cacbc-vcard-name> a vcard:Name ;
+    vcard:familyName "Bloomberg" ;
+    vcard:givenName "Wanda" .
+
+<http://vivo.school.edu/individual/person-430cacbc-vcard-title> a vcard:Title ;
+    vcard:title "Adjunct Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-4326eaa3-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-4326eaa3-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-4326eaa3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-4326eaa3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-4326eaa3-vcard-email> a vcard:Work ;
+    vcard:email "lShmidth@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-4326eaa3-vcard-name> a vcard:Name ;
+    vivo:middleName "C" ;
+    vcard:familyName "Shmidth" ;
+    vcard:givenName "Loren" .
+
+<http://vivo.school.edu/individual/person-4326eaa3-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-4663e6b4-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-4663e6b4-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-4663e6b4-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-4663e6b4-vcard-title> .
+
+<http://vivo.school.edu/individual/person-4663e6b4-vcard-email> a vcard:Work ;
+    vcard:email "le.Wu@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-4663e6b4-vcard-name> a vcard:Name ;
+    vcard:familyName "Wu" ;
+    vcard:givenName "Le" .
+
+<http://vivo.school.edu/individual/person-4663e6b4-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-48d141da-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-48d141da-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-48d141da-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-48d141da-vcard-title> .
+
+<http://vivo.school.edu/individual/person-48d141da-vcard-email> a vcard:Work ;
+    vcard:email "g-Pappadopulos@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-48d141da-vcard-name> a vcard:Name ;
+    vivo:middleName "F" ;
+    vcard:familyName "Pappadopulos" ;
+    vcard:givenName "Gregory" .
+
+<http://vivo.school.edu/individual/person-48d141da-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-4ff5edcb-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-4ff5edcb-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-4ff5edcb-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-4ff5edcb-vcard-title> .
+
+<http://vivo.school.edu/individual/person-4ff5edcb-vcard-email> a vcard:Work ;
+    vcard:email "jwoodey@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-4ff5edcb-vcard-name> a vcard:Name ;
+    vivo:middleName "R" ;
+    vcard:familyName "Woodey" ;
+    vcard:givenName "Joanna" .
+
+<http://vivo.school.edu/individual/person-4ff5edcb-vcard-title> a vcard:Title ;
+    vcard:title "Senior Lecturer" .
+
+<http://vivo.school.edu/individual/person-54317d5b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-54317d5b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-54317d5b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-54317d5b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-54317d5b-vcard-email> a vcard:Work ;
+    vcard:email "garyBrison@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-54317d5b-vcard-name> a vcard:Name ;
+    vivo:middleName "T" ;
+    vcard:familyName "Brison" ;
+    vcard:givenName "Gary" .
+
+<http://vivo.school.edu/individual/person-54317d5b-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-543231b1-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-543231b1-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-543231b1-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-543231b1-vcard-title> .
+
+<http://vivo.school.edu/individual/person-543231b1-vcard-email> a vcard:Work ;
+    vcard:email "andreas-Necker@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-543231b1-vcard-name> a vcard:Name ;
+    vcard:familyName "Necker" ;
+    vcard:givenName "Andreas" .
+
+<http://vivo.school.edu/individual/person-543231b1-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-5677ce1c-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-5677ce1c-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-5677ce1c-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-5677ce1c-vcard-title> .
+
+<http://vivo.school.edu/individual/person-5677ce1c-vcard-email> a vcard:Work ;
+    vcard:email "Mepal@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-5677ce1c-vcard-name> a vcard:Name ;
+    vivo:middleName "P" ;
+    vcard:familyName "Mepal" ;
+    vcard:givenName "Bimal" .
+
+<http://vivo.school.edu/individual/person-5677ce1c-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-5c2cef0e-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-5c2cef0e-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-5c2cef0e-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-5c2cef0e-vcard-title> .
+
+<http://vivo.school.edu/individual/person-5c2cef0e-vcard-email> a vcard:Work ;
+    vcard:email "t_Vay@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-5c2cef0e-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Vay" ;
+    vcard:givenName "Matilda" .
+
+<http://vivo.school.edu/individual/person-5c2cef0e-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-5cebea29-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-5cebea29-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-5cebea29-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-5cebea29-vcard-title> .
+
+<http://vivo.school.edu/individual/person-5cebea29-vcard-email> a vcard:Work ;
+    vcard:email "a-Thomsson@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-5cebea29-vcard-name> a vcard:Name ;
+    vivo:middleName "V" ;
+    vcard:familyName "Thomsson" ;
+    vcard:givenName "Alston" .
+
+<http://vivo.school.edu/individual/person-5cebea29-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-5e728236-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-5e728236-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-5e728236-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-5e728236-vcard-title> .
+
+<http://vivo.school.edu/individual/person-5e728236-vcard-email> a vcard:Work ;
+    vcard:email "gupta@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-5e728236-vcard-name> a vcard:Name ;
+    vcard:familyName "Gupta" ;
+    vcard:givenName "Akhil" .
+
+<http://vivo.school.edu/individual/person-5e728236-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-613870d1-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-613870d1-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-613870d1-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-613870d1-vcard-title> .
+
+<http://vivo.school.edu/individual/person-613870d1-vcard-email> a vcard:Work ;
+    vcard:email "kRoberts@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-613870d1-vcard-name> a vcard:Name ;
+    vivo:middleName "J" ;
+    vcard:familyName "Roberts" ;
+    vcard:givenName "Kathryn" .
+
+<http://vivo.school.edu/individual/person-613870d1-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-6340ff0a-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-6340ff0a-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-6340ff0a-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-6340ff0a-vcard-title> .
+
+<http://vivo.school.edu/individual/person-6340ff0a-vcard-email> a vcard:Work ;
+    vcard:email "herthy@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-6340ff0a-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Herthy" ;
+    vcard:givenName "Bharathi" .
+
+<http://vivo.school.edu/individual/person-6340ff0a-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-6dd3957c-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-6dd3957c-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-6dd3957c-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-6dd3957c-vcard-title> .
+
+<http://vivo.school.edu/individual/person-6dd3957c-vcard-email> a vcard:Work ;
+    vcard:email "jm-Micholssen@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-6dd3957c-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Micholssen" ;
+    vcard:givenName "John" .
+
+<http://vivo.school.edu/individual/person-6dd3957c-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-6df86023-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-6df86023-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-6df86023-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-6df86023-vcard-title> .
+
+<http://vivo.school.edu/individual/person-6df86023-vcard-email> a vcard:Work ;
+    vcard:email "tanya.Pane@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-6df86023-vcard-name> a vcard:Name ;
+    vcard:familyName "Pane" ;
+    vcard:givenName "Tanya" .
+
+<http://vivo.school.edu/individual/person-6df86023-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-6ebab0fa-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-6ebab0fa-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-6ebab0fa-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-6ebab0fa-vcard-title> .
+
+<http://vivo.school.edu/individual/person-6ebab0fa-vcard-email> a vcard:Work ;
+    vcard:email "bill-Samac@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-6ebab0fa-vcard-name> a vcard:Name ;
+    vcard:familyName "Samac" ;
+    vcard:givenName "Bill" .
+
+<http://vivo.school.edu/individual/person-6ebab0fa-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-6edf97c6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-6edf97c6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-6edf97c6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-6edf97c6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-6edf97c6-vcard-email> a vcard:Work ;
+    vcard:email "jmWarren@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-6edf97c6-vcard-name> a vcard:Name ;
+    vcard:familyName "Warren" ;
+    vcard:givenName "Jonathan" .
+
+<http://vivo.school.edu/individual/person-6edf97c6-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-786fc0f3-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-786fc0f3-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-786fc0f3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-786fc0f3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-786fc0f3-vcard-email> a vcard:Work ;
+    vcard:email "carmenj@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-786fc0f3-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Juarez" ;
+    vcard:givenName "Carmen" .
+
+<http://vivo.school.edu/individual/person-786fc0f3-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-7a7aa175-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-7a7aa175-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-7a7aa175-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-7a7aa175-vcard-title> .
+
+<http://vivo.school.edu/individual/person-7a7aa175-vcard-email> a vcard:Work ;
+    vcard:email "kmMonroe@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-7a7aa175-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Monroe" ;
+    vcard:givenName "Kevin" .
+
+<http://vivo.school.edu/individual/person-7a7aa175-vcard-title> a vcard:Title ;
+    vcard:title "Executive Professor" .
+
+<http://vivo.school.edu/individual/person-7f4e9eb4-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-7f4e9eb4-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-7f4e9eb4-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-7f4e9eb4-vcard-title> .
+
+<http://vivo.school.edu/individual/person-7f4e9eb4-vcard-email> a vcard:Work ;
+    vcard:email "bobStagner@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-7f4e9eb4-vcard-name> a vcard:Name ;
+    vivo:middleName "O" ;
+    vcard:familyName "Stagner" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-7f4e9eb4-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-7f8372f3-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-7f8372f3-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-7f8372f3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-7f8372f3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-7f8372f3-vcard-email> a vcard:Work ;
+    vcard:email "Groass@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-7f8372f3-vcard-name> a vcard:Name ;
+    vivo:middleName "P" ;
+    vcard:familyName "Groass" ;
+    vcard:givenName "Harold" .
+
+<http://vivo.school.edu/individual/person-7f8372f3-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-8.57E+08-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-8.57E+08-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-8.57E+08-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-8.57E+08-vcard-title> .
+
+<http://vivo.school.edu/individual/person-8.57E+08-vcard-email> a vcard:Work ;
+    vcard:email "gwMonroe@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-8.57E+08-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Monroe" ;
+    vcard:givenName "Georgianne" .
+
+<http://vivo.school.edu/individual/person-8.57E+08-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-8422a439-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-8422a439-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-8422a439-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-8422a439-vcard-title> .
+
+<http://vivo.school.edu/individual/person-8422a439-vcard-email> a vcard:Work ;
+    vcard:email "jeTado@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-8422a439-vcard-name> a vcard:Name ;
+    vivo:middleName "E" ;
+    vcard:familyName "Tado" ;
+    vcard:givenName "John" .
+
+<http://vivo.school.edu/individual/person-8422a439-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-84ce7aef-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-84ce7aef-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-84ce7aef-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-84ce7aef-vcard-title> .
+
+<http://vivo.school.edu/individual/person-84ce7aef-vcard-email> a vcard:Work ;
+    vcard:email "cGarsson@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-84ce7aef-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Garsson" ;
+    vcard:givenName "Charles" .
+
+<http://vivo.school.edu/individual/person-84ce7aef-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-8775e8bc-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-8775e8bc-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-8775e8bc-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-8775e8bc-vcard-title> .
+
+<http://vivo.school.edu/individual/person-8775e8bc-vcard-email> a vcard:Work ;
+    vcard:email "brunoh@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-8775e8bc-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Brunoh" ;
+    vcard:givenName "Linda" .
+
+<http://vivo.school.edu/individual/person-8775e8bc-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-883c4cb7-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-883c4cb7-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-883c4cb7-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-883c4cb7-vcard-title> .
+
+<http://vivo.school.edu/individual/person-883c4cb7-vcard-email> a vcard:Work ;
+    vcard:email "Rammstein@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-883c4cb7-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Rammstein" ;
+    vcard:givenName "Heather" .
+
+<http://vivo.school.edu/individual/person-883c4cb7-vcard-title> a vcard:Title ;
+    vcard:title "Senior Lecturer" .
+
+<http://vivo.school.edu/individual/person-8bf8898a-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-8bf8898a-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-8bf8898a-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-8bf8898a-vcard-title> .
+
+<http://vivo.school.edu/individual/person-8bf8898a-vcard-email> a vcard:Work ;
+    vcard:email "robin-m-Reiner@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-8bf8898a-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Reiner" ;
+    vcard:givenName "Robin" .
+
+<http://vivo.school.edu/individual/person-8bf8898a-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-8da37bea-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-8da37bea-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-8da37bea-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-8da37bea-vcard-title> .
+
+<http://vivo.school.edu/individual/person-8da37bea-vcard-email> a vcard:Work ;
+    vcard:email "aYuang@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-8da37bea-vcard-name> a vcard:Name ;
+    vcard:familyName "Yuang" ;
+    vcard:givenName "Anxiao" .
+
+<http://vivo.school.edu/individual/person-8da37bea-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-90e6f6c0-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-90e6f6c0-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-90e6f6c0-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-90e6f6c0-vcard-title> .
+
+<http://vivo.school.edu/individual/person-90e6f6c0-vcard-email> a vcard:Work ;
+    vcard:email "wHarter@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-90e6f6c0-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Harter" ;
+    vcard:givenName "Weston" .
+
+<http://vivo.school.edu/individual/person-90e6f6c0-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-939f7165-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-939f7165-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-939f7165-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-939f7165-vcard-title> .
+
+<http://vivo.school.edu/individual/person-939f7165-vcard-email> a vcard:Work ;
+    vcard:email "julioBertol@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-939f7165-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Bertol" ;
+    vcard:givenName "Julio" .
+
+<http://vivo.school.edu/individual/person-939f7165-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-96285042-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-96285042-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-96285042-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-96285042-vcard-title> .
+
+<http://vivo.school.edu/individual/person-96285042-vcard-email> a vcard:Work ;
+    vcard:email "Szewski@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-96285042-vcard-name> a vcard:Name ;
+    vivo:middleName "D" ;
+    vcard:familyName "Szewski" ;
+    vcard:givenName "Thomas" .
+
+<http://vivo.school.edu/individual/person-96285042-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-97af54fb-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-97af54fb-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-97af54fb-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-97af54fb-vcard-title> .
+
+<http://vivo.school.edu/individual/person-97af54fb-vcard-email> a vcard:Work ;
+    vcard:email "dha@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-97af54fb-vcard-name> a vcard:Name ;
+    vivo:middleName "T" ;
+    vcard:familyName "Hauer" ;
+    vcard:givenName "Dustin" .
+
+<http://vivo.school.edu/individual/person-97af54fb-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-980e771d-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-980e771d-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-980e771d-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-980e771d-vcard-title> .
+
+<http://vivo.school.edu/individual/person-980e771d-vcard-email> a vcard:Work ;
+    vcard:email "jasenMaldonado@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-980e771d-vcard-name> a vcard:Name ;
+    vivo:middleName "J" ;
+    vcard:familyName "Maldonado" ;
+    vcard:givenName "Jasen" .
+
+<http://vivo.school.edu/individual/person-980e771d-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-9a25a80b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9a25a80b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9a25a80b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9a25a80b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9a25a80b-vcard-email> a vcard:Work ;
+    vcard:email "Ryak@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9a25a80b-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Ryak" ;
+    vcard:givenName "Larry" .
+
+<http://vivo.school.edu/individual/person-9a25a80b-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-9c4dca0b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9c4dca0b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9c4dca0b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9c4dca0b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9c4dca0b-vcard-email> a vcard:Work ;
+    vcard:email "aCarpou@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9c4dca0b-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Carpou" ;
+    vcard:givenName "Andreas" .
+
+<http://vivo.school.edu/individual/person-9c4dca0b-vcard-title> a vcard:Title ;
+    vcard:title "Professor and Head" .
+
+<http://vivo.school.edu/individual/person-9c75f491-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9c75f491-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9c75f491-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9c75f491-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9c75f491-vcard-email> a vcard:Work ;
+    vcard:email "p-Strauss@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9c75f491-vcard-name> a vcard:Name ;
+    vivo:middleName "F" ;
+    vcard:familyName "Strauss" ;
+    vcard:givenName "Peter" .
+
+<http://vivo.school.edu/individual/person-9c75f491-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-9d92ca8b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9d92ca8b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9d92ca8b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9d92ca8b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9d92ca8b-vcard-email> a vcard:Work ;
+    vcard:email "serry@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9d92ca8b-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Serry" ;
+    vcard:givenName "Amie" .
+
+<http://vivo.school.edu/individual/person-9d92ca8b-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Lecturer" .
+
+<http://vivo.school.edu/individual/person-9ed36091-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9ed36091-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9ed36091-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9ed36091-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9ed36091-vcard-email> a vcard:Work ;
+    vcard:email "cNissen@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9ed36091-vcard-name> a vcard:Name ;
+    vivo:middleName "V" ;
+    vcard:familyName "Nissen" ;
+    vcard:givenName "Colleen" .
+
+<http://vivo.school.edu/individual/person-9ed36091-vcard-title> a vcard:Title ;
+    vcard:title "Veterinary Intern Instructor" .
+
+<http://vivo.school.edu/individual/person-9ed54600-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-9ed54600-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-9ed54600-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-9ed54600-vcard-title> .
+
+<http://vivo.school.edu/individual/person-9ed54600-vcard-email> a vcard:Work ;
+    vcard:email "m-Posnik@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-9ed54600-vcard-name> a vcard:Name ;
+    vivo:middleName "P" ;
+    vcard:familyName "Posnik" ;
+    vcard:givenName "Michael" .
+
+<http://vivo.school.edu/individual/person-9ed54600-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-a90924e6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-a90924e6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-a90924e6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-a90924e6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-a90924e6-vcard-email> a vcard:Work ;
+    vcard:email "pyang@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-a90924e6-vcard-name> a vcard:Name ;
+    vcard:familyName "Pyang" ;
+    vcard:givenName "Ping" .
+
+<http://vivo.school.edu/individual/person-a90924e6-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-a96b562e-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-a96b562e-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-a96b562e-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-a96b562e-vcard-title> .
+
+<http://vivo.school.edu/individual/person-a96b562e-vcard-email> a vcard:Work ;
+    vcard:email "tony-Bourgess@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-a96b562e-vcard-name> a vcard:Name ;
+    vcard:familyName "Bourgess" ;
+    vcard:givenName "Anthony" .
+
+<http://vivo.school.edu/individual/person-a96b562e-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-b20fdbd9-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-b20fdbd9-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-b20fdbd9-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-b20fdbd9-vcard-title> .
+
+<http://vivo.school.edu/individual/person-b20fdbd9-vcard-email> a vcard:Work ;
+    vcard:email "s-Sane@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-b20fdbd9-vcard-name> a vcard:Name ;
+    vivo:middleName "H" ;
+    vcard:familyName "Sane" ;
+    vcard:givenName "Stephen" .
+
+<http://vivo.school.edu/individual/person-b20fdbd9-vcard-title> a vcard:Title ;
+    vcard:title "Distinguished Professor" .
+
+<http://vivo.school.edu/individual/person-b2c12cd3-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-b2c12cd3-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-b2c12cd3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-b2c12cd3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-b2c12cd3-vcard-email> a vcard:Work ;
+    vcard:email "shaganBirkke@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-b2c12cd3-vcard-name> a vcard:Name ;
+    vivo:middleName "H" ;
+    vcard:familyName "Birkke" ;
+    vcard:givenName "Shanna" .
+
+<http://vivo.school.edu/individual/person-b2c12cd3-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-b6f25071-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-b6f25071-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-b6f25071-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-b6f25071-vcard-title> .
+
+<http://vivo.school.edu/individual/person-b6f25071-vcard-email> a vcard:Work ;
+    vcard:email "sBach@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-b6f25071-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Bach" ;
+    vcard:givenName "Susan" .
+
+<http://vivo.school.edu/individual/person-b6f25071-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Associate Professor" .
+
+<http://vivo.school.edu/individual/person-b888266f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-b888266f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-b888266f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-b888266f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-b888266f-vcard-email> a vcard:Work ;
+    vcard:email "r-McGregor@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-b888266f-vcard-name> a vcard:Name ;
+    vivo:middleName "B" ;
+    vcard:familyName "McGregor" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-b888266f-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-b9098a8e-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-b9098a8e-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-b9098a8e-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-b9098a8e-vcard-title> .
+
+<http://vivo.school.edu/individual/person-b9098a8e-vcard-email> a vcard:Work ;
+    vcard:email "s.Losh@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-b9098a8e-vcard-name> a vcard:Name ;
+    vivo:middleName "B" ;
+    vcard:familyName "Losh" ;
+    vcard:givenName "Stephen" .
+
+<http://vivo.school.edu/individual/person-b9098a8e-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-bca92840-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-bca92840-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-bca92840-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-bca92840-vcard-title> .
+
+<http://vivo.school.edu/individual/person-bca92840-vcard-email> a vcard:Work ;
+    vcard:email "kyer@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-bca92840-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Kyer" ;
+    vcard:givenName "Ellisa" .
+
+<http://vivo.school.edu/individual/person-bca92840-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-bd6831b8-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-bd6831b8-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-bd6831b8-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-bd6831b8-vcard-title> .
+
+<http://vivo.school.edu/individual/person-bd6831b8-vcard-email> a vcard:Work ;
+    vcard:email "yTimoshenko@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-bd6831b8-vcard-name> a vcard:Name ;
+    vcard:familyName "Timoshenko" ;
+    vcard:givenName "Yaroslav" .
+
+<http://vivo.school.edu/individual/person-bd6831b8-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-bf813378-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-bf813378-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-bf813378-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-bf813378-vcard-title> .
+
+<http://vivo.school.edu/individual/person-bf813378-vcard-email> a vcard:Work ;
+    vcard:email "jamesdAbbott@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-bf813378-vcard-name> a vcard:Name ;
+    vivo:middleName "D" ;
+    vcard:familyName "Abbott" ;
+    vcard:givenName "James" .
+
+<http://vivo.school.edu/individual/person-bf813378-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-bf942ec6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-bf942ec6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-bf942ec6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-bf942ec6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-bf942ec6-vcard-email> a vcard:Work ;
+    vcard:email "kevinKrisci@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-bf942ec6-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Krisci" ;
+    vcard:givenName "Kevin" .
+
+<http://vivo.school.edu/individual/person-bf942ec6-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-c0f341af-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-c0f341af-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-c0f341af-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-c0f341af-vcard-title> .
+
+<http://vivo.school.edu/individual/person-c0f341af-vcard-email> a vcard:Work ;
+    vcard:email "rChaparo@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-c0f341af-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Chaparo" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-c0f341af-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-c500baf1-vcard> a vcard:Individual ;
+    vcard:hasName <http://vivo.school.edu/individual/person-c500baf1-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-c500baf1-vcard-title> .
+
+<http://vivo.school.edu/individual/person-c500baf1-vcard-name> a vcard:Name ;
+    vivo:middleName "P" ;
+    vcard:familyName "Grass" ;
+    vcard:givenName "Kati" .
+
+<http://vivo.school.edu/individual/person-c500baf1-vcard-title> a vcard:Title ;
+    vcard:title "Veterinary Resident Instructor" .
+
+<http://vivo.school.edu/individual/person-c7f9a04d-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-c7f9a04d-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-c7f9a04d-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-c7f9a04d-vcard-title> .
+
+<http://vivo.school.edu/individual/person-c7f9a04d-vcard-email> a vcard:Work ;
+    vcard:email "apederss@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-c7f9a04d-vcard-name> a vcard:Name ;
+    vivo:middleName "P" ;
+    vcard:familyName "Pederssen" ;
+    vcard:givenName "Adam" .
+
+<http://vivo.school.edu/individual/person-c7f9a04d-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-c81ef444-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-c81ef444-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-c81ef444-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-c81ef444-vcard-title> .
+
+<http://vivo.school.edu/individual/person-c81ef444-vcard-email> a vcard:Work ;
+    vcard:email "mindyGergman@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-c81ef444-vcard-name> a vcard:Name ;
+    vivo:middleName "E" ;
+    vcard:familyName "Gergman" ;
+    vcard:givenName "Mindy" .
+
+<http://vivo.school.edu/individual/person-c81ef444-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-ca139916-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ca139916-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ca139916-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ca139916-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ca139916-vcard-email> a vcard:Work ;
+    vcard:email "r-Tenrieth@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ca139916-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Tenrieth" ;
+    vcard:givenName "Robin" .
+
+<http://vivo.school.edu/individual/person-ca139916-vcard-title> a vcard:Title ;
+    vcard:title "Professor and Interim Head" .
+
+<http://vivo.school.edu/individual/person-ca61ede1-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ca61ede1-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ca61ede1-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ca61ede1-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ca61ede1-vcard-email> a vcard:Work ;
+    vcard:email "tjBrandon@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ca61ede1-vcard-name> a vcard:Name ;
+    vivo:middleName "J" ;
+    vcard:familyName "Brandon" ;
+    vcard:givenName "Timothy" .
+
+<http://vivo.school.edu/individual/person-ca61ede1-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-cc1476d6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-cc1476d6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-cc1476d6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-cc1476d6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-cc1476d6-vcard-email> a vcard:Work ;
+    vcard:email "d-Bilbaos@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-cc1476d6-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Bilbaos" ;
+    vcard:givenName "David" .
+
+<http://vivo.school.edu/individual/person-cc1476d6-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-ce238e6e-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ce238e6e-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ce238e6e-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ce238e6e-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ce238e6e-vcard-email> a vcard:Work ;
+    vcard:email "Muchkin@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ce238e6e-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Muchkin" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-ce238e6e-vcard-title> a vcard:Title ;
+    vcard:title "Instructional Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-d138d94a-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-d138d94a-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-d138d94a-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-d138d94a-vcard-title> .
+
+<http://vivo.school.edu/individual/person-d138d94a-vcard-email> a vcard:Work ;
+    vcard:email "Horty@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-d138d94a-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Horty" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-d138d94a-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-d2caf464-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-d2caf464-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-d2caf464-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-d2caf464-vcard-title> .
+
+<http://vivo.school.edu/individual/person-d2caf464-vcard-email> a vcard:Work ;
+    vcard:email "j-Preston@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-d2caf464-vcard-name> a vcard:Name ;
+    vivo:middleName "W" ;
+    vcard:familyName "Preston" ;
+    vcard:givenName "John" .
+
+<http://vivo.school.edu/individual/person-d2caf464-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-d40b0c98-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-d40b0c98-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-d40b0c98-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-d40b0c98-vcard-title> .
+
+<http://vivo.school.edu/individual/person-d40b0c98-vcard-email> a vcard:Work ;
+    vcard:email "lMartin@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-d40b0c98-vcard-name> a vcard:Name ;
+    vivo:middleName "R" ;
+    vcard:familyName "Martin" ;
+    vcard:givenName "Lanny" .
+
+<http://vivo.school.edu/individual/person-d40b0c98-vcard-title> a vcard:Title ;
+    vcard:title "Senior Lecturer" .
+
+<http://vivo.school.edu/individual/person-d522fec6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-d522fec6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-d522fec6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-d522fec6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-d522fec6-vcard-email> a vcard:Work ;
+    vcard:email "sAtckins@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-d522fec6-vcard-name> a vcard:Name ;
+    vivo:middleName "R" ;
+    vcard:familyName "Atckins" ;
+    vcard:givenName "Stephen" .
+
+<http://vivo.school.edu/individual/person-d522fec6-vcard-title> a vcard:Title ;
+    vcard:title "Professor and Associate Dean" .
+
+<http://vivo.school.edu/individual/person-d6f8c320-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-d6f8c320-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-d6f8c320-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-d6f8c320-vcard-title> .
+
+<http://vivo.school.edu/individual/person-d6f8c320-vcard-email> a vcard:Work ;
+    vcard:email "mJackson@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-d6f8c320-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Jackson" ;
+    vcard:givenName "Michael" .
+
+<http://vivo.school.edu/individual/person-d6f8c320-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-dd8077e2-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-dd8077e2-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-dd8077e2-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-dd8077e2-vcard-title> .
+
+<http://vivo.school.edu/individual/person-dd8077e2-vcard-email> a vcard:Work ;
+    vcard:email "r-Booner@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-dd8077e2-vcard-name> a vcard:Name ;
+    vivo:middleName "E" ;
+    vcard:familyName "Booner" ;
+    vcard:givenName "Robert" .
+
+<http://vivo.school.edu/individual/person-dd8077e2-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-de1f2aed-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-de1f2aed-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-de1f2aed-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-de1f2aed-vcard-title> .
+
+<http://vivo.school.edu/individual/person-de1f2aed-vcard-email> a vcard:Work ;
+    vcard:email "trobert@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-de1f2aed-vcard-name> a vcard:Name ;
+    vcard:familyName "Roberts" ;
+    vcard:givenName "Tatyana" .
+
+<http://vivo.school.edu/individual/person-de1f2aed-vcard-title> a vcard:Title ;
+    vcard:title "Clinical Associate Professor" .
+
+<http://vivo.school.edu/individual/person-e3bd8752-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-e3bd8752-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-e3bd8752-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-e3bd8752-vcard-title> .
+
+<http://vivo.school.edu/individual/person-e3bd8752-vcard-email> a vcard:Work ;
+    vcard:email "Wang@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-e3bd8752-vcard-name> a vcard:Name ;
+    vcard:familyName "Wang" ;
+    vcard:givenName "Lei" .
+
+<http://vivo.school.edu/individual/person-e3bd8752-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-e4fec57c-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-e4fec57c-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-e4fec57c-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-e4fec57c-vcard-title> .
+
+<http://vivo.school.edu/individual/person-e4fec57c-vcard-email> a vcard:Work ;
+    vcard:email "rDahl@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-e4fec57c-vcard-name> a vcard:Name ;
+    vivo:middleName "A" ;
+    vcard:familyName "Dahl" ;
+    vcard:givenName "Ronald" .
+
+<http://vivo.school.edu/individual/person-e4fec57c-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-e6ff3828-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-e6ff3828-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-e6ff3828-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-e6ff3828-vcard-title> .
+
+<http://vivo.school.edu/individual/person-e6ff3828-vcard-email> a vcard:Work ;
+    vcard:email "a-Poznan@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-e6ff3828-vcard-name> a vcard:Name ;
+    vivo:middleName "N" ;
+    vcard:familyName "Poznan" ;
+    vcard:givenName "Anthony" .
+
+<http://vivo.school.edu/individual/person-e6ff3828-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-e7ee497b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-e7ee497b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-e7ee497b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-e7ee497b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-e7ee497b-vcard-email> a vcard:Work ;
+    vcard:email "belindaBraggs@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-e7ee497b-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Braggs" ;
+    vcard:givenName "Belinda" .
+
+<http://vivo.school.edu/individual/person-e7ee497b-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-ea52a51f-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ea52a51f-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ea52a51f-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ea52a51f-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ea52a51f-vcard-email> a vcard:Work ;
+    vcard:email "Sahrana20@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ea52a51f-vcard-name> a vcard:Name ;
+    vivo:middleName "C" ;
+    vcard:familyName "Sahrana" ;
+    vcard:givenName "Krishan" .
+
+<http://vivo.school.edu/individual/person-ea52a51f-vcard-title> a vcard:Title ;
+    vcard:title "Visiting Associate Professor" .
+
+<http://vivo.school.edu/individual/person-ea775348-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ea775348-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ea775348-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ea775348-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ea775348-vcard-email> a vcard:Work ;
+    vcard:email "landy@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ea775348-vcard-name> a vcard:Name ;
+    vivo:middleName "F" ;
+    vcard:familyName "Landy" ;
+    vcard:givenName "Ryland" .
+
+<http://vivo.school.edu/individual/person-ea775348-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-ec810b24-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-ec810b24-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-ec810b24-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-ec810b24-vcard-title> .
+
+<http://vivo.school.edu/individual/person-ec810b24-vcard-email> a vcard:Work ;
+    vcard:email "lijenWuo@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-ec810b24-vcard-name> a vcard:Name ;
+    vcard:familyName "Wuo" ;
+    vcard:givenName "Li-Jen" .
+
+<http://vivo.school.edu/individual/person-ec810b24-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-f17715d0-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-f17715d0-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-f17715d0-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-f17715d0-vcard-title> .
+
+<http://vivo.school.edu/individual/person-f17715d0-vcard-email> a vcard:Work ;
+    vcard:email "al-Gowan@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-f17715d0-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Gowan" ;
+    vcard:givenName "Annie" .
+
+<http://vivo.school.edu/individual/person-f17715d0-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-f1c6fff3-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-f1c6fff3-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-f1c6fff3-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-f1c6fff3-vcard-title> .
+
+<http://vivo.school.edu/individual/person-f1c6fff3-vcard-email> a vcard:Work ;
+    vcard:email "gGartner@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-f1c6fff3-vcard-name> a vcard:Name ;
+    vivo:middleName "T" ;
+    vcard:familyName "Gartner" ;
+    vcard:givenName "Gerard" .
+
+<http://vivo.school.edu/individual/person-f1c6fff3-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-f2751f8b-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-f2751f8b-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-f2751f8b-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-f2751f8b-vcard-title> .
+
+<http://vivo.school.edu/individual/person-f2751f8b-vcard-email> a vcard:Work ;
+    vcard:email "nessoli@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-f2751f8b-vcard-name> a vcard:Name ;
+    vivo:middleName "S" ;
+    vcard:familyName "Nesson" ;
+    vcard:givenName "Liesl" .
+
+<http://vivo.school.edu/individual/person-f2751f8b-vcard-title> a vcard:Title ;
+    vcard:title "Senior Lecturer" .
+
+<http://vivo.school.edu/individual/person-f53479a0-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-f53479a0-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-f53479a0-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-f53479a0-vcard-title> .
+
+<http://vivo.school.edu/individual/person-f53479a0-vcard-email> a vcard:Work ;
+    vcard:email "llMonroe@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-f53479a0-vcard-name> a vcard:Name ;
+    vivo:middleName "L" ;
+    vcard:familyName "Monroe" ;
+    vcard:givenName "Lori" .
+
+<http://vivo.school.edu/individual/person-f53479a0-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-f9f641f8-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-f9f641f8-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-f9f641f8-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-f9f641f8-vcard-title> .
+
+<http://vivo.school.edu/individual/person-f9f641f8-vcard-email> a vcard:Work ;
+    vcard:email "yeran.Sulik@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-f9f641f8-vcard-name> a vcard:Name ;
+    vivo:middleName "M" ;
+    vcard:familyName "Sulik" ;
+    vcard:givenName "Yeran" .
+
+<http://vivo.school.edu/individual/person-f9f641f8-vcard-title> a vcard:Title ;
+    vcard:title "Lecturer" .
+
+<http://vivo.school.edu/individual/person-fd023ba6-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-fd023ba6-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-fd023ba6-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-fd023ba6-vcard-title> .
+
+<http://vivo.school.edu/individual/person-fd023ba6-vcard-email> a vcard:Work ;
+    vcard:email "Coghi@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-fd023ba6-vcard-name> a vcard:Name ;
+    vivo:middleName "B" ;
+    vcard:familyName "Coghi" ;
+    vcard:givenName "Behbood" .
+
+<http://vivo.school.edu/individual/person-fd023ba6-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/person-fda04cc0-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-fda04cc0-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-fda04cc0-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-fda04cc0-vcard-title> .
+
+<http://vivo.school.edu/individual/person-fda04cc0-vcard-email> a vcard:Work ;
+    vcard:email "aYehon@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-fda04cc0-vcard-name> a vcard:Name ;
+    vivo:middleName "T" ;
+    vcard:familyName "Yehon" ;
+    vcard:givenName "Alvin" .
+
+<http://vivo.school.edu/individual/person-fda04cc0-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+
+<http://vivo.school.edu/individual/person-fed03dd1-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-fed03dd1-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-fed03dd1-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-fed03dd1-vcard-title> .
+
+<http://vivo.school.edu/individual/person-fed03dd1-vcard-email> a vcard:Work ;
+    vcard:email "johannaha@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-fed03dd1-vcard-name> a vcard:Name ;
+    vivo:middleName "E" ;
+    vcard:familyName "Hahn" ;
+    vcard:givenName "Johanna" .
+
+<http://vivo.school.edu/individual/person-fed03dd1-vcard-title> a vcard:Title ;
+    vcard:title "Instructional Assistant Professor" .
+
+<http://vivo.school.edu/individual/person-fee0dccb-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/person-fee0dccb-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/person-fee0dccb-vcard-name> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/person-fee0dccb-vcard-title> .
+
+<http://vivo.school.edu/individual/person-fee0dccb-vcard-email> a vcard:Work ;
+    vcard:email "vuzella@tamu.edu" .
+
+<http://vivo.school.edu/individual/person-fee0dccb-vcard-name> a vcard:Name ;
+    vivo:middleName "B" ;
+    vcard:familyName "Vuzella" ;
+    vcard:givenName "Nancy" .
+
+<http://vivo.school.edu/individual/person-fee0dccb-vcard-title> a vcard:Title ;
+    vcard:title "Associate Professor" .
+

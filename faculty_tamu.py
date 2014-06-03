@@ -1,5 +1,5 @@
 """
-Load the people.csv file as VIVO Faculty Members.
+Load the people_tamu.csv file as VIVO Faculty Members.
 
 See VCard usage:
 https://wiki.duraspace.org/display/VIVO/VCard+usage+diagram
@@ -16,7 +16,8 @@ logging.basicConfig(level=logging.INFO)
 from rdflib import Graph
 from utils import ns_mgr
 
-ns = "http://vivo.brown.edu/individual/"
+#Data namespace
+ns = "http://vivo.school.edu/individual/"
 
 faculty_ctx = {
     "@context": {
@@ -132,38 +133,30 @@ with open(sys.argv[1]) as infile:
             e.update(faculty_ctx)
             fac.append(e)
 
-
-
         f.update(faculty_ctx)
         fac.append(f)
-
-        #if count > 5:
-        #    break
-
-
-#print json.dumps(fac, indent=2)
 
 raw_jld = json.dumps(fac)
 g = Graph().parse(data=raw_jld, format='json-ld')
 g.namespace_manager = ns_mgr
 print g.serialize(format='n3')
 
-from utils import VUpdate
-vs = VUpdate()
+# from utils import VUpdate
+# vs = VUpdate()
 
-try:
-    ar = sys.argv[2]
-except IndexError:
-    print>>sys.stderr, "nothing added/removed"
-    sys.exit()
+# try:
+#     ar = sys.argv[2]
+# except IndexError:
+#     print>>sys.stderr, "nothing added/removed"
+#     sys.exit()
 
-if ar == 'add':
-    vs.add(g)
-elif ar == 'remove':
-    vs.remove(g)
-else:
-    raise Exception("Invalid arg.  Add remove only.")
+# if ar == 'add':
+#     vs.add(g)
+# elif ar == 'remove':
+#     vs.remove(g)
+# else:
+#     raise Exception("Invalid arg.  Add remove only.")
 
-# g.serialize('tmp.n3', format='n3')
+g.serialize('rdf/faculty.n3', format='n3')
 
 

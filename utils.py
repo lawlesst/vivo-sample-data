@@ -8,15 +8,12 @@ from rdflib import Graph, Namespace
 from rdflib.namespace import NamespaceManager, ClosedNamespace
 
 VIVO = Namespace('http://vivoweb.org/ontology/core#')
-FOAF = Namespace('http://xmlns.com/foaf/0.1/')
+#FOAF = Namespace('http://xmlns.com/foaf/0.1/')
 BIBO = Namespace('http://purl.org/ontology/bibo/')
 OBO = Namespace('http://purl.obolibrary.org/obo/')
-SCHEMA = Namespace('http://schema.org/')
-SKOS = Namespace('http://www.w3.org/2004/02/skos/core#')
+#SCHEMA = Namespace('http://schema.org/')
+#SKOS = Namespace('http://www.w3.org/2004/02/skos/core#')
 VCARD = Namespace('http://www.w3.org/2006/vcard/ns#')
-
-#local data namespace
-D = Namespace('http://vivo.school.edu/individual/')
 
 namespaces = {}
 for k, o in vars().items():
