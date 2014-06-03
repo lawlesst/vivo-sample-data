@@ -1,5 +1,5 @@
 """
-Load the people.csv file as VIVO Faculty Members.
+Load the people_tamu.csv file as VIVO Faculty Members.
 
 See VCard usage:
 https://wiki.duraspace.org/display/VIVO/VCard+usage+diagram
@@ -10,11 +10,16 @@ import csv
 import json
 import sys
 
+import logging
+logging.basicConfig(level=logging.INFO)
+
 from rdflib import Graph
+from utils import ns_mgr
 
-ns = "http://vivo.brown.edu/individual/"
+#Data namespace
+ns = "http://vivo.school.edu/individual/"
 
-faculty = {
+faculty_ctx = {
     "@context": {
         "@base": ns,
         "a": "@type",
@@ -27,20 +32,26 @@ faculty = {
         "label": "rdfs:label",
         "first": "vcard:givenName",
         "last": "vcard:familyName",
-        "middle": "vcard:middleName",
+        "middle": "vivo:middleName",
         "title": "vcard:title",
         "contact": {
             "@id": "obo:ARG_2000028",
             "@type": "@id",
             "label": "has contact info"
         },
-        # "vcard":
-        #     {
-        #         "@id": "vcard:Individual",
-        #         "@type": "@id"
-        #     },
-        "vcard:Name": {
-            "@id": "vcard:Name",
+        "vcard:hasName":
+            {
+            "@id": "vcard:hasName",
+            "@type": "@id"
+        },
+        "vcard:hasTitle":
+            {
+            "@id": "vcard:hasTitle",
+            "@type": "@id"
+        },
+        "vcard:hasEmail":
+            {
+            "@id": "vcard:hasEmail",
             "@type": "@id"
         }
     }
@@ -48,68 +59,95 @@ faculty = {
 
 fac = []
 
-def clean(value):
-    return value.strip()
-
 with open(sys.argv[1]) as infile:
     for count, row in enumerate(csv.DictReader(infile)):
-        print row
-        pid = row.get('person_ID')
+        pid = row.get('UID')
 
-        puri = 'person' + pid
+        person_uri = 'person-' + pid
 
+        #Our faculty dictionary
         f = {}
-        #URI will be person_id plus person prefix.
-        f['uri'] = 'person' + pid
-        f['a'] = "FacultyMember"
-        f['label'] = clean(row.get('name'))
 
-        #The name vcard.
-        nuri = puri + 'name'
-        #title
-        turi = puri + 'title'
+        #URI will be person_id plus person prefix.
+        f['uri'] = person_uri
+        f['a'] = "FacultyMember"
+        f['label'] = row.get('FullName')
+
+        #Individual vcard
+        vcard_uri = person_uri + '-vcard'
+        f['contact'] = vcard_uri
+        #Name vcard.
+        vcard_name_uri = person_uri + '-vcard-name'
+        #Title vcard
+        vcard_title_uri = person_uri + '-vcard-title'
+        #Email vcard
+        vcard_email_uri = person_uri + '-vcard-email'
 
 
         #Main Vcard
         vc = {}
-        vc['uri'] = puri + 'vcard'
-        vc['type'] = "vcard:Individual"
-        vc['contact'] = nuri
+        vc['uri'] = vcard_uri
+        vc['a'] = 'vcard:Individual'
+        vc['vcard:hasName'] = vcard_name_uri
+        vc.update(faculty_ctx)
+        fac.append(vc)
 
         n = {}
-        n['uri'] = nuri
+        n['uri'] = vcard_name_uri
         n['a'] = 'vcard:Name'
-        n['first'] = clean(row.get('first'))
-        n['last'] = clean(row.get('last'))
-        middle = row.get('middle')
+        n['first'] = row.get('FirstName')
+        n['last'] = row.get('LastName')
+        middle = row.get('MidName')
         if middle != "":
             n['middle'] = middle
+        n.update(faculty_ctx)
+        fac.append(n)
 
         #Title
         t = {}
-        t['uri'] = turi
+        t['uri'] = vcard_title_uri
         t['a'] = "vcard:Title"
-        t['title'] = clean(row.get('title'))
-        vc['vc:hasTitle'] = turi
-
-        f.update(faculty)
-        n.update(faculty)
-        t.update(faculty)
-
-        fac.append(f)
-        fac.append(n)
+        t['title'] = row.get('Title')
+        vc['vcard:hasTitle'] = vcard_title_uri
+        t.update(faculty_ctx)
         fac.append(t)
 
-        if count > 5:
-            break
+        #Email
+        email = row.get('Email')
+        if email != '':
+            e = {}
+            e['a'] = "vcard:Email"
+            e['a'] = "vcard:Work"
+            e['uri'] = vcard_email_uri
+            e['vcard:email'] = email
+            vc['vcard:hasEmail'] = vcard_email_uri
+            e.update(faculty_ctx)
+            fac.append(e)
 
-
-#print json.dumps(fac, indent=2)
+        f.update(faculty_ctx)
+        fac.append(f)
 
 raw_jld = json.dumps(fac)
 g = Graph().parse(data=raw_jld, format='json-ld')
+g.namespace_manager = ns_mgr
 print g.serialize(format='n3')
 
-# g.serialize('tmp.n3', format='n3')
+# from utils import VUpdate
+# vs = VUpdate()
+
+# try:
+#     ar = sys.argv[2]
+# except IndexError:
+#     print>>sys.stderr, "nothing added/removed"
+#     sys.exit()
+
+# if ar == 'add':
+#     vs.add(g)
+# elif ar == 'remove':
+#     vs.remove(g)
+# else:
+#     raise Exception("Invalid arg.  Add remove only.")
+
+#g.serialize('rdf/faculty.n3', format='n3')
 
 
