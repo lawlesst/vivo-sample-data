@@ -1,3 +1,6 @@
+
+import csv
+import hashlib
 import os
 import urllib
 
@@ -84,3 +87,41 @@ class VUpdate(object):
             raise Exception("Response URL doesn't seem to be the VIVO API URL.  Verify settings.")
         logger.info("Update response code: {}".format(response.code))
         return True
+
+def hash_uri(raw, prefix='n'):
+    """
+    Return a hash of the next in numerical form.
+
+    Prefix with the prefix text.
+    """
+    hobj = hashlib.md5(raw)
+    return prefix + hobj.hexdigest()
+
+def scrub_row(row):
+    """
+    Set values that are empty strings - "" -
+    to Python None.
+
+    Remove carriage returns and line breaks from cells.  Encode
+    as utf-8.
+    """
+    out_dictionary = {}
+    for k,v in row.items():
+        #Remove line breaks and carriage returns.
+        v = v.replace('\n', '').replace('\r', '')
+        if v == '':
+            out_dictionary[k] = None
+        else:
+            out_dictionary[k] = v.decode('utf-8', 'ignore')
+    return out_dictionary
+
+def read_file(file_name, delimiter=','):
+    """
+    Read in the file and clean the rows.
+    """
+    out = []
+    with open(file_name) as infile:
+        for row in csv.DictReader(infile, delimiter=delimiter):
+            clean_row = scrub_row(row)
+            out.append(clean_row)
+    return out
