@@ -3,10 +3,6 @@ Load the organizations.csv file.
 """
 
 import glob
-import sys
-
-import logging
-logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
 from rdflib.util import guess_format
