@@ -2,6 +2,6 @@
 env.sh
 tmp.n3
 data/sample*
-*.ipynb
+.ipynb_checkpoints/*
 
 *pyc
