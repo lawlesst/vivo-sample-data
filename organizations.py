@@ -30,7 +30,6 @@ organizations = []
 
 with open(sys.argv[1]) as infile:
     for count, row in enumerate(csv.DictReader(infile)):
-        print row
         name = row['org_name']
         oid = row['org_ID']
         org_uri = 'org{}'.format(oid)
