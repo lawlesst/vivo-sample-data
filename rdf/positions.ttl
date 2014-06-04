@@ -1,0 +1,426 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vivo.school.edu/individual/pos00de51d4570b441e345a54ef03e3069f> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org58750032> .
+
+<http://vivo.school.edu/individual/pos039b8717a528fcc0788fb78db64b4f52> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orge5c84f0a> .
+
+<http://vivo.school.edu/individual/pos06b4b9643cb838ef3e287e0936926073> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf5352f2f> .
+
+<http://vivo.school.edu/individual/pos07489bb66481f67ff6799db97e5a199e> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org94905f86> .
+
+<http://vivo.school.edu/individual/pos0a8936bca6cafe4910db788502bbe2aa> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orge49738ce> .
+
+<http://vivo.school.edu/individual/pos0b047204de45965391cfaf37d8d2942b> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org533de40b> .
+
+<http://vivo.school.edu/individual/pos0d3d76f1a30f0058371fb11c77f386fe> a vivo:FacultyPosition ;
+    rdfs:label "Executive Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org390956d8> .
+
+<http://vivo.school.edu/individual/pos0e2fe4921e43f05e4b90d823bde21808> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org331ec525> .
+
+<http://vivo.school.edu/individual/pos0fbcf7a6ae1b61f6a35c20dea03e6100> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf1153653> .
+
+<http://vivo.school.edu/individual/pos170fe58bf967ca7050f879cdbd96ff28> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org8e1497dc> .
+
+<http://vivo.school.edu/individual/pos196f52450fec44bc2ff5e21ec9b8de78> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2735b399> .
+
+<http://vivo.school.edu/individual/pos19a22d9714aaafa56394e64c4abd0200> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgfb02a5ae> .
+
+<http://vivo.school.edu/individual/pos1b86ee3e9aa69a5464683ae89a6c2eb7> a vivo:FacultyPosition ;
+    rdfs:label "Senior Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org390956d8> .
+
+<http://vivo.school.edu/individual/pos20366adebca3cb538ecd2cdd8c361703> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org377fce7d> .
+
+<http://vivo.school.edu/individual/pos206f1163128d89f8883e4ce2e5d9677e> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf5352f2f> .
+
+<http://vivo.school.edu/individual/pos23d1a9fc46652e39ecca126b951d44b0> a vivo:FacultyPosition ;
+    rdfs:label "Adjunct Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org8153433f> .
+
+<http://vivo.school.edu/individual/pos25c523f88935c8b487144dee15940fa3> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2872677a> .
+
+<http://vivo.school.edu/individual/pos28f8298a84427aa4776eca011c534eff> a vivo:FacultyPosition ;
+    rdfs:label "Veterinary Resident Instructor" ;
+    vivo:relates <http://vivo.school.edu/individual/org4f9163cf> .
+
+<http://vivo.school.edu/individual/pos2fbbcb268a97980e0e5a82fc89841eb8> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga96ec482> .
+
+<http://vivo.school.edu/individual/pos3049cf6adb4994a49dc3e786ef3a3dae> a vivo:FacultyPosition ;
+    rdfs:label "Instructional Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org9e5eea38> .
+
+<http://vivo.school.edu/individual/pos3a7cee5ae50d2f7b3b8a3d802a3b5841> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orge0412e57> .
+
+<http://vivo.school.edu/individual/pos3cd5e0ff6a3d59b104907fc7f8a6d033> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orge49738ce> .
+
+<http://vivo.school.edu/individual/pos3e18a34b675617e07c2759e253c3ef73> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org52bbb58c> .
+
+<http://vivo.school.edu/individual/pos433a7e69c07a1cfd981a5ba1f76c5306> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgc2b21c54> .
+
+<http://vivo.school.edu/individual/pos44f1b6be62d4ece28288a9408eb1bdb9> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org4d01014a> .
+
+<http://vivo.school.edu/individual/pos4656d1480f5af8b1dfc20a50f319424d> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org3d066602> .
+
+<http://vivo.school.edu/individual/pos48dd5ff4cbe954b5dc6a0f5f94ae6fcf> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orge49738ce> .
+
+<http://vivo.school.edu/individual/pos4bbdbc73c272e093aa001729da2fa650> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org3d066602> .
+
+<http://vivo.school.edu/individual/pos4d780125f7daf02f26a3466c4b923cf8> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org4c1f64aa> .
+
+<http://vivo.school.edu/individual/pos4e325e1ec4fb651273b8a409f3ce636c> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgef68c136> .
+
+<http://vivo.school.edu/individual/pos519ac32a1a34ac8f56ebf08e23dde193> a vivo:FacultyPosition ;
+    rdfs:label "Visiting Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org3c372a44> .
+
+<http://vivo.school.edu/individual/pos520fb323023ee776d60f5377bc0d8710> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org1ec41847> .
+
+<http://vivo.school.edu/individual/pos54b580d74856ac2932e4e9aa794d7bbd> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org26ddd99c> .
+
+<http://vivo.school.edu/individual/pos560ec655e6eaa5275c3357d68178a54a> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf22c2cf7> .
+
+<http://vivo.school.edu/individual/pos56e8f9af142f0cc2a5b9f337df937bc2> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf4046369> .
+
+<http://vivo.school.edu/individual/pos590778b6eea0d20ce97a782b9d159fe6> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org58750032> .
+
+<http://vivo.school.edu/individual/pos59f05a4480154e1054a985fe9e0aa632> a vivo:FacultyPosition ;
+    rdfs:label "Distinguished Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org38381a9e> .
+
+<http://vivo.school.edu/individual/pos5af5b3269b0eaf0bb3d349868f7b3a42> a vivo:FacultyPosition ;
+    rdfs:label "Visiting Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org7048878f> .
+
+<http://vivo.school.edu/individual/pos5b1917cc50cc7f116fbf8386211898d1> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2833755e> .
+
+<http://vivo.school.edu/individual/pos5b6124294d34285622a5ab85737ad357> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org38381a9e> .
+
+<http://vivo.school.edu/individual/pos5db6e5285d785186ad21052fb896bee3> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org1b945f59> .
+
+<http://vivo.school.edu/individual/pos5e6609a2feb8c0a5d10ba06a25a4a618> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org377fce7d> .
+
+<http://vivo.school.edu/individual/pos62ec292019f70cb050d0e2271f5b5cef> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2d222064> .
+
+<http://vivo.school.edu/individual/pos63e8e4130c01b07320669ccba51b7172> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org329894a2> .
+
+<http://vivo.school.edu/individual/pos64567ebaab03e3a76043f8183dd538c4> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2d633240> .
+
+<http://vivo.school.edu/individual/pos68d5bdb3edcafe3cc0ece6a889a3556a> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org331ec525> .
+
+<http://vivo.school.edu/individual/pos6a4af1444d2fc56ee99e69d791683d45> a vivo:FacultyPosition ;
+    rdfs:label "Professor and Associate Dean" ;
+    vivo:relates <http://vivo.school.edu/individual/org499605f7> .
+
+<http://vivo.school.edu/individual/pos6ac2525e11437f419c1c97bf4839eb7f> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org59444c74> .
+
+<http://vivo.school.edu/individual/pos6b736da531c5872114d37a55682c8ae1> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org377fce7d> .
+
+<http://vivo.school.edu/individual/pos6c261f009cc01018913da643b11a5a54> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org390956d8> .
+
+<http://vivo.school.edu/individual/pos6e4e8e0e12f6294fb1f774436d37b053> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga6291061> .
+
+<http://vivo.school.edu/individual/pos71d46b8c24c42422388cadf29cb4f5a1> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org364e823b> .
+
+<http://vivo.school.edu/individual/pos76d8925dc01595ad0059a708fe02ef76> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org364e823b> .
+
+<http://vivo.school.edu/individual/pos7a3223531dd597049f1ef89a71438f80> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org7048878f> .
+
+<http://vivo.school.edu/individual/pos7b4dc722095a62b9cd97bc3e0898c561> a vivo:FacultyPosition ;
+    rdfs:label "Senior Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org224add21> .
+
+<http://vivo.school.edu/individual/pos7cacec115c55c357d7d577871abcb17c> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2d222064> .
+
+<http://vivo.school.edu/individual/pos7ead29ae1189f2cd2bd5993738eb6e73> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgfb6c9e2c> .
+
+<http://vivo.school.edu/individual/pos7fc8ac9dc2b6774283f885a262080c59> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org377fce7d> .
+
+<http://vivo.school.edu/individual/pos806e52a2a815152a76b15d9d720eb7db> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orge0412e57> .
+
+<http://vivo.school.edu/individual/pos841ccbfb6263634c3c5c9156dddac456> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga96ec482> .
+
+<http://vivo.school.edu/individual/pos86d7fb589bcb3814c2faef15da3645d4> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org329894a2> .
+
+<http://vivo.school.edu/individual/pos8863ceaec6edac67209670cc9dd9d716> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org52bbb58c> .
+
+<http://vivo.school.edu/individual/pos8b80fd274453c3e0e63d8c6ec908f47f> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org9e5eea38> .
+
+<http://vivo.school.edu/individual/pos8d6e7b2bcda1f4bbb58fad524e8bc877> a vivo:FacultyPosition ;
+    rdfs:label "Veterinary Intern Instructor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf22c2cf7> .
+
+<http://vivo.school.edu/individual/pos8e3d2a37861d752b08fc218bbce24d16> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga96ec482> .
+
+<http://vivo.school.edu/individual/pos8e8863d0f966519212f122831edadfb9> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org59444c74> .
+
+<http://vivo.school.edu/individual/pos91f020b08b9c0d07fc41150344bd22a7> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org8b9df681> .
+
+<http://vivo.school.edu/individual/pos95338be227cd08d201ca5aaab6831e20> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org91770559> .
+
+<http://vivo.school.edu/individual/pos96b8a5c83ef30dc5cf72d2dbd62dc25c> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org7048878f> .
+
+<http://vivo.school.edu/individual/pos96f0b284d4bf5a7fd62e37be23ca1059> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2884689f> .
+
+<http://vivo.school.edu/individual/pos99d20313928a4ba1ee4302a18bfe11ab> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org329894a2> .
+
+<http://vivo.school.edu/individual/pos9a42f682bae39e91e1b2c099f5d9998e> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org4f9163cf> .
+
+<http://vivo.school.edu/individual/pos9fd2bdeff0940b9b352da7abd7058f89> a vivo:FacultyPosition ;
+    rdfs:label "Clinical Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgfb6c9e2c> .
+
+<http://vivo.school.edu/individual/posa04b4bcae63a3061ff2463f2c81f6c1c> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orge49738ce> .
+
+<http://vivo.school.edu/individual/posa0c6d2d19736a7c2bdf6e8e54a2af7b7> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org4d01014a> .
+
+<http://vivo.school.edu/individual/posa77ea530414b58962d697fd6c0f08fe5> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgef68c136> .
+
+<http://vivo.school.edu/individual/posa986de9a5e7951160f7e6545a8596bb7> a vivo:FacultyPosition ;
+    rdfs:label "Professor and Interim Head" ;
+    vivo:relates <http://vivo.school.edu/individual/org1b234298> .
+
+<http://vivo.school.edu/individual/posaa628d68f6f994ee380fa4de1f60fa79> a vivo:FacultyPosition ;
+    rdfs:label "Senior Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orgea8f9be9> .
+
+<http://vivo.school.edu/individual/posac23279b45bda8f13dc564d4e90b4e2c> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org21aae1c6> .
+
+<http://vivo.school.edu/individual/posad6260d2fb1d4f0a54fa2996a143c52d> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org9e87cc7b> .
+
+<http://vivo.school.edu/individual/posadb9fdfc67f946f9ebada7fa1e9c62c4> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org9e87cc7b> .
+
+<http://vivo.school.edu/individual/posb278d0efef5aa91af03a5cbf598edc76> a vivo:FacultyPosition ;
+    rdfs:label "Professor and Head" ;
+    vivo:relates <http://vivo.school.edu/individual/org1b234298> .
+
+<http://vivo.school.edu/individual/posb436e8c3cea571401892dd2f42d982b1> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org90de7d78> .
+
+<http://vivo.school.edu/individual/posb566b5e37b765f14b0f560ab62a7e5a0> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orge49738ce> .
+
+<http://vivo.school.edu/individual/posba492b22fb7ead68e8b83e0af141fffe> a vivo:FacultyPosition ;
+    rdfs:label "Instructional Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgef68c136> .
+
+<http://vivo.school.edu/individual/posba764c5cf147da16054236e0feae7431> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org52bbb58c> .
+
+<http://vivo.school.edu/individual/posbdafae79fd4f1f57e2a3eefd6a3451cf> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org9b0ead26> .
+
+<http://vivo.school.edu/individual/posc854d1caf305e681027104bffe210da2> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org7518c091> .
+
+<http://vivo.school.edu/individual/poscebf577a3424bee1bdde790b328893b5> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orge0412e57> .
+
+<http://vivo.school.edu/individual/posd8109652be9a67ea33a83dbe41cd2510> a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgea8f9be9> .
+
+<http://vivo.school.edu/individual/posdddc29d1e332c77bee86459fb1e8624d> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orgee598d70> .
+
+<http://vivo.school.edu/individual/pose02e300ecbf9bf9308687356d204b192> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgac3e839c> .
+
+<http://vivo.school.edu/individual/pose17454f8eef00b1b6975350a1c3427ff> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2d953da5> .
+
+<http://vivo.school.edu/individual/pose17f7ca7b9cffa6c738a8caac1f936f3> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgc2b21c54> .
+
+<http://vivo.school.edu/individual/pose93050dc6d2c1cc04625a1a55b54b9ba> a vivo:FacultyPosition ;
+    rdfs:label "Senior Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org3d066602> .
+
+<http://vivo.school.edu/individual/pose9d67b0106879eb184e98335ab5ac419> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org1ec41847> .
+
+<http://vivo.school.edu/individual/pose9f7e8a56202e5f1720e0c6dcd7a305c> a vivo:FacultyPosition ;
+    rdfs:label "Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/orgf55b14ad> .
+
+<http://vivo.school.edu/individual/posec2509af5540873d6b6127fc05d692e8> a vivo:FacultyPosition ;
+    rdfs:label "Executive Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgea8f9be9> .
+
+<http://vivo.school.edu/individual/posf3c944c8b76561bb29b909e0a785d3fe> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org2d222064> .
+
+<http://vivo.school.edu/individual/posf6e8fd093a39d17b9ff32b646573fb34> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga6291061> .
+
+<http://vivo.school.edu/individual/posf81754b8174c095d880c433563592487> a vivo:FacultyPosition ;
+    rdfs:label "Senior Lecturer" ;
+    vivo:relates <http://vivo.school.edu/individual/org377fce7d> .
+
+<http://vivo.school.edu/individual/posfaddb5ad6bc18c3a06b2e59eae90a91f> a vivo:FacultyPosition ;
+    rdfs:label "Associate Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orgac3e839c> .
+
+<http://vivo.school.edu/individual/posfb90652b1cca1afcfbf33851502fe9eb> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/orga96ec482> .
+
+<http://vivo.school.edu/individual/posfc7dfcc18f5e28ec40476ac2aae770ea> a vivo:FacultyPosition ;
+    rdfs:label "Professor" ;
+    vivo:relates <http://vivo.school.edu/individual/org21aae1c6> .
+
+
