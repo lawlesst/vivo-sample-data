@@ -1,5 +1,5 @@
 """
-Load the people_tamu.csv file as VIVO Faculty Members.
+Load the faculty.csv file as VIVO Faculty Members.
 
 See VCard usage:
 https://wiki.duraspace.org/display/VIVO/VCard+usage+diagram
@@ -130,24 +130,7 @@ with open(sys.argv[1]) as infile:
 raw_jld = json.dumps(fac)
 g = Graph().parse(data=raw_jld, format='json-ld')
 g.namespace_manager = ns_mgr
-print g.serialize(format='n3')
+print g.serialize(format='turtle')
 
-# from utils import VUpdate
-# vs = VUpdate()
-
-# try:
-#     ar = sys.argv[2]
-# except IndexError:
-#     print>>sys.stderr, "nothing added/removed"
-#     sys.exit()
-
-# if ar == 'add':
-#     vs.add(g)
-# elif ar == 'remove':
-#     vs.remove(g)
-# else:
-#     raise Exception("Invalid arg.  Add remove only.")
-
-#g.serialize('rdf/faculty.n3', format='n3')
 
 
