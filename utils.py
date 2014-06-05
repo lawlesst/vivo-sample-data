@@ -7,6 +7,8 @@ import urllib
 import logging
 logger = logging.getLogger(__name__)
 
+import requests
+
 from rdflib import Graph, Namespace
 from rdflib.namespace import NamespaceManager, ClosedNamespace
 
@@ -125,3 +127,19 @@ def read_file(file_name, delimiter=','):
             clean_row = scrub_row(row)
             out.append(clean_row)
     return out
+
+
+class CrossRefSearchException(Exception):
+    pass
+
+def crossref_metadata_search(search_string):
+    """
+    Search the metadata API.
+    """
+    base = "http://search.crossref.org/dois?q={0}".format(search_string)
+    resp = requests.get(base)
+    data = resp.json()
+    if len(data) == 0:
+        raise CrossRefSearchException("No CR metadata search results")
+    else:
+        return data
