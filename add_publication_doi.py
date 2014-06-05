@@ -47,7 +47,6 @@ if __name__ == "__main__":
     doi = sys.argv[2]
     meta = get(doi)
     print doi
-    print
+    print '-' * 10
     g = map_pub(doi, meta, faculty_local_name)
-
     print load(g)
