@@ -1,5 +1,5 @@
 """
-Load the organizations.csv file.
+Load the positions.csv file.
 """
 
 import csv
@@ -45,11 +45,15 @@ with open(sys.argv[1]) as infile:
         pos['uri'] = position_uri
         pos['a'] = 'vivo:FacultyPosition'
         pos['label'] = title
-        pos['relates'] = 'fac{}'.format(fac_id)
-        pos['relates'] = 'org{}'.format(org_id)
+        #Multiple relation statements as list.
+        pos['relates'] = [
+            'fac{}'.format(fac_id),
+            'org{}'.format(org_id)
+        ]
 
         pos.update(pos_ctx)
         positions.append(pos)
+
 
 
 raw_jld = json.dumps(positions)

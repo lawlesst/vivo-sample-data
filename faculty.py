@@ -63,25 +63,25 @@ with open(sys.argv[1]) as infile:
     for count, row in enumerate(csv.DictReader(infile)):
         pid = row.get('UID')
 
-        person_uri = 'person-' + pid
+        faculty_uri = 'fac' + pid
 
         #Our faculty dictionary
         f = {}
 
         #URI will be person_id plus person prefix.
-        f['uri'] = person_uri
+        f['uri'] = faculty_uri
         f['a'] = "FacultyMember"
         f['label'] = row.get('FullName')
 
         #Individual vcard
-        vcard_uri = person_uri + '-vcard'
+        vcard_uri = faculty_uri + '-vcard'
         f['contact'] = vcard_uri
         #Name vcard.
-        vcard_name_uri = person_uri + '-vcard-name'
+        vcard_name_uri = faculty_uri + '-vcard-name'
         #Title vcard
-        vcard_title_uri = person_uri + '-vcard-title'
+        vcard_title_uri = faculty_uri + '-vcard-title'
         #Email vcard
-        vcard_email_uri = person_uri + '-vcard-email'
+        vcard_email_uri = faculty_uri + '-vcard-email'
 
 
         #Main Vcard
