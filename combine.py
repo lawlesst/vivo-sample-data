@@ -1,5 +1,5 @@
 """
-Load the organizations.csv file.
+Combine the RDF files into a graph.
 """
 
 import glob
