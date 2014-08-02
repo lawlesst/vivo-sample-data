@@ -1,2 +1,3 @@
 requests
 git+https://github.com/RDFLib/rdflib-jsonld.git
+git+https://github.com/Brown-University-Library/vivo-data-management.git
