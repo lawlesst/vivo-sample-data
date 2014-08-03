@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 from rdflib import Graph
 from rdflib_jsonld.parser import to_rdf
 
-from vdm.namespaces import ns_mgr
+from utils import ns_mgr
 
 #Data namespace
 ns = "http://vivo.school.edu/individual/"
