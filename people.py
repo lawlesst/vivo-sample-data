@@ -122,7 +122,7 @@ with open(sys.argv[1]) as infile:
         t['a'] = "vcard:Title"
         t['title'] = row.get('title')
         vc['vcard:hasTitle'] = vcard_title_uri
-        vc.update(faculty_ctx)
+        t.update(faculty_ctx)
         fac.append(t)
 
         #Email

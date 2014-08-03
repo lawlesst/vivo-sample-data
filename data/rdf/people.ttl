@@ -202,6 +202,9 @@ d:fac1089-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.5639" .
 
+d:fac1089-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
 d:fac1307-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1307-vcard-email ;
     ns1:hasName d:fac1307-vcard-name ;
@@ -226,6 +229,9 @@ d:fac1307-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.3723" .
+
+d:fac1307-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
 
 d:fac1538-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1538-vcard-email ;
@@ -253,6 +259,9 @@ d:fac1538-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.2731x3565" .
 
+d:fac1538-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
 d:fac1567-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1567-vcard-email ;
     ns1:hasName d:fac1567-vcard-name ;
@@ -277,6 +286,9 @@ d:fac1567-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.7198" .
+
+d:fac1567-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
 
 d:fac1625-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1625-vcard-email ;
@@ -303,6 +315,9 @@ d:fac1625-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.3350x6480" .
 
+d:fac1625-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
 d:fac1699-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1699-vcard-email ;
     ns1:hasName d:fac1699-vcard-name ;
@@ -327,6 +342,9 @@ d:fac1699-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.7095" .
+
+d:fac1699-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
 
 d:fac1824-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1824-vcard-email ;
@@ -353,6 +371,9 @@ d:fac1824-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.7882" .
 
+d:fac1824-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
 d:fac1968-vcard a ns1:Individual ;
     ns1:hasEmail d:fac1968-vcard-email ;
     ns1:hasName d:fac1968-vcard-name ;
@@ -378,6 +399,9 @@ d:fac1968-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.7592" .
 
+d:fac1968-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
 d:fac2070-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2070-vcard-email ;
     ns1:hasName d:fac2070-vcard-name ;
@@ -402,6 +426,9 @@ d:fac2070-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.2945" .
+
+d:fac2070-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac2096-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2096-vcard-email ;
@@ -429,6 +456,9 @@ d:fac2096-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.5568x2652" .
 
+d:fac2096-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
 d:fac2146-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2146-vcard-email ;
     ns1:hasName d:fac2146-vcard-name ;
@@ -453,6 +483,9 @@ d:fac2146-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.9390" .
+
+d:fac2146-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac2217-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2217-vcard-email ;
@@ -480,6 +513,9 @@ d:fac2217-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.7578" .
 
+d:fac2217-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
 d:fac2254-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2254-vcard-email ;
     ns1:hasName d:fac2254-vcard-name ;
@@ -505,6 +541,9 @@ d:fac2254-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.6824" .
+
+d:fac2254-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac2303-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2303-vcard-email ;
@@ -532,6 +571,9 @@ d:fac2303-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.8921" .
 
+d:fac2303-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
 d:fac2342-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2342-vcard-email ;
     ns1:hasName d:fac2342-vcard-name ;
@@ -556,6 +598,9 @@ d:fac2342-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.4305" .
+
+d:fac2342-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac2383-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2383-vcard-email ;
@@ -582,6 +627,9 @@ d:fac2383-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.9366" .
 
+d:fac2383-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
 d:fac2389-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2389-vcard-email ;
     ns1:hasName d:fac2389-vcard-name ;
@@ -606,6 +654,9 @@ d:fac2389-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.6855x5018" .
+
+d:fac2389-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
 
 d:fac2401-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2401-vcard-email ;
@@ -633,6 +684,9 @@ d:fac2401-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.2902" .
 
+d:fac2401-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
 d:fac2426-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2426-vcard-email ;
     ns1:hasName d:fac2426-vcard-name ;
@@ -657,6 +711,9 @@ d:fac2426-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.7569" .
+
+d:fac2426-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
 
 d:fac2561-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2561-vcard-email ;
@@ -684,6 +741,9 @@ d:fac2561-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.2992" .
 
+d:fac2561-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
 d:fac2682-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2682-vcard-email ;
     ns1:hasName d:fac2682-vcard-name ;
@@ -709,6 +769,9 @@ d:fac2682-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.8357" .
+
+d:fac2682-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
 
 d:fac2755-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2755-vcard-email ;
@@ -736,6 +799,9 @@ d:fac2755-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.4618x7744" .
 
+d:fac2755-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
 d:fac2811-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2811-vcard-email ;
     ns1:hasName d:fac2811-vcard-name ;
@@ -762,6 +828,9 @@ d:fac2811-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.6319" .
 
+d:fac2811-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
 d:fac2895-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2895-vcard-email ;
     ns1:hasName d:fac2895-vcard-name ;
@@ -786,6 +855,9 @@ d:fac2895-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.6760" .
+
+d:fac2895-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
 
 d:fac2941-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2941-vcard-email ;
@@ -813,6 +885,9 @@ d:fac2941-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.2800" .
 
+d:fac2941-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
 d:fac2948-vcard a ns1:Individual ;
     ns1:hasEmail d:fac2948-vcard-email ;
     ns1:hasName d:fac2948-vcard-name ;
@@ -839,6 +914,9 @@ d:fac2948-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.5902" .
 
+d:fac2948-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
 d:fac3012-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3012-vcard-email ;
     ns1:hasName d:fac3012-vcard-name ;
@@ -864,6 +942,9 @@ d:fac3012-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.7775" .
 
+d:fac3012-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
 d:fac3066-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3066-vcard-email ;
     ns1:hasName d:fac3066-vcard-name ;
@@ -888,6 +969,9 @@ d:fac3066-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.7463x7335" .
+
+d:fac3066-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
 
 d:fac3095-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3095-vcard-email ;
@@ -915,6 +999,9 @@ d:fac3095-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.9197" .
 
+d:fac3095-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
 d:fac3112-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3112-vcard-email ;
     ns1:hasName d:fac3112-vcard-name ;
@@ -941,6 +1028,9 @@ d:fac3112-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.8895" .
 
+d:fac3112-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
 d:fac3130-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3130-vcard-email ;
     ns1:hasName d:fac3130-vcard-name ;
@@ -965,6 +1055,9 @@ d:fac3130-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.1253" .
+
+d:fac3130-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
 
 d:fac3297-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3297-vcard-email ;
@@ -991,6 +1084,9 @@ d:fac3297-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.1352" .
 
+d:fac3297-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
 d:fac3544-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3544-vcard-email ;
     ns1:hasName d:fac3544-vcard-name ;
@@ -1015,6 +1111,9 @@ d:fac3544-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.5471x1017" .
+
+d:fac3544-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac3547-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3547-vcard-email ;
@@ -1041,6 +1140,9 @@ d:fac3547-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.1378" .
 
+d:fac3547-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
 d:fac3903-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3903-vcard-email ;
     ns1:hasName d:fac3903-vcard-name ;
@@ -1065,6 +1167,9 @@ d:fac3903-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.9067" .
+
+d:fac3903-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
 
 d:fac3929-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3929-vcard-email ;
@@ -1091,6 +1196,9 @@ d:fac3929-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.8158" .
 
+d:fac3929-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
 d:fac3958-vcard a ns1:Individual ;
     ns1:hasEmail d:fac3958-vcard-email ;
     ns1:hasName d:fac3958-vcard-name ;
@@ -1115,6 +1223,9 @@ d:fac3958-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.9507" .
+
+d:fac3958-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
 
 d:fac4150-vcard a ns1:Individual ;
     ns1:hasEmail d:fac4150-vcard-email ;
@@ -1141,6 +1252,9 @@ d:fac4150-vcard-phone a ns1:Telephone,
         ns1:Work ;
     ns1:telephone "963.555.5278" .
 
+d:fac4150-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
 d:fac4539-vcard a ns1:Individual ;
     ns1:hasEmail d:fac4539-vcard-email ;
     ns1:hasName d:fac4539-vcard-name ;
@@ -1165,6 +1279,9 @@ d:fac4539-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.5969" .
+
+d:fac4539-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
 
 d:fac4580-vcard a ns1:Individual ;
     ns1:hasEmail d:fac4580-vcard-email ;
@@ -1191,5 +1308,8 @@ d:fac4580-vcard-phone a ns1:Telephone,
         ns1:Voice,
         ns1:Work ;
     ns1:telephone "963.555.6469" .
+
+d:fac4580-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
 
 
