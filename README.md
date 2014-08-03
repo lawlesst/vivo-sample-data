@@ -16,7 +16,7 @@ The data is mapped to the [VIVO ISF](https://wiki.duraspace.org/display/VIVO/VIV
  * [Positions](data/csv/positions.csv)
 
 ###Loading the data
-With a VIVO instance running at `http://localhost:8080/vivo/` login as an administrative user.  Go to Site Admin (top right hand corner) and click "Add/Remove RDF data".  Then upload the `all.ttl` file and select "Turtle from the dropdown menu."
+With a VIVO instance running at `http://localhost:8080/vivo/` login as an administrative user.  Go to Site Admin (top right hand corner) and click "Add/Remove RDF data".  Then upload the [all.ttl](data/rdf/all.ttl) file and select "Turtle from the dropdown menu."
 
 ![ScreenShot](tutorial/images/add_remove_rdf.png)
 
