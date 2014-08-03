@@ -1,5 +1,5 @@
 """
-Load the organizations.csv file.
+Load the organization.csv file.
 """
 
 import csv
@@ -10,7 +10,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
-from utils import ns_mgr
+from rdflib_jsonld.parser import to_rdf
+
+from vdm.namespaces import ns_mgr
 
 #Data namespace
 ns = "http://vivo.school.edu/individual/"
@@ -45,10 +47,10 @@ with open(sys.argv[1]) as infile:
         organizations.append(org)
 
 
-raw_jld = json.dumps(organizations)
-g = Graph().parse(data=raw_jld, format='json-ld')
+g = Graph()
 g.namespace_manager = ns_mgr
-print g.serialize(format='turtle')
+out = to_rdf(organizations, g)
+print out.serialize(format='turtle')
 
 
 

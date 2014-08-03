@@ -8,3 +8,11 @@ This is intended to be a basic sample set of data that can be loaded into a fres
 
 The data is mapped to the [VIVO ISF](https://wiki.duraspace.org/display/VIVO/VIVO-ISF+Ontology) ontology.  The VIVO ISF was introduced in VIVO version 1.6.
 
+[Sample data source](http://iweb.dl.sourceforge.net/project/vivo/Data%20Ingest/)
+
+
+- [ ] map people csv
+- [ ] map organizations csv
+- [ ] map positions csv
+- [ ] create RDF turtle outputs for each
+- [ ] create RDF turtle output of all at ./rdf/all.ttl

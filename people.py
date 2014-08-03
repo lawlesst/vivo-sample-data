@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
 from rdflib_jsonld.parser import to_rdf
-from utils import ns_mgr
+from vdm.namespaces import ns_mgr
 
 #Data namespace
 ns = "http://vivo.school.edu/individual/"
@@ -122,6 +122,7 @@ with open(sys.argv[1]) as infile:
         t['a'] = "vcard:Title"
         t['title'] = row.get('title')
         vc['vcard:hasTitle'] = vcard_title_uri
+        vc.update(faculty_ctx)
         fac.append(t)
 
         #Email
@@ -158,11 +159,9 @@ with open(sys.argv[1]) as infile:
         vc['hasPhone'] = [vcard_phone_uri, vcard_fax_uri]
 
 
-
-
-g = to_rdf(fac, Graph())
+g = Graph()
 g.namespace_manager = ns_mgr
-print g.serialize(format='turtle')
-
+out = to_rdf(fac, g)
+print out.serialize(format='turtle')
 
 

@@ -10,7 +10,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
-from utils import ns_mgr, hash_uri
+from rdflib_jsonld.parser import to_rdf
+from vdm.namespaces import ns_mgr
+from utils import hash_uri
 
 #Data namespace
 ns = "http://vivo.school.edu/individual/"
@@ -34,10 +36,11 @@ positions = []
 
 with open(sys.argv[1]) as infile:
     for count, row in enumerate(csv.DictReader(infile)):
-        fac_id = row['UID']
-        org_id = row['org_ID']
+        fac_id = row['person_ID']
+        org_id = row['department_ID']
         title = row['job_title']
 
+        #Create a hash local name for use in the URI.
         uri_parts = "{}{}{}".format(fac_id, org_id, title)
         position_uri = hash_uri(uri_parts, prefix='pos')
 

@@ -1,0 +1,218 @@
+@prefix afn: <http://jena.hpl.hp.com/ARQ/function#> .
+@prefix bcite: <http://vivo.brown.edu/ontology/citation#> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix blocal: <http://vivo.brown.edu/ontology/vivo-brown/> .
+@prefix d: <http://vivo.school.edu/individual/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vitro: <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#> .
+@prefix vitropublic: <http://vitro.mannlib.cornell.edu/ns/vitro/public#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+d:pos057bd5973a50accbf10c67ace98a5d61 a vivo:FacultyPosition ;
+    rdfs:label "Curator of Central Library" ;
+    vivo:relates d:fac2426,
+        d:org101028 .
+
+d:pos0aa472cfbf0553f6f4e6315e5b50c4f4 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of Central Library" ;
+    vivo:relates d:fac2682,
+        d:org101028 .
+
+d:pos0b6371a84be67a835b31bb3047b93ddc a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor II" ;
+    vivo:relates d:fac2070,
+        d:org102017 .
+
+d:pos127e0386806b7a3185d53832c4cda4f5 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor II" ;
+    vivo:relates d:fac2217,
+        d:org101028 .
+
+d:pos16d3c6690ff1bb74669447c77624568b a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor V" ;
+    vivo:relates d:fac2096,
+        d:org102017 .
+
+d:pos1cf353e718f85f184d7f28356c33eb56 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac3112,
+        d:org101028 .
+
+d:pos2557ef24476def096e2c5b14604589b6 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor V" ;
+    vivo:relates d:fac3903,
+        d:org101028 .
+
+d:pos26c554a16cdfae7a5afe254e29170e19 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor I" ;
+    vivo:relates d:fac2254,
+        d:org101028 .
+
+d:pos3b27727b4cb932d64130dd3c518f9a3b a vivo:FacultyPosition ;
+    rdfs:label "Research Professor I" ;
+    vivo:relates d:fac2948,
+        d:org102017 .
+
+d:pos3be870ee9708bd4ffa21d16a535bac1c a vivo:FacultyPosition ;
+    rdfs:label "Curator of South Library" ;
+    vivo:relates d:fac2389,
+        d:org101028 .
+
+d:pos3f2cb3896962ed98d8af75c32ef0c36c a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor VI" ;
+    vivo:relates d:fac2146,
+        d:org101028 .
+
+d:pos3f9c1abbb048c7258a9aac95df599eb8 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator  of North Library" ;
+    vivo:relates d:fac2941,
+        d:org102017 .
+
+d:pos44a304f54e999facfcea5d1d326f9bb3 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermal Energy" ;
+    vivo:relates d:fac3130,
+        d:org102017 .
+
+d:pos5f438dd8005a3e2a1efd6c5cff79f061 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac1625,
+        d:org102017 .
+
+d:pos65b2572e4d861874137b4402b3b7dffe a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor IV" ;
+    vivo:relates d:fac2303,
+        d:org101028 .
+
+d:pos68fc9c1de2ebe510a844fc2e08a5933f a vivo:FacultyPosition ;
+    rdfs:label "Research Professor II" ;
+    vivo:relates d:fac3066,
+        d:org101028 .
+
+d:pos6a3b722c4008a1d45314c71ccaa267e0 a vivo:FacultyPosition ;
+    rdfs:label "Research Professor III" ;
+    vivo:relates d:fac3012,
+        d:org101028 .
+
+d:pos6ae11381326debaf566476c6a5143bb5 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator  of West Library" ;
+    vivo:relates d:fac2755,
+        d:org102017 .
+
+d:pos71927b6e09190d864ed24a71055f1c8f a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of South Library" ;
+    vivo:relates d:fac2895,
+        d:org101028 .
+
+d:pos7e289b8a39e890110e33164209ea3625 a vivo:FacultyPosition ;
+    rdfs:label "Research Professor II" ;
+    vivo:relates d:fac3929,
+        d:org102017 .
+
+d:pos82280eda0edc5a92dc5f5abb6eb8c562 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor III" ;
+    vivo:relates d:fac1968,
+        d:org101028 .
+
+d:pos835c9caded675b412436705ffdb4cfd1 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1089,
+        d:org102017 .
+
+d:pos8a7b03d96b9591039059f1b349463f27 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor IV" ;
+    vivo:relates d:fac3544,
+        d:org102017 .
+
+d:pos932c9a3ad470334d4d079528f7fe535b a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac4150,
+        d:org102017 .
+
+d:pos934bbefa21645c246436456423db562f a vivo:FacultyPosition ;
+    rdfs:label "Curator of West Library" ;
+    vivo:relates d:fac2383,
+        d:org101028 .
+
+d:pos9bf1e5f867c0111676a40c633a62d1f8 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1538,
+        d:org102017 .
+
+d:pos9cb599ede608e011752845a226506831 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac1567,
+        d:org101028 .
+
+d:pos9d603c10726cdc441ae902cde1c54e8c a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac3095,
+        d:org101028 .
+
+d:posa34393f4ba66b21c5c39fc203fe7094c a vivo:FacultyPosition ;
+    rdfs:label "Professor of Gravitational Energy" ;
+    vivo:relates d:fac3297,
+        d:org102017 .
+
+d:posaf7c8d421e6fe5816c35f946603dd907 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac1699,
+        d:org101028 .
+
+d:posb0b49111fbffbd8b81492a98d3ccc46e a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of East Library" ;
+    vivo:relates d:fac2811,
+        d:org102017 .
+
+d:posb396da26c6b3be38d98768647611e78a a vivo:FacultyPosition ;
+    rdfs:label "Curator of North Library" ;
+    vivo:relates d:fac2401,
+        d:org102017 .
+
+d:posc05f480f522b57f5914f1445a1770a36 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1307,
+        d:org102017 .
+
+d:posc2b9ee1dc7f90dbacdfb9f1825aad603 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac3958,
+        d:org101028 .
+
+d:posca0f2b66a8bd5a39abe53943c5835553 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor III" ;
+    vivo:relates d:fac2342,
+        d:org102017 .
+
+d:poscdd4bfab933b4e02506559dd700604c6 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac1824,
+        d:org101028 .
+
+d:pose40d62f09436503b8742cc51e325e13a a vivo:FacultyPosition ;
+    rdfs:label "Curator of East Library" ;
+    vivo:relates d:fac2561,
+        d:org102017 .
+
+d:pose7cdb935de043d075b7d287b23782de7 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac4539,
+        d:org102017 .
+
+d:posee1269b97b292caf566279afa24f10db a vivo:FacultyPosition ;
+    rdfs:label "Research Professor I" ;
+    vivo:relates d:fac4580,
+        d:org101028 .
+
+d:posfda498d2750d605966aa7e6867a69a75 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor I" ;
+    vivo:relates d:fac3547,
+        d:org102017 .
+
+
