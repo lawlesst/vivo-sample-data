@@ -19,1714 +19,1514 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-d:fac1089 a vivo:FacultyMember ;
-    rdfs:label "Payne, Ladonna" ;
-    obo:ARG_2000028 d:fac1089-vcard .
-
-d:fac1307 a vivo:FacultyMember ;
-    rdfs:label "Pate, Andrea" ;
-    obo:ARG_2000028 d:fac1307-vcard .
-
-d:fac1538 a vivo:FacultyMember ;
-    rdfs:label "Moises, Edgar Estes" ;
-    obo:ARG_2000028 d:fac1538-vcard .
-
-d:fac1567 a vivo:FacultyMember ;
-    rdfs:label "Banks, Shannon" ;
-    obo:ARG_2000028 d:fac1567-vcard .
-
-d:fac1625 a vivo:FacultyMember ;
-    rdfs:label "Hawkins, Callie" ;
-    obo:ARG_2000028 d:fac1625-vcard .
-
-d:fac1699 a vivo:FacultyMember ;
-    rdfs:label "Stanton, Kathie" ;
-    obo:ARG_2000028 d:fac1699-vcard .
-
-d:fac1824 a vivo:FacultyMember ;
-    rdfs:label "Head, Kurtis" ;
-    obo:ARG_2000028 d:fac1824-vcard .
-
-d:fac1968 a vivo:FacultyMember ;
-    rdfs:label "Michael, Dianne" ;
-    obo:ARG_2000028 d:fac1968-vcard .
-
-d:fac2070 a vivo:FacultyMember ;
-    rdfs:label "Mosley, Edmund" ;
-    obo:ARG_2000028 d:fac2070-vcard .
-
-d:fac2096 a vivo:FacultyMember ;
-    rdfs:label "Chuck, Lloyd Haney" ;
-    obo:ARG_2000028 d:fac2096-vcard .
-
-d:fac2146 a vivo:FacultyMember ;
-    rdfs:label "Sparks, Ezra" ;
-    obo:ARG_2000028 d:fac2146-vcard .
-
-d:fac2217 a vivo:FacultyMember ;
-    rdfs:label "Katheryn, Ruben Holt" ;
-    obo:ARG_2000028 d:fac2217-vcard .
-
-d:fac2254 a vivo:FacultyMember ;
-    rdfs:label "Effie, Leila Vinson" ;
-    obo:ARG_2000028 d:fac2254-vcard .
-
-d:fac2303 a vivo:FacultyMember ;
-    rdfs:label "Quentin, Sam Hyde" ;
-    obo:ARG_2000028 d:fac2303-vcard .
-
-d:fac2342 a vivo:FacultyMember ;
-    rdfs:label "Austin, Liz" ;
-    obo:ARG_2000028 d:fac2342-vcard .
-
-d:fac2383 a vivo:FacultyMember ;
-    rdfs:label "Page, Winnie" ;
-    obo:ARG_2000028 d:fac2383-vcard .
-
-d:fac2389 a vivo:FacultyMember ;
-    rdfs:label "Buckley, Rose" ;
-    obo:ARG_2000028 d:fac2389-vcard .
-
-d:fac2401 a vivo:FacultyMember ;
-    rdfs:label "Claude, Elvin Haney" ;
-    obo:ARG_2000028 d:fac2401-vcard .
-
-d:fac2426 a vivo:FacultyMember ;
-    rdfs:label "Brady, Nellie" ;
-    obo:ARG_2000028 d:fac2426-vcard .
-
-d:fac2561 a vivo:FacultyMember ;
-    rdfs:label "Derek, Antoine Mccoy" ;
-    obo:ARG_2000028 d:fac2561-vcard .
-
-d:fac2682 a vivo:FacultyMember ;
-    rdfs:label "Earline, Jaime Fitzgerald" ;
-    obo:ARG_2000028 d:fac2682-vcard .
-
-d:fac2755 a vivo:FacultyMember ;
-    rdfs:label "Kendrick, Reba Alford" ;
-    obo:ARG_2000028 d:fac2755-vcard .
-
-d:fac2811 a vivo:FacultyMember ;
-    rdfs:label "Deirdre, Florence Barrera" ;
-    obo:ARG_2000028 d:fac2811-vcard .
-
-d:fac2895 a vivo:FacultyMember ;
-    rdfs:label "Garrison, Patrica" ;
-    obo:ARG_2000028 d:fac2895-vcard .
-
-d:fac2941 a vivo:FacultyMember ;
-    rdfs:label "Brian, Heath Pruitt" ;
-    obo:ARG_2000028 d:fac2941-vcard .
-
-d:fac2948 a vivo:FacultyMember ;
-    rdfs:label "Baxter, Johnathan Browning" ;
-    obo:ARG_2000028 d:fac2948-vcard .
-
-d:fac3012 a vivo:FacultyMember ;
-    rdfs:label "Grant, Adam" ;
-    obo:ARG_2000028 d:fac3012-vcard .
-
-d:fac3066 a vivo:FacultyMember ;
-    rdfs:label "Barnes, Cleo" ;
-    obo:ARG_2000028 d:fac3066-vcard .
-
-d:fac3095 a vivo:FacultyMember ;
-    rdfs:label "Shields, Rich Pena" ;
-    obo:ARG_2000028 d:fac3095-vcard .
-
-d:fac3112 a vivo:FacultyMember ;
-    rdfs:label "Evelyn, Summer Frost" ;
-    obo:ARG_2000028 d:fac3112-vcard .
-
-d:fac3130 a vivo:FacultyMember ;
-    rdfs:label "Burks, Rosella" ;
-    obo:ARG_2000028 d:fac3130-vcard .
-
-d:fac3297 a vivo:FacultyMember ;
-    rdfs:label "Avila, Damien" ;
-    obo:ARG_2000028 d:fac3297-vcard .
-
-d:fac3544 a vivo:FacultyMember ;
-    rdfs:label "Mullins, Kimberly" ;
-    obo:ARG_2000028 d:fac3544-vcard .
-
-d:fac3547 a vivo:FacultyMember ;
-    rdfs:label "Olsen, Robin" ;
-    obo:ARG_2000028 d:fac3547-vcard .
-
-d:fac3903 a vivo:FacultyMember ;
-    rdfs:label "Dunlap, Ann" ;
-    obo:ARG_2000028 d:fac3903-vcard .
-
-d:fac3929 a vivo:FacultyMember ;
-    rdfs:label "Berger, Jami" ;
-    obo:ARG_2000028 d:fac3929-vcard .
-
-d:fac3958 a vivo:FacultyMember ;
-    rdfs:label "Kaufman, Elba" ;
-    obo:ARG_2000028 d:fac3958-vcard .
-
-d:fac4150 a vivo:FacultyMember ;
-    rdfs:label "Sims, Angelina" ;
-    obo:ARG_2000028 d:fac4150-vcard .
-
-d:fac4539 a vivo:FacultyMember ;
-    rdfs:label "Weiss, Gilbert" ;
-    obo:ARG_2000028 d:fac4539-vcard .
-
-d:fac4580 a vivo:FacultyMember ;
-    rdfs:label "Fernando, Toby Calderon" ;
-    obo:ARG_2000028 d:fac4580-vcard .
-
 d:org100000 a vivo:University ;
     rdfs:label "University of VIVO" .
 
 d:org101000 a vivo:College ;
     rdfs:label "College of Science" .
 
-d:org101028 a vivo:Department ;
-    rdfs:label "Energy Sciences Department" .
-
 d:org102000 a vivo:College ;
     rdfs:label "College of Research" .
 
+d:pos057bd5973a50accbf10c67ace98a5d61 a vivo:FacultyPosition ;
+    rdfs:label "Curator of Central Library" ;
+    vivo:relates d:fac2426,
+        d:org101028 .
+
+d:pos0aa472cfbf0553f6f4e6315e5b50c4f4 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of Central Library" ;
+    vivo:relates d:fac2682,
+        d:org101028 .
+
+d:pos0b6371a84be67a835b31bb3047b93ddc a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor II" ;
+    vivo:relates d:fac2070,
+        d:org102017 .
+
+d:pos127e0386806b7a3185d53832c4cda4f5 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor II" ;
+    vivo:relates d:fac2217,
+        d:org101028 .
+
+d:pos16d3c6690ff1bb74669447c77624568b a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor V" ;
+    vivo:relates d:fac2096,
+        d:org102017 .
+
+d:pos1cf353e718f85f184d7f28356c33eb56 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac3112,
+        d:org101028 .
+
+d:pos2557ef24476def096e2c5b14604589b6 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor V" ;
+    vivo:relates d:fac3903,
+        d:org101028 .
+
+d:pos26c554a16cdfae7a5afe254e29170e19 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor I" ;
+    vivo:relates d:fac2254,
+        d:org101028 .
+
+d:pos3b27727b4cb932d64130dd3c518f9a3b a vivo:FacultyPosition ;
+    rdfs:label "Research Professor I" ;
+    vivo:relates d:fac2948,
+        d:org102017 .
+
+d:pos3be870ee9708bd4ffa21d16a535bac1c a vivo:FacultyPosition ;
+    rdfs:label "Curator of South Library" ;
+    vivo:relates d:fac2389,
+        d:org101028 .
+
+d:pos3f2cb3896962ed98d8af75c32ef0c36c a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor VI" ;
+    vivo:relates d:fac2146,
+        d:org101028 .
+
+d:pos3f9c1abbb048c7258a9aac95df599eb8 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator  of North Library" ;
+    vivo:relates d:fac2941,
+        d:org102017 .
+
+d:pos44a304f54e999facfcea5d1d326f9bb3 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermal Energy" ;
+    vivo:relates d:fac3130,
+        d:org102017 .
+
+d:pos5f438dd8005a3e2a1efd6c5cff79f061 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac1625,
+        d:org102017 .
+
+d:pos65b2572e4d861874137b4402b3b7dffe a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor IV" ;
+    vivo:relates d:fac2303,
+        d:org101028 .
+
+d:pos68fc9c1de2ebe510a844fc2e08a5933f a vivo:FacultyPosition ;
+    rdfs:label "Research Professor II" ;
+    vivo:relates d:fac3066,
+        d:org101028 .
+
+d:pos6a3b722c4008a1d45314c71ccaa267e0 a vivo:FacultyPosition ;
+    rdfs:label "Research Professor III" ;
+    vivo:relates d:fac3012,
+        d:org101028 .
+
+d:pos6ae11381326debaf566476c6a5143bb5 a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator  of West Library" ;
+    vivo:relates d:fac2755,
+        d:org102017 .
+
+d:pos71927b6e09190d864ed24a71055f1c8f a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of South Library" ;
+    vivo:relates d:fac2895,
+        d:org101028 .
+
+d:pos7e289b8a39e890110e33164209ea3625 a vivo:FacultyPosition ;
+    rdfs:label "Research Professor II" ;
+    vivo:relates d:fac3929,
+        d:org102017 .
+
+d:pos82280eda0edc5a92dc5f5abb6eb8c562 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor III" ;
+    vivo:relates d:fac1968,
+        d:org101028 .
+
+d:pos835c9caded675b412436705ffdb4cfd1 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1089,
+        d:org102017 .
+
+d:pos8a7b03d96b9591039059f1b349463f27 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor IV" ;
+    vivo:relates d:fac3544,
+        d:org102017 .
+
+d:pos932c9a3ad470334d4d079528f7fe535b a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac4150,
+        d:org102017 .
+
+d:pos934bbefa21645c246436456423db562f a vivo:FacultyPosition ;
+    rdfs:label "Curator of West Library" ;
+    vivo:relates d:fac2383,
+        d:org101028 .
+
+d:pos9bf1e5f867c0111676a40c633a62d1f8 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1538,
+        d:org102017 .
+
+d:pos9cb599ede608e011752845a226506831 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac1567,
+        d:org101028 .
+
+d:pos9d603c10726cdc441ae902cde1c54e8c a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac3095,
+        d:org101028 .
+
+d:posa34393f4ba66b21c5c39fc203fe7094c a vivo:FacultyPosition ;
+    rdfs:label "Professor of Gravitational Energy" ;
+    vivo:relates d:fac3297,
+        d:org102017 .
+
+d:posaf7c8d421e6fe5816c35f946603dd907 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac1699,
+        d:org101028 .
+
+d:posb0b49111fbffbd8b81492a98d3ccc46e a vivo:FacultyPosition ;
+    rdfs:label "Associate Curator of East Library" ;
+    vivo:relates d:fac2811,
+        d:org102017 .
+
+d:posb396da26c6b3be38d98768647611e78a a vivo:FacultyPosition ;
+    rdfs:label "Curator of North Library" ;
+    vivo:relates d:fac2401,
+        d:org102017 .
+
+d:posc05f480f522b57f5914f1445a1770a36 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Thermodynamics" ;
+    vivo:relates d:fac1307,
+        d:org102017 .
+
+d:posc2b9ee1dc7f90dbacdfb9f1825aad603 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Elastic Energy" ;
+    vivo:relates d:fac3958,
+        d:org101028 .
+
+d:posca0f2b66a8bd5a39abe53943c5835553 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor III" ;
+    vivo:relates d:fac2342,
+        d:org102017 .
+
+d:poscdd4bfab933b4e02506559dd700604c6 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Kinetic Energy" ;
+    vivo:relates d:fac1824,
+        d:org101028 .
+
+d:pose40d62f09436503b8742cc51e325e13a a vivo:FacultyPosition ;
+    rdfs:label "Curator of East Library" ;
+    vivo:relates d:fac2561,
+        d:org102017 .
+
+d:pose7cdb935de043d075b7d287b23782de7 a vivo:FacultyPosition ;
+    rdfs:label "Professor of Cogeneration" ;
+    vivo:relates d:fac4539,
+        d:org102017 .
+
+d:posee1269b97b292caf566279afa24f10db a vivo:FacultyPosition ;
+    rdfs:label "Research Professor I" ;
+    vivo:relates d:fac4580,
+        d:org101028 .
+
+d:posfda498d2750d605966aa7e6867a69a75 a vivo:FacultyPosition ;
+    rdfs:label "Assistant Professor I" ;
+    vivo:relates d:fac3547,
+        d:org102017 .
+
+d:fac1089 a vivo:FacultyMember ;
+    rdfs:label "Payne, Ladonna" ;
+    ns2:ARG_2000028 d:fac1089-vcard .
+
+d:fac1089-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1089-vcard-email ;
+    ns1:hasName d:fac1089-vcard-name ;
+    ns1:hasTelephone d:fac1089-vcard-fax,
+        d:fac1089-vcard-phone ;
+    ns1:hasTitle d:fac1089-vcard-title .
+
+d:fac1089-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "PayneL@univ.edu" .
+
+d:fac1089-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.6469" .
+
+d:fac1089-vcard-name a ns1:Name ;
+    ns1:familyName "Payne" ;
+    ns1:givenName "Ladonna" .
+
+d:fac1089-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5639" .
+
+d:fac1089-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1307 a vivo:FacultyMember ;
+    rdfs:label "Pate, Andrea" ;
+    ns2:ARG_2000028 d:fac1307-vcard .
+
+d:fac1307-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1307-vcard-email ;
+    ns1:hasName d:fac1307-vcard-name ;
+    ns1:hasTelephone d:fac1307-vcard-fax,
+        d:fac1307-vcard-phone ;
+    ns1:hasTitle d:fac1307-vcard-title .
+
+d:fac1307-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "PateA@univ.edu" .
+
+d:fac1307-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.5049" .
+
+d:fac1307-vcard-name a ns1:Name ;
+    ns1:familyName "Pate" ;
+    ns1:givenName "Andrea" .
+
+d:fac1307-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.3723" .
+
+d:fac1307-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1538 a vivo:FacultyMember ;
+    rdfs:label "Moises, Edgar Estes" ;
+    ns2:ARG_2000028 d:fac1538-vcard .
+
+d:fac1538-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1538-vcard-email ;
+    ns1:hasName d:fac1538-vcard-name ;
+    ns1:hasTelephone d:fac1538-vcard-fax,
+        d:fac1538-vcard-phone ;
+    ns1:hasTitle d:fac1538-vcard-title .
+
+d:fac1538-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "MoisesE@univ.edu" .
+
+d:fac1538-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.8264" .
+
+d:fac1538-vcard-name a ns1:Name ;
+    vivo:middleName "Estes" ;
+    ns1:familyName "Moises" ;
+    ns1:givenName "Edgar" .
+
+d:fac1538-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.2731x3565" .
+
+d:fac1538-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1567 a vivo:FacultyMember ;
+    rdfs:label "Banks, Shannon" ;
+    ns2:ARG_2000028 d:fac1567-vcard .
+
+d:fac1567-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1567-vcard-email ;
+    ns1:hasName d:fac1567-vcard-name ;
+    ns1:hasTelephone d:fac1567-vcard-fax,
+        d:fac1567-vcard-phone ;
+    ns1:hasTitle d:fac1567-vcard-title .
+
+d:fac1567-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BanksS@univ.edu" .
+
+d:fac1567-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.6979" .
+
+d:fac1567-vcard-name a ns1:Name ;
+    ns1:familyName "Banks" ;
+    ns1:givenName "Shannon" .
+
+d:fac1567-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7198" .
+
+d:fac1567-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1625 a vivo:FacultyMember ;
+    rdfs:label "Hawkins, Callie" ;
+    ns2:ARG_2000028 d:fac1625-vcard .
+
+d:fac1625-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1625-vcard-email ;
+    ns1:hasName d:fac1625-vcard-name ;
+    ns1:hasTelephone d:fac1625-vcard-fax,
+        d:fac1625-vcard-phone ;
+    ns1:hasTitle d:fac1625-vcard-title .
+
+d:fac1625-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "HawkinsC@univ.edu" .
+
+d:fac1625-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4949" .
+
+d:fac1625-vcard-name a ns1:Name ;
+    ns1:familyName "Hawkins" ;
+    ns1:givenName "Callie" .
+
+d:fac1625-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.3350x6480" .
+
+d:fac1625-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1699 a vivo:FacultyMember ;
+    rdfs:label "Stanton, Kathie" ;
+    ns2:ARG_2000028 d:fac1699-vcard .
+
+d:fac1699-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1699-vcard-email ;
+    ns1:hasName d:fac1699-vcard-name ;
+    ns1:hasTelephone d:fac1699-vcard-fax,
+        d:fac1699-vcard-phone ;
+    ns1:hasTitle d:fac1699-vcard-title .
+
+d:fac1699-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "StantonK@univ.edu" .
+
+d:fac1699-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.1015" .
+
+d:fac1699-vcard-name a ns1:Name ;
+    ns1:familyName "Stanton" ;
+    ns1:givenName "Kathie" .
+
+d:fac1699-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7095" .
+
+d:fac1699-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1824 a vivo:FacultyMember ;
+    rdfs:label "Head, Kurtis" ;
+    ns2:ARG_2000028 d:fac1824-vcard .
+
+d:fac1824-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1824-vcard-email ;
+    ns1:hasName d:fac1824-vcard-name ;
+    ns1:hasTelephone d:fac1824-vcard-fax,
+        d:fac1824-vcard-phone ;
+    ns1:hasTitle d:fac1824-vcard-title .
+
+d:fac1824-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "HeadK@univ.edu" .
+
+d:fac1824-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.6348" .
+
+d:fac1824-vcard-name a ns1:Name ;
+    ns1:familyName "Head" ;
+    ns1:givenName "Kurtis" .
+
+d:fac1824-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7882" .
+
+d:fac1824-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac1968 a vivo:FacultyMember ;
+    rdfs:label "Michael, Dianne" ;
+    ns2:ARG_2000028 d:fac1968-vcard .
+
+d:fac1968-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac1968-vcard-email ;
+    ns1:hasName d:fac1968-vcard-name ;
+    ns1:hasTelephone d:fac1968-vcard-fax,
+        d:fac1968-vcard-phone ;
+    ns1:hasTitle d:fac1968-vcard-title .
+
+d:fac1968-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "MichaelD@univ.edu" .
+
+d:fac1968-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9960" .
+
+d:fac1968-vcard-name a ns1:Name ;
+    ns1:familyName "Michael" ;
+    ns1:givenName "Dianne" .
+
+d:fac1968-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7592" .
+
+d:fac1968-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2070 a vivo:FacultyMember ;
+    rdfs:label "Mosley, Edmund" ;
+    ns2:ARG_2000028 d:fac2070-vcard .
+
+d:fac2070-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2070-vcard-email ;
+    ns1:hasName d:fac2070-vcard-name ;
+    ns1:hasTelephone d:fac2070-vcard-fax,
+        d:fac2070-vcard-phone ;
+    ns1:hasTitle d:fac2070-vcard-title .
+
+d:fac2070-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "MosleyE@univ.edu" .
+
+d:fac2070-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9285" .
+
+d:fac2070-vcard-name a ns1:Name ;
+    ns1:familyName "Mosley" ;
+    ns1:givenName "Edmund" .
+
+d:fac2070-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.2945" .
+
+d:fac2070-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2096 a vivo:FacultyMember ;
+    rdfs:label "Chuck, Lloyd Haney" ;
+    ns2:ARG_2000028 d:fac2096-vcard .
+
+d:fac2096-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2096-vcard-email ;
+    ns1:hasName d:fac2096-vcard-name ;
+    ns1:hasTelephone d:fac2096-vcard-fax,
+        d:fac2096-vcard-phone ;
+    ns1:hasTitle d:fac2096-vcard-title .
+
+d:fac2096-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "ChuckL@univ.edu" .
+
+d:fac2096-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9290" .
+
+d:fac2096-vcard-name a ns1:Name ;
+    vivo:middleName "Haney" ;
+    ns1:familyName "Chuck" ;
+    ns1:givenName "Lloyd" .
+
+d:fac2096-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5568x2652" .
+
+d:fac2096-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2146 a vivo:FacultyMember ;
+    rdfs:label "Sparks, Ezra" ;
+    ns2:ARG_2000028 d:fac2146-vcard .
+
+d:fac2146-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2146-vcard-email ;
+    ns1:hasName d:fac2146-vcard-name ;
+    ns1:hasTelephone d:fac2146-vcard-fax,
+        d:fac2146-vcard-phone ;
+    ns1:hasTitle d:fac2146-vcard-title .
+
+d:fac2146-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "SparksE@univ.edu" .
+
+d:fac2146-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9273" .
+
+d:fac2146-vcard-name a ns1:Name ;
+    ns1:familyName "Sparks" ;
+    ns1:givenName "Ezra" .
+
+d:fac2146-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.9390" .
+
+d:fac2146-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2217 a vivo:FacultyMember ;
+    rdfs:label "Katheryn, Ruben Holt" ;
+    ns2:ARG_2000028 d:fac2217-vcard .
+
+d:fac2217-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2217-vcard-email ;
+    ns1:hasName d:fac2217-vcard-name ;
+    ns1:hasTelephone d:fac2217-vcard-fax,
+        d:fac2217-vcard-phone ;
+    ns1:hasTitle d:fac2217-vcard-title .
+
+d:fac2217-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "KatherynR@univ.edu" .
+
+d:fac2217-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.3969" .
+
+d:fac2217-vcard-name a ns1:Name ;
+    vivo:middleName "Holt" ;
+    ns1:familyName "Katheryn" ;
+    ns1:givenName "Ruben" .
+
+d:fac2217-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7578" .
+
+d:fac2217-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2254 a vivo:FacultyMember ;
+    rdfs:label "Effie, Leila Vinson" ;
+    ns2:ARG_2000028 d:fac2254-vcard .
+
+d:fac2254-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2254-vcard-email ;
+    ns1:hasName d:fac2254-vcard-name ;
+    ns1:hasTelephone d:fac2254-vcard-fax,
+        d:fac2254-vcard-phone ;
+    ns1:hasTitle d:fac2254-vcard-title .
+
+d:fac2254-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "EffieL@univ.edu" .
+
+d:fac2254-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.7299" .
+
+d:fac2254-vcard-name a ns1:Name ;
+    vivo:middleName "Vinson" ;
+    ns1:familyName "Effie" ;
+    ns1:givenName "Leila" .
+
+d:fac2254-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.6824" .
+
+d:fac2254-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2303 a vivo:FacultyMember ;
+    rdfs:label "Quentin, Sam Hyde" ;
+    ns2:ARG_2000028 d:fac2303-vcard .
+
+d:fac2303-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2303-vcard-email ;
+    ns1:hasName d:fac2303-vcard-name ;
+    ns1:hasTelephone d:fac2303-vcard-fax,
+        d:fac2303-vcard-phone ;
+    ns1:hasTitle d:fac2303-vcard-title .
+
+d:fac2303-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "QuentinS@univ.edu" .
+
+d:fac2303-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.2712" .
+
+d:fac2303-vcard-name a ns1:Name ;
+    vivo:middleName "Hyde" ;
+    ns1:familyName "Quentin" ;
+    ns1:givenName "Sam" .
+
+d:fac2303-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.8921" .
+
+d:fac2303-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2342 a vivo:FacultyMember ;
+    rdfs:label "Austin, Liz" ;
+    ns2:ARG_2000028 d:fac2342-vcard .
+
+d:fac2342-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2342-vcard-email ;
+    ns1:hasName d:fac2342-vcard-name ;
+    ns1:hasTelephone d:fac2342-vcard-fax,
+        d:fac2342-vcard-phone ;
+    ns1:hasTitle d:fac2342-vcard-title .
+
+d:fac2342-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "AustinL@univ.edu" .
+
+d:fac2342-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.6143" .
+
+d:fac2342-vcard-name a ns1:Name ;
+    ns1:familyName "Austin" ;
+    ns1:givenName "Liz" .
+
+d:fac2342-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.4305" .
+
+d:fac2342-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac2383 a vivo:FacultyMember ;
+    rdfs:label "Page, Winnie" ;
+    ns2:ARG_2000028 d:fac2383-vcard .
+
+d:fac2383-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2383-vcard-email ;
+    ns1:hasName d:fac2383-vcard-name ;
+    ns1:hasTelephone d:fac2383-vcard-fax,
+        d:fac2383-vcard-phone ;
+    ns1:hasTitle d:fac2383-vcard-title .
+
+d:fac2383-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "PageW@univ.edu" .
+
+d:fac2383-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.3202" .
+
+d:fac2383-vcard-name a ns1:Name ;
+    ns1:familyName "Page" ;
+    ns1:givenName "Winnie" .
+
+d:fac2383-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.9366" .
+
+d:fac2383-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
+d:fac2389 a vivo:FacultyMember ;
+    rdfs:label "Buckley, Rose" ;
+    ns2:ARG_2000028 d:fac2389-vcard .
+
+d:fac2389-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2389-vcard-email ;
+    ns1:hasName d:fac2389-vcard-name ;
+    ns1:hasTelephone d:fac2389-vcard-fax,
+        d:fac2389-vcard-phone ;
+    ns1:hasTitle d:fac2389-vcard-title .
+
+d:fac2389-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BuckleyR@univ.edu" .
+
+d:fac2389-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.5233" .
+
+d:fac2389-vcard-name a ns1:Name ;
+    ns1:familyName "Buckley" ;
+    ns1:givenName "Rose" .
+
+d:fac2389-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.6855x5018" .
+
+d:fac2389-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
+d:fac2401 a vivo:FacultyMember ;
+    rdfs:label "Claude, Elvin Haney" ;
+    ns2:ARG_2000028 d:fac2401-vcard .
+
+d:fac2401-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2401-vcard-email ;
+    ns1:hasName d:fac2401-vcard-name ;
+    ns1:hasTelephone d:fac2401-vcard-fax,
+        d:fac2401-vcard-phone ;
+    ns1:hasTitle d:fac2401-vcard-title .
+
+d:fac2401-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "ClaudeE@univ.edu" .
+
+d:fac2401-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9730" .
+
+d:fac2401-vcard-name a ns1:Name ;
+    vivo:middleName "Haney" ;
+    ns1:familyName "Claude" ;
+    ns1:givenName "Elvin" .
+
+d:fac2401-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.2902" .
+
+d:fac2401-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
+d:fac2426 a vivo:FacultyMember ;
+    rdfs:label "Brady, Nellie" ;
+    ns2:ARG_2000028 d:fac2426-vcard .
+
+d:fac2426-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2426-vcard-email ;
+    ns1:hasName d:fac2426-vcard-name ;
+    ns1:hasTelephone d:fac2426-vcard-fax,
+        d:fac2426-vcard-phone ;
+    ns1:hasTitle d:fac2426-vcard-title .
+
+d:fac2426-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BradyN@univ.edu" .
+
+d:fac2426-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.7218" .
+
+d:fac2426-vcard-name a ns1:Name ;
+    ns1:familyName "Brady" ;
+    ns1:givenName "Nellie" .
+
+d:fac2426-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7569" .
+
+d:fac2426-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
+d:fac2561 a vivo:FacultyMember ;
+    rdfs:label "Derek, Antoine Mccoy" ;
+    ns2:ARG_2000028 d:fac2561-vcard .
+
+d:fac2561-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2561-vcard-email ;
+    ns1:hasName d:fac2561-vcard-name ;
+    ns1:hasTelephone d:fac2561-vcard-fax,
+        d:fac2561-vcard-phone ;
+    ns1:hasTitle d:fac2561-vcard-title .
+
+d:fac2561-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "DerekA@univ.edu" .
+
+d:fac2561-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.5454" .
+
+d:fac2561-vcard-name a ns1:Name ;
+    vivo:middleName "Mccoy" ;
+    ns1:familyName "Derek" ;
+    ns1:givenName "Antoine" .
+
+d:fac2561-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.2992" .
+
+d:fac2561-vcard-title a ns1:Title ;
+    ns1:title "Curator" .
+
+d:fac2682 a vivo:FacultyMember ;
+    rdfs:label "Earline, Jaime Fitzgerald" ;
+    ns2:ARG_2000028 d:fac2682-vcard .
+
+d:fac2682-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2682-vcard-email ;
+    ns1:hasName d:fac2682-vcard-name ;
+    ns1:hasTelephone d:fac2682-vcard-fax,
+        d:fac2682-vcard-phone ;
+    ns1:hasTitle d:fac2682-vcard-title .
+
+d:fac2682-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "EarlineJ@univ.edu" .
+
+d:fac2682-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4114" .
+
+d:fac2682-vcard-name a ns1:Name ;
+    vivo:middleName "Fitzgerald" ;
+    ns1:familyName "Earline" ;
+    ns1:givenName "Jaime" .
+
+d:fac2682-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.8357" .
+
+d:fac2682-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
+d:fac2755 a vivo:FacultyMember ;
+    rdfs:label "Kendrick, Reba Alford" ;
+    ns2:ARG_2000028 d:fac2755-vcard .
+
+d:fac2755-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2755-vcard-email ;
+    ns1:hasName d:fac2755-vcard-name ;
+    ns1:hasTelephone d:fac2755-vcard-fax,
+        d:fac2755-vcard-phone ;
+    ns1:hasTitle d:fac2755-vcard-title .
+
+d:fac2755-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "KendrickR@univ.edu" .
+
+d:fac2755-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4371" .
+
+d:fac2755-vcard-name a ns1:Name ;
+    vivo:middleName "Alford" ;
+    ns1:familyName "Kendrick" ;
+    ns1:givenName "Reba" .
+
+d:fac2755-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.4618x7744" .
+
+d:fac2755-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
+d:fac2811 a vivo:FacultyMember ;
+    rdfs:label "Deirdre, Florence Barrera" ;
+    ns2:ARG_2000028 d:fac2811-vcard .
+
+d:fac2811-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2811-vcard-email ;
+    ns1:hasName d:fac2811-vcard-name ;
+    ns1:hasTelephone d:fac2811-vcard-fax,
+        d:fac2811-vcard-phone ;
+    ns1:hasTitle d:fac2811-vcard-title .
+
+d:fac2811-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "DeirdreF@univ.edu" .
+
+d:fac2811-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9654" .
+
+d:fac2811-vcard-name a ns1:Name ;
+    vivo:middleName "Barrera" ;
+    ns1:familyName "Deirdre" ;
+    ns1:givenName "Florence" .
+
+d:fac2811-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.6319" .
+
+d:fac2811-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
+d:fac2895 a vivo:FacultyMember ;
+    rdfs:label "Garrison, Patrica" ;
+    ns2:ARG_2000028 d:fac2895-vcard .
+
+d:fac2895-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2895-vcard-email ;
+    ns1:hasName d:fac2895-vcard-name ;
+    ns1:hasTelephone d:fac2895-vcard-fax,
+        d:fac2895-vcard-phone ;
+    ns1:hasTitle d:fac2895-vcard-title .
+
+d:fac2895-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "GarrisonP@univ.edu" .
+
+d:fac2895-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4958" .
+
+d:fac2895-vcard-name a ns1:Name ;
+    ns1:familyName "Garrison" ;
+    ns1:givenName "Patrica" .
+
+d:fac2895-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.6760" .
+
+d:fac2895-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
+d:fac2941 a vivo:FacultyMember ;
+    rdfs:label "Brian, Heath Pruitt" ;
+    ns2:ARG_2000028 d:fac2941-vcard .
+
+d:fac2941-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2941-vcard-email ;
+    ns1:hasName d:fac2941-vcard-name ;
+    ns1:hasTelephone d:fac2941-vcard-fax,
+        d:fac2941-vcard-phone ;
+    ns1:hasTitle d:fac2941-vcard-title .
+
+d:fac2941-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BrianH@univ.edu" .
+
+d:fac2941-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.7249" .
+
+d:fac2941-vcard-name a ns1:Name ;
+    vivo:middleName "Pruitt" ;
+    ns1:familyName "Brian" ;
+    ns1:givenName "Heath" .
+
+d:fac2941-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.2800" .
+
+d:fac2941-vcard-title a ns1:Title ;
+    ns1:title "Associate Curator " .
+
+d:fac2948 a vivo:FacultyMember ;
+    rdfs:label "Baxter, Johnathan Browning" ;
+    ns2:ARG_2000028 d:fac2948-vcard .
+
+d:fac2948-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac2948-vcard-email ;
+    ns1:hasName d:fac2948-vcard-name ;
+    ns1:hasTelephone d:fac2948-vcard-fax,
+        d:fac2948-vcard-phone ;
+    ns1:hasTitle d:fac2948-vcard-title .
+
+d:fac2948-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BaxterJ@univ.edu" .
+
+d:fac2948-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.8336" .
+
+d:fac2948-vcard-name a ns1:Name ;
+    vivo:middleName "Browning" ;
+    ns1:familyName "Baxter" ;
+    ns1:givenName "Johnathan" .
+
+d:fac2948-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5902" .
+
+d:fac2948-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
+d:fac3012 a vivo:FacultyMember ;
+    rdfs:label "Grant, Adam" ;
+    ns2:ARG_2000028 d:fac3012-vcard .
+
+d:fac3012-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3012-vcard-email ;
+    ns1:hasName d:fac3012-vcard-name ;
+    ns1:hasTelephone d:fac3012-vcard-fax,
+        d:fac3012-vcard-phone ;
+    ns1:hasTitle d:fac3012-vcard-title .
+
+d:fac3012-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "GrantA@univ.edu" .
+
+d:fac3012-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.8115" .
+
+d:fac3012-vcard-name a ns1:Name ;
+    ns1:familyName "Grant" ;
+    ns1:givenName "Adam" .
+
+d:fac3012-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7775" .
+
+d:fac3012-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
+d:fac3066 a vivo:FacultyMember ;
+    rdfs:label "Barnes, Cleo" ;
+    ns2:ARG_2000028 d:fac3066-vcard .
+
+d:fac3066-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3066-vcard-email ;
+    ns1:hasName d:fac3066-vcard-name ;
+    ns1:hasTelephone d:fac3066-vcard-fax,
+        d:fac3066-vcard-phone ;
+    ns1:hasTitle d:fac3066-vcard-title .
+
+d:fac3066-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BarnesC@univ.edu" .
+
+d:fac3066-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.1583" .
+
+d:fac3066-vcard-name a ns1:Name ;
+    ns1:familyName "Barnes" ;
+    ns1:givenName "Cleo" .
+
+d:fac3066-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.7463x7335" .
+
+d:fac3066-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
+d:fac3095 a vivo:FacultyMember ;
+    rdfs:label "Shields, Rich Pena" ;
+    ns2:ARG_2000028 d:fac3095-vcard .
+
+d:fac3095-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3095-vcard-email ;
+    ns1:hasName d:fac3095-vcard-name ;
+    ns1:hasTelephone d:fac3095-vcard-fax,
+        d:fac3095-vcard-phone ;
+    ns1:hasTitle d:fac3095-vcard-title .
+
+d:fac3095-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "ShieldsR@univ.edu" .
+
+d:fac3095-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.7215" .
+
+d:fac3095-vcard-name a ns1:Name ;
+    vivo:middleName "Pena" ;
+    ns1:familyName "Shields" ;
+    ns1:givenName "Rich" .
+
+d:fac3095-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.9197" .
+
+d:fac3095-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
+d:fac3112 a vivo:FacultyMember ;
+    rdfs:label "Evelyn, Summer Frost" ;
+    ns2:ARG_2000028 d:fac3112-vcard .
+
+d:fac3112-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3112-vcard-email ;
+    ns1:hasName d:fac3112-vcard-name ;
+    ns1:hasTelephone d:fac3112-vcard-fax,
+        d:fac3112-vcard-phone ;
+    ns1:hasTitle d:fac3112-vcard-title .
+
+d:fac3112-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "EvelynS@univ.edu" .
+
+d:fac3112-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.5730" .
+
+d:fac3112-vcard-name a ns1:Name ;
+    vivo:middleName "Frost" ;
+    ns1:familyName "Evelyn" ;
+    ns1:givenName "Summer" .
+
+d:fac3112-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.8895" .
+
+d:fac3112-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
+d:fac3130 a vivo:FacultyMember ;
+    rdfs:label "Burks, Rosella" ;
+    ns2:ARG_2000028 d:fac3130-vcard .
+
+d:fac3130-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3130-vcard-email ;
+    ns1:hasName d:fac3130-vcard-name ;
+    ns1:hasTelephone d:fac3130-vcard-fax,
+        d:fac3130-vcard-phone ;
+    ns1:hasTitle d:fac3130-vcard-title .
+
+d:fac3130-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BurksR@univ.edu" .
+
+d:fac3130-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4065" .
+
+d:fac3130-vcard-name a ns1:Name ;
+    ns1:familyName "Burks" ;
+    ns1:givenName "Rosella" .
+
+d:fac3130-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.1253" .
+
+d:fac3130-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
+d:fac3297 a vivo:FacultyMember ;
+    rdfs:label "Avila, Damien" ;
+    ns2:ARG_2000028 d:fac3297-vcard .
+
+d:fac3297-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3297-vcard-email ;
+    ns1:hasName d:fac3297-vcard-name ;
+    ns1:hasTelephone d:fac3297-vcard-fax,
+        d:fac3297-vcard-phone ;
+    ns1:hasTitle d:fac3297-vcard-title .
+
+d:fac3297-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "AvilaD@univ.edu" .
+
+d:fac3297-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.7914" .
+
+d:fac3297-vcard-name a ns1:Name ;
+    ns1:familyName "Avila" ;
+    ns1:givenName "Damien" .
+
+d:fac3297-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.1352" .
+
+d:fac3297-vcard-title a ns1:Title ;
+    ns1:title "Professor " .
+
+d:fac3544 a vivo:FacultyMember ;
+    rdfs:label "Mullins, Kimberly" ;
+    ns2:ARG_2000028 d:fac3544-vcard .
+
+d:fac3544-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3544-vcard-email ;
+    ns1:hasName d:fac3544-vcard-name ;
+    ns1:hasTelephone d:fac3544-vcard-fax,
+        d:fac3544-vcard-phone ;
+    ns1:hasTitle d:fac3544-vcard-title .
+
+d:fac3544-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "MullinsK@univ.edu" .
+
+d:fac3544-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9783" .
+
+d:fac3544-vcard-name a ns1:Name ;
+    ns1:familyName "Mullins" ;
+    ns1:givenName "Kimberly" .
+
+d:fac3544-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5471x1017" .
+
+d:fac3544-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac3547 a vivo:FacultyMember ;
+    rdfs:label "Olsen, Robin" ;
+    ns2:ARG_2000028 d:fac3547-vcard .
+
+d:fac3547-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3547-vcard-email ;
+    ns1:hasName d:fac3547-vcard-name ;
+    ns1:hasTelephone d:fac3547-vcard-fax,
+        d:fac3547-vcard-phone ;
+    ns1:hasTitle d:fac3547-vcard-title .
+
+d:fac3547-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "OlsenR@univ.edu" .
+
+d:fac3547-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9262" .
+
+d:fac3547-vcard-name a ns1:Name ;
+    ns1:familyName "Olsen" ;
+    ns1:givenName "Robin" .
+
+d:fac3547-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.1378" .
+
+d:fac3547-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac3903 a vivo:FacultyMember ;
+    rdfs:label "Dunlap, Ann" ;
+    ns2:ARG_2000028 d:fac3903-vcard .
+
+d:fac3903-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3903-vcard-email ;
+    ns1:hasName d:fac3903-vcard-name ;
+    ns1:hasTelephone d:fac3903-vcard-fax,
+        d:fac3903-vcard-phone ;
+    ns1:hasTitle d:fac3903-vcard-title .
+
+d:fac3903-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "DunlapA@univ.edu" .
+
+d:fac3903-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4290" .
+
+d:fac3903-vcard-name a ns1:Name ;
+    ns1:familyName "Dunlap" ;
+    ns1:givenName "Ann" .
+
+d:fac3903-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.9067" .
+
+d:fac3903-vcard-title a ns1:Title ;
+    ns1:title "Assistant Professor" .
+
+d:fac3929 a vivo:FacultyMember ;
+    rdfs:label "Berger, Jami" ;
+    ns2:ARG_2000028 d:fac3929-vcard .
+
+d:fac3929-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3929-vcard-email ;
+    ns1:hasName d:fac3929-vcard-name ;
+    ns1:hasTelephone d:fac3929-vcard-fax,
+        d:fac3929-vcard-phone ;
+    ns1:hasTitle d:fac3929-vcard-title .
+
+d:fac3929-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "BergerJ@univ.edu" .
+
+d:fac3929-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.5650" .
+
+d:fac3929-vcard-name a ns1:Name ;
+    ns1:familyName "Berger" ;
+    ns1:givenName "Jami" .
+
+d:fac3929-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.8158" .
+
+d:fac3929-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
+d:fac3958 a vivo:FacultyMember ;
+    rdfs:label "Kaufman, Elba" ;
+    ns2:ARG_2000028 d:fac3958-vcard .
+
+d:fac3958-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac3958-vcard-email ;
+    ns1:hasName d:fac3958-vcard-name ;
+    ns1:hasTelephone d:fac3958-vcard-fax,
+        d:fac3958-vcard-phone ;
+    ns1:hasTitle d:fac3958-vcard-title .
+
+d:fac3958-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "KaufmanE@univ.edu" .
+
+d:fac3958-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.3298" .
+
+d:fac3958-vcard-name a ns1:Name ;
+    ns1:familyName "Kaufman" ;
+    ns1:givenName "Elba" .
+
+d:fac3958-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.9507" .
+
+d:fac3958-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac4150 a vivo:FacultyMember ;
+    rdfs:label "Sims, Angelina" ;
+    ns2:ARG_2000028 d:fac4150-vcard .
+
+d:fac4150-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac4150-vcard-email ;
+    ns1:hasName d:fac4150-vcard-name ;
+    ns1:hasTelephone d:fac4150-vcard-fax,
+        d:fac4150-vcard-phone ;
+    ns1:hasTitle d:fac4150-vcard-title .
+
+d:fac4150-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "SimsA@univ.edu" .
+
+d:fac4150-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4400" .
+
+d:fac4150-vcard-name a ns1:Name ;
+    ns1:familyName "Sims" ;
+    ns1:givenName "Angelina" .
+
+d:fac4150-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5278" .
+
+d:fac4150-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac4539 a vivo:FacultyMember ;
+    rdfs:label "Weiss, Gilbert" ;
+    ns2:ARG_2000028 d:fac4539-vcard .
+
+d:fac4539-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac4539-vcard-email ;
+    ns1:hasName d:fac4539-vcard-name ;
+    ns1:hasTelephone d:fac4539-vcard-fax,
+        d:fac4539-vcard-phone ;
+    ns1:hasTitle d:fac4539-vcard-title .
+
+d:fac4539-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "WeissG@univ.edu" .
+
+d:fac4539-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.4975" .
+
+d:fac4539-vcard-name a ns1:Name ;
+    ns1:familyName "Weiss" ;
+    ns1:givenName "Gilbert" .
+
+d:fac4539-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.5969" .
+
+d:fac4539-vcard-title a ns1:Title ;
+    ns1:title "Professor" .
+
+d:fac4580 a vivo:FacultyMember ;
+    rdfs:label "Fernando, Toby Calderon" ;
+    ns2:ARG_2000028 d:fac4580-vcard .
+
+d:fac4580-vcard a ns1:Individual ;
+    ns1:hasEmail d:fac4580-vcard-email ;
+    ns1:hasName d:fac4580-vcard-name ;
+    ns1:hasTelephone d:fac4580-vcard-fax,
+        d:fac4580-vcard-phone ;
+    ns1:hasTitle d:fac4580-vcard-title .
+
+d:fac4580-vcard-email a ns1:Email,
+        ns1:Work ;
+    ns1:email "FernandoT@univ.edu" .
+
+d:fac4580-vcard-fax a ns1:Fax,
+        ns1:Telephone,
+        ns1:Work ;
+    ns1:telephone "963.777.9864" .
+
+d:fac4580-vcard-name a ns1:Name ;
+    vivo:middleName "Calderon" ;
+    ns1:familyName "Fernando" ;
+    ns1:givenName "Toby" .
+
+d:fac4580-vcard-phone a ns1:Telephone,
+        ns1:Voice,
+        ns1:Work ;
+    ns1:telephone "963.555.6469" .
+
+d:fac4580-vcard-title a ns1:Title ;
+    ns1:title "Research Professor" .
+
+d:org101028 a vivo:Department ;
+    rdfs:label "Energy Sciences Department" .
+
 d:org102017 a vivo:Department ;
     rdfs:label "Geothermal Technology Department" .
-
-d:pos00de51d4570b441e345a54ef03e3069f a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facc0f341af,
-        d:org58750032 .
-
-d:pos039b8717a528fcc0788fb78db64b4f52 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac8422a439,
-        d:orge5c84f0a .
-
-d:pos06b4b9643cb838ef3e287e0936926073 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facc81ef444,
-        d:orgf5352f2f .
-
-d:pos07489bb66481f67ff6799db97e5a199e a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:faca90924e6,
-        d:org94905f86 .
-
-d:pos0a8936bca6cafe4910db788502bbe2aa a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:facd6f8c320,
-        d:orge49738ce .
-
-d:pos0b047204de45965391cfaf37d8d2942b a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac613870d1,
-        d:org533de40b .
-
-d:pos0d3d76f1a30f0058371fb11c77f386fe a vivo:FacultyPosition ;
-    rdfs:label "Executive Professor" ;
-    vivo:relates d:fac1333856,
-        d:org390956d8 .
-
-d:pos0e2fe4921e43f05e4b90d823bde21808 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac0c7c03e3,
-        d:org331ec525 .
-
-d:pos0fbcf7a6ae1b61f6a35c20dea03e6100 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac48d141da,
-        d:orgf1153653 .
-
-d:pos170fe58bf967ca7050f879cdbd96ff28 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac2dec06e9,
-        d:org8e1497dc .
-
-d:pos196f52450fec44bc2ff5e21ec9b8de78 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac3469d15f,
-        d:org2735b399 .
-
-d:pos19a22d9714aaafa56394e64c4abd0200 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:facbf813378,
-        d:orgfb02a5ae .
-
-d:pos1b86ee3e9aa69a5464683ae89a6c2eb7 a vivo:FacultyPosition ;
-    rdfs:label "Senior Lecturer" ;
-    vivo:relates d:facf2751f8b,
-        d:org390956d8 .
-
-d:pos20366adebca3cb538ecd2cdd8c361703 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac97af54fb,
-        d:org377fce7d .
-
-d:pos206f1163128d89f8883e4ce2e5d9677e a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:faca96b562e,
-        d:orgf5352f2f .
-
-d:pos23d1a9fc46652e39ecca126b951d44b0 a vivo:FacultyPosition ;
-    rdfs:label "Adjunct Assistant Professor" ;
-    vivo:relates d:fac430cacbc,
-        d:org8153433f .
-
-d:pos25c523f88935c8b487144dee15940fa3 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates <http://vivo.school.edu/individual/fac8.57E+08>,
-        d:org2872677a .
-
-d:pos28f8298a84427aa4776eca011c534eff a vivo:FacultyPosition ;
-    rdfs:label "Veterinary Resident Instructor" ;
-    vivo:relates d:facc500baf1,
-        d:org4f9163cf .
-
-d:pos2fbbcb268a97980e0e5a82fc89841eb8 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac54317d5b,
-        d:orga96ec482 .
-
-d:pos3049cf6adb4994a49dc3e786ef3a3dae a vivo:FacultyPosition ;
-    rdfs:label "Instructional Assistant Professor" ;
-    vivo:relates d:facce238e6e,
-        d:org9e5eea38 .
-
-d:pos3a7cee5ae50d2f7b3b8a3d802a3b5841 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facf1c6fff3,
-        d:orge0412e57 .
-
-d:pos3cd5e0ff6a3d59b104907fc7f8a6d033 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac6df86023,
-        d:orge49738ce .
-
-d:pos3e18a34b675617e07c2759e253c3ef73 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac6dd3957c,
-        d:org52bbb58c .
-
-d:pos433a7e69c07a1cfd981a5ba1f76c5306 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:facb9098a8e,
-        d:orgc2b21c54 .
-
-d:pos44f1b6be62d4ece28288a9408eb1bdb9 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:face6ff3828,
-        d:org4d01014a .
-
-d:pos4656d1480f5af8b1dfc20a50f319424d a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:face3bd8752,
-        d:org3d066602 .
-
-d:pos48dd5ff4cbe954b5dc6a0f5f94ae6fcf a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac1921874d,
-        d:orge49738ce .
-
-d:pos4bbdbc73c272e093aa001729da2fa650 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac9ed54600,
-        d:org3d066602 .
-
-d:pos4d780125f7daf02f26a3466c4b923cf8 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac96285042,
-        d:org4c1f64aa .
-
-d:pos4e325e1ec4fb651273b8a409f3ce636c a vivo:FacultyPosition ;
-    rdfs:label "Clinical Associate Professor" ;
-    vivo:relates d:facb6f25071,
-        d:orgef68c136 .
-
-d:pos519ac32a1a34ac8f56ebf08e23dde193 a vivo:FacultyPosition ;
-    rdfs:label "Visiting Lecturer" ;
-    vivo:relates d:fac38f0640f,
-        d:org3c372a44 .
-
-d:pos520fb323023ee776d60f5377bc0d8710 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facca61ede1,
-        d:org1ec41847 .
-
-d:pos54b580d74856ac2932e4e9aa794d7bbd a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac5cebea29,
-        d:org26ddd99c .
-
-d:pos560ec655e6eaa5275c3357d68178a54a a vivo:FacultyPosition ;
-    rdfs:label "Clinical Assistant Professor" ;
-    vivo:relates d:facc7f9a04d,
-        d:orgf22c2cf7 .
-
-d:pos56e8f9af142f0cc2a5b9f337df937bc2 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facea775348,
-        d:orgf4046369 .
-
-d:pos590778b6eea0d20ce97a782b9d159fe6 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facec810b24,
-        d:org58750032 .
-
-d:pos59f05a4480154e1054a985fe9e0aa632 a vivo:FacultyPosition ;
-    rdfs:label "Distinguished Professor" ;
-    vivo:relates d:facb20fdbd9,
-        d:org38381a9e .
-
-d:pos5af5b3269b0eaf0bb3d349868f7b3a42 a vivo:FacultyPosition ;
-    rdfs:label "Visiting Associate Professor" ;
-    vivo:relates d:facea52a51f,
-        d:org7048878f .
-
-d:pos5b1917cc50cc7f116fbf8386211898d1 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facd138d94a,
-        d:org2833755e .
-
-d:pos5b6124294d34285622a5ab85737ad357 a vivo:FacultyPosition ;
-    rdfs:label "Clinical Professor" ;
-    vivo:relates d:fac332dadae,
-        d:org38381a9e .
-
-d:pos5db6e5285d785186ad21052fb896bee3 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac5e728236,
-        d:org1b945f59 .
-
-d:pos5e6609a2feb8c0a5d10ba06a25a4a618 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac7f8372f3,
-        d:org377fce7d .
-
-d:pos62ec292019f70cb050d0e2271f5b5cef a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac939f7165,
-        d:org2d222064 .
-
-d:pos63e8e4130c01b07320669ccba51b7172 a vivo:FacultyPosition ;
-    rdfs:label "Clinical Associate Professor" ;
-    vivo:relates d:fac11e9b5be,
-        d:org329894a2 .
-
-d:pos64567ebaab03e3a76043f8183dd538c4 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac4663e6b4,
-        d:org2d633240 .
-
-d:pos68d5bdb3edcafe3cc0ece6a889a3556a a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac980e771d,
-        d:org331ec525 .
-
-d:pos6a4af1444d2fc56ee99e69d791683d45 a vivo:FacultyPosition ;
-    rdfs:label "Professor and Associate Dean" ;
-    vivo:relates d:facd522fec6,
-        d:org499605f7 .
-
-d:pos6ac2525e11437f419c1c97bf4839eb7f a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac26f30b82,
-        d:org59444c74 .
-
-d:pos6b736da531c5872114d37a55682c8ae1 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac9c75f491,
-        d:org377fce7d .
-
-d:pos6c261f009cc01018913da643b11a5a54 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac6340ff0a,
-        d:org390956d8 .
-
-d:pos6e4e8e0e12f6294fb1f774436d37b053 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac6edf97c6,
-        d:orga6291061 .
-
-d:pos71d46b8c24c42422388cadf29cb4f5a1 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facb2c12cd3,
-        d:org364e823b .
-
-d:pos76d8925dc01595ad0059a708fe02ef76 a vivo:FacultyPosition ;
-    rdfs:label "Clinical Professor" ;
-    vivo:relates d:fac18fdb6b4,
-        d:org364e823b .
-
-d:pos7a3223531dd597049f1ef89a71438f80 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facfd023ba6,
-        d:org7048878f .
-
-d:pos7b4dc722095a62b9cd97bc3e0898c561 a vivo:FacultyPosition ;
-    rdfs:label "Senior Lecturer" ;
-    vivo:relates d:fac38160486,
-        d:org224add21 .
-
-d:pos7cacec115c55c357d7d577871abcb17c a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac1aedaf52,
-        d:org2d222064 .
-
-d:pos7ead29ae1189f2cd2bd5993738eb6e73 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facb888266f,
-        d:orgfb6c9e2c .
-
-d:pos7fc8ac9dc2b6774283f885a262080c59 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facbd6831b8,
-        d:org377fce7d .
-
-d:pos806e52a2a815152a76b15d9d720eb7db a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:face4fec57c,
-        d:orge0412e57 .
-
-d:pos841ccbfb6263634c3c5c9156dddac456 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac42be1339,
-        d:orga96ec482 .
-
-d:pos86d7fb589bcb3814c2faef15da3645d4 a vivo:FacultyPosition ;
-    rdfs:label "Clinical Assistant Professor" ;
-    vivo:relates d:fac3c8aa927,
-        d:org329894a2 .
-
-d:pos8863ceaec6edac67209670cc9dd9d716 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:faccc1476d6,
-        d:org52bbb58c .
-
-d:pos8b80fd274453c3e0e63d8c6ec908f47f a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facfee0dccb,
-        d:org9e5eea38 .
-
-d:pos8d6e7b2bcda1f4bbb58fad524e8bc877 a vivo:FacultyPosition ;
-    rdfs:label "Veterinary Intern Instructor" ;
-    vivo:relates d:fac9ed36091,
-        d:orgf22c2cf7 .
-
-d:pos8e3d2a37861d752b08fc218bbce24d16 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac6ebab0fa,
-        d:orga96ec482 .
-
-d:pos8e8863d0f966519212f122831edadfb9 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:facbf942ec6,
-        d:org59444c74 .
-
-d:pos91f020b08b9c0d07fc41150344bd22a7 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facf17715d0,
-        d:org8b9df681 .
-
-d:pos95338be227cd08d201ca5aaab6831e20 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facdd8077e2,
-        d:org91770559 .
-
-d:pos96b8a5c83ef30dc5cf72d2dbd62dc25c a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac5677ce1c,
-        d:org7048878f .
-
-d:pos96f0b284d4bf5a7fd62e37be23ca1059 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac786fc0f3,
-        d:org2884689f .
-
-d:pos99d20313928a4ba1ee4302a18bfe11ab a vivo:FacultyPosition ;
-    rdfs:label "Assistant Lecturer" ;
-    vivo:relates d:fac9d92ca8b,
-        d:org329894a2 .
-
-d:pos9a42f682bae39e91e1b2c099f5d9998e a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac8bf8898a,
-        d:org4f9163cf .
-
-d:pos9fd2bdeff0940b9b352da7abd7058f89 a vivo:FacultyPosition ;
-    rdfs:label "Clinical Associate Professor" ;
-    vivo:relates d:facde1f2aed,
-        d:orgfb6c9e2c .
-
-d:posa04b4bcae63a3061ff2463f2c81f6c1c a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:facf9f641f8,
-        d:orge49738ce .
-
-d:posa0c6d2d19736a7c2bdf6e8e54a2af7b7 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac9a25a80b,
-        d:org4d01014a .
-
-d:posa77ea530414b58962d697fd6c0f08fe5 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facbca92840,
-        d:orgef68c136 .
-
-d:posa986de9a5e7951160f7e6545a8596bb7 a vivo:FacultyPosition ;
-    rdfs:label "Professor and Interim Head" ;
-    vivo:relates d:facca139916,
-        d:org1b234298 .
-
-d:posaa628d68f6f994ee380fa4de1f60fa79 a vivo:FacultyPosition ;
-    rdfs:label "Senior Lecturer" ;
-    vivo:relates d:facd40b0c98,
-        d:orgea8f9be9 .
-
-d:posac23279b45bda8f13dc564d4e90b4e2c a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac90e6f6c0,
-        d:org21aae1c6 .
-
-d:posad6260d2fb1d4f0a54fa2996a143c52d a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:face7ee497b,
-        d:org9e87cc7b .
-
-d:posadb9fdfc67f946f9ebada7fa1e9c62c4 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac24e3e4e2,
-        d:org9e87cc7b .
-
-d:posb278d0efef5aa91af03a5cbf598edc76 a vivo:FacultyPosition ;
-    rdfs:label "Professor and Head" ;
-    vivo:relates d:fac9c4dca0b,
-        d:org1b234298 .
-
-d:posb436e8c3cea571401892dd2f42d982b1 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac0bcb050f,
-        d:org90de7d78 .
-
-d:posb566b5e37b765f14b0f560ab62a7e5a0 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac262ead89,
-        d:orge49738ce .
-
-d:posba492b22fb7ead68e8b83e0af141fffe a vivo:FacultyPosition ;
-    rdfs:label "Instructional Assistant Professor" ;
-    vivo:relates d:facfed03dd1,
-        d:orgef68c136 .
-
-d:posba764c5cf147da16054236e0feae7431 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac7f4e9eb4,
-        d:org52bbb58c .
-
-d:posbdafae79fd4f1f57e2a3eefd6a3451cf a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac054759c0,
-        d:org9b0ead26 .
-
-d:posc854d1caf305e681027104bffe210da2 a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facfda04cc0,
-        d:org7518c091 .
-
-d:poscebf577a3424bee1bdde790b328893b5 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac8775e8bc,
-        d:orge0412e57 .
-
-d:posd8109652be9a67ea33a83dbe41cd2510 a vivo:FacultyPosition ;
-    rdfs:label "Assistant Professor" ;
-    vivo:relates d:fac0a2d481f,
-        d:orgea8f9be9 .
-
-d:posdddc29d1e332c77bee86459fb1e8624d a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac274f2d27,
-        d:orgee598d70 .
-
-d:pose02e300ecbf9bf9308687356d204b192 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac543231b1,
-        d:orgac3e839c .
-
-d:pose17454f8eef00b1b6975350a1c3427ff a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:facf53479a0,
-        d:org2d953da5 .
-
-d:pose17f7ca7b9cffa6c738a8caac1f936f3 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:facd2caf464,
-        d:orgc2b21c54 .
-
-d:pose93050dc6d2c1cc04625a1a55b54b9ba a vivo:FacultyPosition ;
-    rdfs:label "Senior Lecturer" ;
-    vivo:relates d:fac4ff5edcb,
-        d:org3d066602 .
-
-d:pose9d67b0106879eb184e98335ab5ac419 a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac5c2cef0e,
-        d:org1ec41847 .
-
-d:pose9f7e8a56202e5f1720e0c6dcd7a305c a vivo:FacultyPosition ;
-    rdfs:label "Lecturer" ;
-    vivo:relates d:fac194fc3c7,
-        d:orgf55b14ad .
-
-d:posec2509af5540873d6b6127fc05d692e8 a vivo:FacultyPosition ;
-    rdfs:label "Executive Professor" ;
-    vivo:relates d:fac7a7aa175,
-        d:orgea8f9be9 .
-
-d:posf3c944c8b76561bb29b909e0a785d3fe a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac40f09614,
-        d:org2d222064 .
-
-d:posf6e8fd093a39d17b9ff32b646573fb34 a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac84ce7aef,
-        d:orga6291061 .
-
-d:posf81754b8174c095d880c433563592487 a vivo:FacultyPosition ;
-    rdfs:label "Senior Lecturer" ;
-    vivo:relates d:fac883c4cb7,
-        d:org377fce7d .
-
-d:posfaddb5ad6bc18c3a06b2e59eae90a91f a vivo:FacultyPosition ;
-    rdfs:label "Associate Professor" ;
-    vivo:relates d:fac8da37bea,
-        d:orgac3e839c .
-
-d:posfb90652b1cca1afcfbf33851502fe9eb a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates <http://vivo.school.edu/individual/fac4.33E+12>,
-        d:orga96ec482 .
-
-d:posfc7dfcc18f5e28ec40476ac2aae770ea a vivo:FacultyPosition ;
-    rdfs:label "Professor" ;
-    vivo:relates d:fac4326eaa3,
-        d:org21aae1c6 .
-
-d:fac1089-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1089-vcard-email ;
-    vcard:hasName d:fac1089-vcard-name ;
-    vcard:hasTelephone d:fac1089-vcard-fax,
-        d:fac1089-vcard-phone ;
-    vcard:hasTitle d:fac1089-vcard-title .
-
-d:fac1089-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "PayneL@univ.edu" .
-
-d:fac1089-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.6469" .
-
-d:fac1089-vcard-name a vcard:Name ;
-    vcard:familyName "Payne" ;
-    vcard:givenName "Ladonna" .
-
-d:fac1089-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5639" .
-
-d:fac1307-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1307-vcard-email ;
-    vcard:hasName d:fac1307-vcard-name ;
-    vcard:hasTelephone d:fac1307-vcard-fax,
-        d:fac1307-vcard-phone ;
-    vcard:hasTitle d:fac1307-vcard-title .
-
-d:fac1307-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "PateA@univ.edu" .
-
-d:fac1307-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.5049" .
-
-d:fac1307-vcard-name a vcard:Name ;
-    vcard:familyName "Pate" ;
-    vcard:givenName "Andrea" .
-
-d:fac1307-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.3723" .
-
-d:fac1538-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1538-vcard-email ;
-    vcard:hasName d:fac1538-vcard-name ;
-    vcard:hasTelephone d:fac1538-vcard-fax,
-        d:fac1538-vcard-phone ;
-    vcard:hasTitle d:fac1538-vcard-title .
-
-d:fac1538-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "MoisesE@univ.edu" .
-
-d:fac1538-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.8264" .
-
-d:fac1538-vcard-name a vcard:Name ;
-    vivo:middleName "Estes" ;
-    vcard:familyName "Moises" ;
-    vcard:givenName "Edgar" .
-
-d:fac1538-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.2731x3565" .
-
-d:fac1567-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1567-vcard-email ;
-    vcard:hasName d:fac1567-vcard-name ;
-    vcard:hasTelephone d:fac1567-vcard-fax,
-        d:fac1567-vcard-phone ;
-    vcard:hasTitle d:fac1567-vcard-title .
-
-d:fac1567-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BanksS@univ.edu" .
-
-d:fac1567-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.6979" .
-
-d:fac1567-vcard-name a vcard:Name ;
-    vcard:familyName "Banks" ;
-    vcard:givenName "Shannon" .
-
-d:fac1567-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7198" .
-
-d:fac1625-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1625-vcard-email ;
-    vcard:hasName d:fac1625-vcard-name ;
-    vcard:hasTelephone d:fac1625-vcard-fax,
-        d:fac1625-vcard-phone ;
-    vcard:hasTitle d:fac1625-vcard-title .
-
-d:fac1625-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "HawkinsC@univ.edu" .
-
-d:fac1625-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4949" .
-
-d:fac1625-vcard-name a vcard:Name ;
-    vcard:familyName "Hawkins" ;
-    vcard:givenName "Callie" .
-
-d:fac1625-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.3350x6480" .
-
-d:fac1699-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1699-vcard-email ;
-    vcard:hasName d:fac1699-vcard-name ;
-    vcard:hasTelephone d:fac1699-vcard-fax,
-        d:fac1699-vcard-phone ;
-    vcard:hasTitle d:fac1699-vcard-title .
-
-d:fac1699-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "StantonK@univ.edu" .
-
-d:fac1699-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.1015" .
-
-d:fac1699-vcard-name a vcard:Name ;
-    vcard:familyName "Stanton" ;
-    vcard:givenName "Kathie" .
-
-d:fac1699-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7095" .
-
-d:fac1824-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1824-vcard-email ;
-    vcard:hasName d:fac1824-vcard-name ;
-    vcard:hasTelephone d:fac1824-vcard-fax,
-        d:fac1824-vcard-phone ;
-    vcard:hasTitle d:fac1824-vcard-title .
-
-d:fac1824-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "HeadK@univ.edu" .
-
-d:fac1824-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.6348" .
-
-d:fac1824-vcard-name a vcard:Name ;
-    vcard:familyName "Head" ;
-    vcard:givenName "Kurtis" .
-
-d:fac1824-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7882" .
-
-d:fac1968-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac1968-vcard-email ;
-    vcard:hasName d:fac1968-vcard-name ;
-    vcard:hasTelephone d:fac1968-vcard-fax,
-        d:fac1968-vcard-phone ;
-    vcard:hasTitle d:fac1968-vcard-title .
-
-d:fac1968-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "MichaelD@univ.edu" .
-
-d:fac1968-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9960" .
-
-d:fac1968-vcard-name a vcard:Name ;
-    vcard:familyName "Michael" ;
-    vcard:givenName "Dianne" .
-
-d:fac1968-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7592" .
-
-d:fac2070-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2070-vcard-email ;
-    vcard:hasName d:fac2070-vcard-name ;
-    vcard:hasTelephone d:fac2070-vcard-fax,
-        d:fac2070-vcard-phone ;
-    vcard:hasTitle d:fac2070-vcard-title .
-
-d:fac2070-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "MosleyE@univ.edu" .
-
-d:fac2070-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9285" .
-
-d:fac2070-vcard-name a vcard:Name ;
-    vcard:familyName "Mosley" ;
-    vcard:givenName "Edmund" .
-
-d:fac2070-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.2945" .
-
-d:fac2096-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2096-vcard-email ;
-    vcard:hasName d:fac2096-vcard-name ;
-    vcard:hasTelephone d:fac2096-vcard-fax,
-        d:fac2096-vcard-phone ;
-    vcard:hasTitle d:fac2096-vcard-title .
-
-d:fac2096-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "ChuckL@univ.edu" .
-
-d:fac2096-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9290" .
-
-d:fac2096-vcard-name a vcard:Name ;
-    vivo:middleName "Haney" ;
-    vcard:familyName "Chuck" ;
-    vcard:givenName "Lloyd" .
-
-d:fac2096-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5568x2652" .
-
-d:fac2146-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2146-vcard-email ;
-    vcard:hasName d:fac2146-vcard-name ;
-    vcard:hasTelephone d:fac2146-vcard-fax,
-        d:fac2146-vcard-phone ;
-    vcard:hasTitle d:fac2146-vcard-title .
-
-d:fac2146-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "SparksE@univ.edu" .
-
-d:fac2146-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9273" .
-
-d:fac2146-vcard-name a vcard:Name ;
-    vcard:familyName "Sparks" ;
-    vcard:givenName "Ezra" .
-
-d:fac2146-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.9390" .
-
-d:fac2217-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2217-vcard-email ;
-    vcard:hasName d:fac2217-vcard-name ;
-    vcard:hasTelephone d:fac2217-vcard-fax,
-        d:fac2217-vcard-phone ;
-    vcard:hasTitle d:fac2217-vcard-title .
-
-d:fac2217-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "KatherynR@univ.edu" .
-
-d:fac2217-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.3969" .
-
-d:fac2217-vcard-name a vcard:Name ;
-    vivo:middleName "Holt" ;
-    vcard:familyName "Katheryn" ;
-    vcard:givenName "Ruben" .
-
-d:fac2217-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7578" .
-
-d:fac2254-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2254-vcard-email ;
-    vcard:hasName d:fac2254-vcard-name ;
-    vcard:hasTelephone d:fac2254-vcard-fax,
-        d:fac2254-vcard-phone ;
-    vcard:hasTitle d:fac2254-vcard-title .
-
-d:fac2254-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "EffieL@univ.edu" .
-
-d:fac2254-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.7299" .
-
-d:fac2254-vcard-name a vcard:Name ;
-    vivo:middleName "Vinson" ;
-    vcard:familyName "Effie" ;
-    vcard:givenName "Leila" .
-
-d:fac2254-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.6824" .
-
-d:fac2303-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2303-vcard-email ;
-    vcard:hasName d:fac2303-vcard-name ;
-    vcard:hasTelephone d:fac2303-vcard-fax,
-        d:fac2303-vcard-phone ;
-    vcard:hasTitle d:fac2303-vcard-title .
-
-d:fac2303-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "QuentinS@univ.edu" .
-
-d:fac2303-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.2712" .
-
-d:fac2303-vcard-name a vcard:Name ;
-    vivo:middleName "Hyde" ;
-    vcard:familyName "Quentin" ;
-    vcard:givenName "Sam" .
-
-d:fac2303-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.8921" .
-
-d:fac2342-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2342-vcard-email ;
-    vcard:hasName d:fac2342-vcard-name ;
-    vcard:hasTelephone d:fac2342-vcard-fax,
-        d:fac2342-vcard-phone ;
-    vcard:hasTitle d:fac2342-vcard-title .
-
-d:fac2342-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "AustinL@univ.edu" .
-
-d:fac2342-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.6143" .
-
-d:fac2342-vcard-name a vcard:Name ;
-    vcard:familyName "Austin" ;
-    vcard:givenName "Liz" .
-
-d:fac2342-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.4305" .
-
-d:fac2383-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2383-vcard-email ;
-    vcard:hasName d:fac2383-vcard-name ;
-    vcard:hasTelephone d:fac2383-vcard-fax,
-        d:fac2383-vcard-phone ;
-    vcard:hasTitle d:fac2383-vcard-title .
-
-d:fac2383-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "PageW@univ.edu" .
-
-d:fac2383-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.3202" .
-
-d:fac2383-vcard-name a vcard:Name ;
-    vcard:familyName "Page" ;
-    vcard:givenName "Winnie" .
-
-d:fac2383-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.9366" .
-
-d:fac2389-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2389-vcard-email ;
-    vcard:hasName d:fac2389-vcard-name ;
-    vcard:hasTelephone d:fac2389-vcard-fax,
-        d:fac2389-vcard-phone ;
-    vcard:hasTitle d:fac2389-vcard-title .
-
-d:fac2389-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BuckleyR@univ.edu" .
-
-d:fac2389-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.5233" .
-
-d:fac2389-vcard-name a vcard:Name ;
-    vcard:familyName "Buckley" ;
-    vcard:givenName "Rose" .
-
-d:fac2389-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.6855x5018" .
-
-d:fac2401-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2401-vcard-email ;
-    vcard:hasName d:fac2401-vcard-name ;
-    vcard:hasTelephone d:fac2401-vcard-fax,
-        d:fac2401-vcard-phone ;
-    vcard:hasTitle d:fac2401-vcard-title .
-
-d:fac2401-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "ClaudeE@univ.edu" .
-
-d:fac2401-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9730" .
-
-d:fac2401-vcard-name a vcard:Name ;
-    vivo:middleName "Haney" ;
-    vcard:familyName "Claude" ;
-    vcard:givenName "Elvin" .
-
-d:fac2401-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.2902" .
-
-d:fac2426-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2426-vcard-email ;
-    vcard:hasName d:fac2426-vcard-name ;
-    vcard:hasTelephone d:fac2426-vcard-fax,
-        d:fac2426-vcard-phone ;
-    vcard:hasTitle d:fac2426-vcard-title .
-
-d:fac2426-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BradyN@univ.edu" .
-
-d:fac2426-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.7218" .
-
-d:fac2426-vcard-name a vcard:Name ;
-    vcard:familyName "Brady" ;
-    vcard:givenName "Nellie" .
-
-d:fac2426-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7569" .
-
-d:fac2561-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2561-vcard-email ;
-    vcard:hasName d:fac2561-vcard-name ;
-    vcard:hasTelephone d:fac2561-vcard-fax,
-        d:fac2561-vcard-phone ;
-    vcard:hasTitle d:fac2561-vcard-title .
-
-d:fac2561-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "DerekA@univ.edu" .
-
-d:fac2561-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.5454" .
-
-d:fac2561-vcard-name a vcard:Name ;
-    vivo:middleName "Mccoy" ;
-    vcard:familyName "Derek" ;
-    vcard:givenName "Antoine" .
-
-d:fac2561-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.2992" .
-
-d:fac2682-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2682-vcard-email ;
-    vcard:hasName d:fac2682-vcard-name ;
-    vcard:hasTelephone d:fac2682-vcard-fax,
-        d:fac2682-vcard-phone ;
-    vcard:hasTitle d:fac2682-vcard-title .
-
-d:fac2682-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "EarlineJ@univ.edu" .
-
-d:fac2682-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4114" .
-
-d:fac2682-vcard-name a vcard:Name ;
-    vivo:middleName "Fitzgerald" ;
-    vcard:familyName "Earline" ;
-    vcard:givenName "Jaime" .
-
-d:fac2682-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.8357" .
-
-d:fac2755-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2755-vcard-email ;
-    vcard:hasName d:fac2755-vcard-name ;
-    vcard:hasTelephone d:fac2755-vcard-fax,
-        d:fac2755-vcard-phone ;
-    vcard:hasTitle d:fac2755-vcard-title .
-
-d:fac2755-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "KendrickR@univ.edu" .
-
-d:fac2755-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4371" .
-
-d:fac2755-vcard-name a vcard:Name ;
-    vivo:middleName "Alford" ;
-    vcard:familyName "Kendrick" ;
-    vcard:givenName "Reba" .
-
-d:fac2755-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.4618x7744" .
-
-d:fac2811-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2811-vcard-email ;
-    vcard:hasName d:fac2811-vcard-name ;
-    vcard:hasTelephone d:fac2811-vcard-fax,
-        d:fac2811-vcard-phone ;
-    vcard:hasTitle d:fac2811-vcard-title .
-
-d:fac2811-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "DeirdreF@univ.edu" .
-
-d:fac2811-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9654" .
-
-d:fac2811-vcard-name a vcard:Name ;
-    vivo:middleName "Barrera" ;
-    vcard:familyName "Deirdre" ;
-    vcard:givenName "Florence" .
-
-d:fac2811-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.6319" .
-
-d:fac2895-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2895-vcard-email ;
-    vcard:hasName d:fac2895-vcard-name ;
-    vcard:hasTelephone d:fac2895-vcard-fax,
-        d:fac2895-vcard-phone ;
-    vcard:hasTitle d:fac2895-vcard-title .
-
-d:fac2895-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "GarrisonP@univ.edu" .
-
-d:fac2895-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4958" .
-
-d:fac2895-vcard-name a vcard:Name ;
-    vcard:familyName "Garrison" ;
-    vcard:givenName "Patrica" .
-
-d:fac2895-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.6760" .
-
-d:fac2941-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2941-vcard-email ;
-    vcard:hasName d:fac2941-vcard-name ;
-    vcard:hasTelephone d:fac2941-vcard-fax,
-        d:fac2941-vcard-phone ;
-    vcard:hasTitle d:fac2941-vcard-title .
-
-d:fac2941-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BrianH@univ.edu" .
-
-d:fac2941-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.7249" .
-
-d:fac2941-vcard-name a vcard:Name ;
-    vivo:middleName "Pruitt" ;
-    vcard:familyName "Brian" ;
-    vcard:givenName "Heath" .
-
-d:fac2941-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.2800" .
-
-d:fac2948-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac2948-vcard-email ;
-    vcard:hasName d:fac2948-vcard-name ;
-    vcard:hasTelephone d:fac2948-vcard-fax,
-        d:fac2948-vcard-phone ;
-    vcard:hasTitle d:fac2948-vcard-title .
-
-d:fac2948-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BaxterJ@univ.edu" .
-
-d:fac2948-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.8336" .
-
-d:fac2948-vcard-name a vcard:Name ;
-    vivo:middleName "Browning" ;
-    vcard:familyName "Baxter" ;
-    vcard:givenName "Johnathan" .
-
-d:fac2948-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5902" .
-
-d:fac3012-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3012-vcard-email ;
-    vcard:hasName d:fac3012-vcard-name ;
-    vcard:hasTelephone d:fac3012-vcard-fax,
-        d:fac3012-vcard-phone ;
-    vcard:hasTitle d:fac3012-vcard-title .
-
-d:fac3012-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "GrantA@univ.edu" .
-
-d:fac3012-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.8115" .
-
-d:fac3012-vcard-name a vcard:Name ;
-    vcard:familyName "Grant" ;
-    vcard:givenName "Adam" .
-
-d:fac3012-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7775" .
-
-d:fac3066-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3066-vcard-email ;
-    vcard:hasName d:fac3066-vcard-name ;
-    vcard:hasTelephone d:fac3066-vcard-fax,
-        d:fac3066-vcard-phone ;
-    vcard:hasTitle d:fac3066-vcard-title .
-
-d:fac3066-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BarnesC@univ.edu" .
-
-d:fac3066-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.1583" .
-
-d:fac3066-vcard-name a vcard:Name ;
-    vcard:familyName "Barnes" ;
-    vcard:givenName "Cleo" .
-
-d:fac3066-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.7463x7335" .
-
-d:fac3095-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3095-vcard-email ;
-    vcard:hasName d:fac3095-vcard-name ;
-    vcard:hasTelephone d:fac3095-vcard-fax,
-        d:fac3095-vcard-phone ;
-    vcard:hasTitle d:fac3095-vcard-title .
-
-d:fac3095-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "ShieldsR@univ.edu" .
-
-d:fac3095-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.7215" .
-
-d:fac3095-vcard-name a vcard:Name ;
-    vivo:middleName "Pena" ;
-    vcard:familyName "Shields" ;
-    vcard:givenName "Rich" .
-
-d:fac3095-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.9197" .
-
-d:fac3112-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3112-vcard-email ;
-    vcard:hasName d:fac3112-vcard-name ;
-    vcard:hasTelephone d:fac3112-vcard-fax,
-        d:fac3112-vcard-phone ;
-    vcard:hasTitle d:fac3112-vcard-title .
-
-d:fac3112-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "EvelynS@univ.edu" .
-
-d:fac3112-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.5730" .
-
-d:fac3112-vcard-name a vcard:Name ;
-    vivo:middleName "Frost" ;
-    vcard:familyName "Evelyn" ;
-    vcard:givenName "Summer" .
-
-d:fac3112-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.8895" .
-
-d:fac3130-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3130-vcard-email ;
-    vcard:hasName d:fac3130-vcard-name ;
-    vcard:hasTelephone d:fac3130-vcard-fax,
-        d:fac3130-vcard-phone ;
-    vcard:hasTitle d:fac3130-vcard-title .
-
-d:fac3130-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BurksR@univ.edu" .
-
-d:fac3130-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4065" .
-
-d:fac3130-vcard-name a vcard:Name ;
-    vcard:familyName "Burks" ;
-    vcard:givenName "Rosella" .
-
-d:fac3130-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.1253" .
-
-d:fac3297-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3297-vcard-email ;
-    vcard:hasName d:fac3297-vcard-name ;
-    vcard:hasTelephone d:fac3297-vcard-fax,
-        d:fac3297-vcard-phone ;
-    vcard:hasTitle d:fac3297-vcard-title .
-
-d:fac3297-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "AvilaD@univ.edu" .
-
-d:fac3297-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.7914" .
-
-d:fac3297-vcard-name a vcard:Name ;
-    vcard:familyName "Avila" ;
-    vcard:givenName "Damien" .
-
-d:fac3297-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.1352" .
-
-d:fac3544-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3544-vcard-email ;
-    vcard:hasName d:fac3544-vcard-name ;
-    vcard:hasTelephone d:fac3544-vcard-fax,
-        d:fac3544-vcard-phone ;
-    vcard:hasTitle d:fac3544-vcard-title .
-
-d:fac3544-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "MullinsK@univ.edu" .
-
-d:fac3544-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9783" .
-
-d:fac3544-vcard-name a vcard:Name ;
-    vcard:familyName "Mullins" ;
-    vcard:givenName "Kimberly" .
-
-d:fac3544-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5471x1017" .
-
-d:fac3547-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3547-vcard-email ;
-    vcard:hasName d:fac3547-vcard-name ;
-    vcard:hasTelephone d:fac3547-vcard-fax,
-        d:fac3547-vcard-phone ;
-    vcard:hasTitle d:fac3547-vcard-title .
-
-d:fac3547-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "OlsenR@univ.edu" .
-
-d:fac3547-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9262" .
-
-d:fac3547-vcard-name a vcard:Name ;
-    vcard:familyName "Olsen" ;
-    vcard:givenName "Robin" .
-
-d:fac3547-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.1378" .
-
-d:fac3903-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3903-vcard-email ;
-    vcard:hasName d:fac3903-vcard-name ;
-    vcard:hasTelephone d:fac3903-vcard-fax,
-        d:fac3903-vcard-phone ;
-    vcard:hasTitle d:fac3903-vcard-title .
-
-d:fac3903-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "DunlapA@univ.edu" .
-
-d:fac3903-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4290" .
-
-d:fac3903-vcard-name a vcard:Name ;
-    vcard:familyName "Dunlap" ;
-    vcard:givenName "Ann" .
-
-d:fac3903-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.9067" .
-
-d:fac3929-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3929-vcard-email ;
-    vcard:hasName d:fac3929-vcard-name ;
-    vcard:hasTelephone d:fac3929-vcard-fax,
-        d:fac3929-vcard-phone ;
-    vcard:hasTitle d:fac3929-vcard-title .
-
-d:fac3929-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "BergerJ@univ.edu" .
-
-d:fac3929-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.5650" .
-
-d:fac3929-vcard-name a vcard:Name ;
-    vcard:familyName "Berger" ;
-    vcard:givenName "Jami" .
-
-d:fac3929-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.8158" .
-
-d:fac3958-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac3958-vcard-email ;
-    vcard:hasName d:fac3958-vcard-name ;
-    vcard:hasTelephone d:fac3958-vcard-fax,
-        d:fac3958-vcard-phone ;
-    vcard:hasTitle d:fac3958-vcard-title .
-
-d:fac3958-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "KaufmanE@univ.edu" .
-
-d:fac3958-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.3298" .
-
-d:fac3958-vcard-name a vcard:Name ;
-    vcard:familyName "Kaufman" ;
-    vcard:givenName "Elba" .
-
-d:fac3958-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.9507" .
-
-d:fac4150-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac4150-vcard-email ;
-    vcard:hasName d:fac4150-vcard-name ;
-    vcard:hasTelephone d:fac4150-vcard-fax,
-        d:fac4150-vcard-phone ;
-    vcard:hasTitle d:fac4150-vcard-title .
-
-d:fac4150-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "SimsA@univ.edu" .
-
-d:fac4150-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4400" .
-
-d:fac4150-vcard-name a vcard:Name ;
-    vcard:familyName "Sims" ;
-    vcard:givenName "Angelina" .
-
-d:fac4150-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5278" .
-
-d:fac4539-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac4539-vcard-email ;
-    vcard:hasName d:fac4539-vcard-name ;
-    vcard:hasTelephone d:fac4539-vcard-fax,
-        d:fac4539-vcard-phone ;
-    vcard:hasTitle d:fac4539-vcard-title .
-
-d:fac4539-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "WeissG@univ.edu" .
-
-d:fac4539-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.4975" .
-
-d:fac4539-vcard-name a vcard:Name ;
-    vcard:familyName "Weiss" ;
-    vcard:givenName "Gilbert" .
-
-d:fac4539-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.5969" .
-
-d:fac4580-vcard a vcard:Individual ;
-    vcard:hasEmail d:fac4580-vcard-email ;
-    vcard:hasName d:fac4580-vcard-name ;
-    vcard:hasTelephone d:fac4580-vcard-fax,
-        d:fac4580-vcard-phone ;
-    vcard:hasTitle d:fac4580-vcard-title .
-
-d:fac4580-vcard-email a vcard:Email,
-        vcard:Work ;
-    vcard:email "FernandoT@univ.edu" .
-
-d:fac4580-vcard-fax a vcard:Fax,
-        vcard:Telephone,
-        vcard:Work ;
-    vcard:telephone "963.777.9864" .
-
-d:fac4580-vcard-name a vcard:Name ;
-    vivo:middleName "Calderon" ;
-    vcard:familyName "Fernando" ;
-    vcard:givenName "Toby" .
-
-d:fac4580-vcard-phone a vcard:Telephone,
-        vcard:Voice,
-        vcard:Work ;
-    vcard:telephone "963.555.6469" .
 
 
