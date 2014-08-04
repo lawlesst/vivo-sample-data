@@ -1,33 +1,25 @@
-@prefix afn: <http://jena.hpl.hp.com/ARQ/function#> .
-@prefix bcite: <http://vivo.brown.edu/ontology/citation#> .
 @prefix bibo: <http://purl.org/ontology/bibo/> .
-@prefix blocal: <http://vivo.brown.edu/ontology/vivo-brown/> .
-@prefix d: <http://vivo.school.edu/individual/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix vitro: <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#> .
-@prefix vitropublic: <http://vitro.mannlib.cornell.edu/ns/vitro/public#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
 @prefix vivo: <http://vivoweb.org/ontology/core#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-d:org100000 a vivo:University ;
+<http://vivo.school.edu/individual/org100000> a vivo:University ;
     rdfs:label "University of VIVO" .
 
-d:org101000 a vivo:College ;
+<http://vivo.school.edu/individual/org101000> a vivo:College ;
     rdfs:label "College of Science" .
 
-d:org101028 a vivo:Department ;
+<http://vivo.school.edu/individual/org101028> a vivo:Department ;
     rdfs:label "Energy Sciences Department" .
 
-d:org102000 a vivo:College ;
+<http://vivo.school.edu/individual/org102000> a vivo:College ;
     rdfs:label "College of Research" .
 
-d:org102017 a vivo:Department ;
+<http://vivo.school.edu/individual/org102017> a vivo:Department ;
     rdfs:label "Geothermal Technology Department" .
 
 

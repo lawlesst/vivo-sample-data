@@ -3,9 +3,12 @@ set -e
 
 echo "Building RDF"
 
-python faculty.py data/faculty.csv > rdf/faculty.ttl
-python organizations.py data/organizations.csv > rdf/organizations.ttl
-python positions.py data/positions.csv > rdf/positions.ttl
-python combine.py > rdf/all.ttl
+CSV=data/csv
+DATA_DIR=data/rdf
+
+python people.py $CSV/people.csv > $DATA_DIR/faculty.ttl
+python organizations.py $CSV/organizations.csv > $DATA_DIR/organizations.ttl
+python positions.py $CSV/positions.csv > $DATA_DIR/positions.ttl
+python combine.py > $DATA_DIR/all.ttl
 
 echo "Done"
