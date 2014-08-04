@@ -29,4 +29,4 @@ Python is used to map from the source CSV files to RDF in the VIVO-ISF ontology.
 * [Organizations](organizations.py)
 * [Positions](positions.py)
 
-The code makes use of [JSON-LD](http://www.w3.org/TR/json-ld/) [contexts](http://www.w3.org/TR/json-ld/#the-context) to map from Python lists of dictionaries with the attributes to RDF.  See the sample [organization context](organizations.py#L20).  These contexts could potentially be shared across VIVO implementers to ease the extracting transforming and loading process that makes up a large portion of the work required to get it up and running with VIVO.
+The code makes use of [JSON-LD](http://www.w3.org/TR/json-ld/) [contexts](http://www.w3.org/TR/json-ld/#the-context) to map from Python lists of dictionaries with the attributes to RDF.  See the sample [organization context](organizations.py#L20).  These contexts could potentially be shared across VIVO implementers to ease the extracting transforming and loading process that makes up a large portion of the work required to get up and running with VIVO.
