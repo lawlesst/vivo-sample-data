@@ -1,0 +1,6 @@
+org_ID,org_name,org_vivo_uri
+101028,Energy Sciences Department,http://vivoweb.org/ontology/core#Department
+102017,Geothermal Technology Department,http://vivoweb.org/ontology/core#Department
+100000,University of VIVO,http://vivoweb.org/ontology/core#University
+102000,College of Research,http://vivoweb.org/ontology/core#College
+101000,College of Science,http://vivoweb.org/ontology/core#College

@@ -1,5 +1,5 @@
 """
-Load the faculty.csv file as VIVO Faculty Members.
+Load the people.csv file as VIVO Faculty Members.
 
 See VCard usage:
 https://wiki.duraspace.org/display/VIVO/VCard+usage+diagram
@@ -14,6 +14,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
+from rdflib_jsonld.parser import to_rdf
 from utils import ns_mgr
 
 #Data namespace
@@ -49,11 +50,17 @@ faculty_ctx = {
             "@id": "vcard:hasTitle",
             "@type": "@id"
         },
-        "vcard:hasEmail":
+        "hasEmail":
             {
             "@id": "vcard:hasEmail",
             "@type": "@id"
-        }
+        },
+        "hasPhone":
+            {
+            "@id": "vcard:hasTelephone",
+            "@type": "@id"
+        },
+        "telephone": "vcard:telephone",
     }
 }
 
@@ -61,7 +68,7 @@ fac = []
 
 with open(sys.argv[1]) as infile:
     for count, row in enumerate(csv.DictReader(infile)):
-        pid = row.get('UID')
+        pid = row.get('person_ID')
 
         faculty_uri = 'fac' + pid
 
@@ -71,7 +78,9 @@ with open(sys.argv[1]) as infile:
         #URI will be person_id plus person prefix.
         f['uri'] = faculty_uri
         f['a'] = "FacultyMember"
-        f['label'] = row.get('FullName')
+        f['label'] = row.get('name').strip()
+        f.update(faculty_ctx)
+        fac.append(f)
 
         #Individual vcard
         vcard_uri = faculty_uri + '-vcard'
@@ -82,6 +91,10 @@ with open(sys.argv[1]) as infile:
         vcard_title_uri = faculty_uri + '-vcard-title'
         #Email vcard
         vcard_email_uri = faculty_uri + '-vcard-email'
+        #Phone
+        vcard_phone_uri = faculty_uri + '-vcard-phone'
+        #Fax
+        vcard_fax_uri = faculty_uri + '-vcard-fax'
 
 
         #Main Vcard
@@ -95,9 +108,9 @@ with open(sys.argv[1]) as infile:
         n = {}
         n['uri'] = vcard_name_uri
         n['a'] = 'vcard:Name'
-        n['first'] = row.get('FirstName')
-        n['last'] = row.get('LastName')
-        middle = row.get('MidName')
+        n['first'] = row.get('first')
+        n['last'] = row.get('last')
+        middle = row.get('middle')
         if middle != "":
             n['middle'] = middle
         n.update(faculty_ctx)
@@ -107,30 +120,48 @@ with open(sys.argv[1]) as infile:
         t = {}
         t['uri'] = vcard_title_uri
         t['a'] = "vcard:Title"
-        t['title'] = row.get('Title')
+        t['title'] = row.get('title')
         vc['vcard:hasTitle'] = vcard_title_uri
         t.update(faculty_ctx)
         fac.append(t)
 
         #Email
-        email = row.get('Email')
+        email = row.get('email')
         if email != '':
             e = {}
-            e['a'] = "vcard:Email"
-            e['a'] = "vcard:Work"
+            e['a'] = ["vcard:Email", "vcard:Work"]
             e['uri'] = vcard_email_uri
             e['vcard:email'] = email
-            vc['vcard:hasEmail'] = vcard_email_uri
             e.update(faculty_ctx)
+            vc['hasEmail'] = vcard_email_uri
             fac.append(e)
 
-        f.update(faculty_ctx)
-        fac.append(f)
+        #Phone
+        phone = row.get('phone')
+        if phone != '':
+            p = {}
+            p['uri'] = vcard_phone_uri
+            p['a'] = ["vcard:Telephone", "vcard:Work", "vcard:Voice"]
+            p['telephone'] = phone
+            p.update(faculty_ctx)
+            fac.append(p)
 
-raw_jld = json.dumps(fac)
-g = Graph().parse(data=raw_jld, format='json-ld')
-g.namespace_manager = ns_mgr
-print g.serialize(format='turtle')
+        #Fax - really, 2014.
+        fax = row.get('fax')
+        if fax != '':
+            f = {}
+            f['uri'] = vcard_fax_uri
+            f['a'] = ["vcard:Telephone", "vcard:Work", "vcard:Fax"]
+            f['telephone'] = fax
+            f.update(faculty_ctx)
+            fac.append(f)
 
+        vc['hasPhone'] = [vcard_phone_uri, vcard_fax_uri]
+
+
+g = Graph()
+out = to_rdf(fac, g)
+out.namespace_manager = ns_mgr
+print out.serialize(format='turtle')
 
 

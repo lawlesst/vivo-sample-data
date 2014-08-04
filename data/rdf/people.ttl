@@ -1,0 +1,1305 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vivo.school.edu/individual/fac1089> a vivo:FacultyMember ;
+    rdfs:label "Payne, Ladonna" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1089-vcard> .
+
+<http://vivo.school.edu/individual/fac1307> a vivo:FacultyMember ;
+    rdfs:label "Pate, Andrea" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1307-vcard> .
+
+<http://vivo.school.edu/individual/fac1538> a vivo:FacultyMember ;
+    rdfs:label "Moises, Edgar Estes" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1538-vcard> .
+
+<http://vivo.school.edu/individual/fac1567> a vivo:FacultyMember ;
+    rdfs:label "Banks, Shannon" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1567-vcard> .
+
+<http://vivo.school.edu/individual/fac1625> a vivo:FacultyMember ;
+    rdfs:label "Hawkins, Callie" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1625-vcard> .
+
+<http://vivo.school.edu/individual/fac1699> a vivo:FacultyMember ;
+    rdfs:label "Stanton, Kathie" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1699-vcard> .
+
+<http://vivo.school.edu/individual/fac1824> a vivo:FacultyMember ;
+    rdfs:label "Head, Kurtis" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1824-vcard> .
+
+<http://vivo.school.edu/individual/fac1968> a vivo:FacultyMember ;
+    rdfs:label "Michael, Dianne" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac1968-vcard> .
+
+<http://vivo.school.edu/individual/fac2070> a vivo:FacultyMember ;
+    rdfs:label "Mosley, Edmund" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2070-vcard> .
+
+<http://vivo.school.edu/individual/fac2096> a vivo:FacultyMember ;
+    rdfs:label "Chuck, Lloyd Haney" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2096-vcard> .
+
+<http://vivo.school.edu/individual/fac2146> a vivo:FacultyMember ;
+    rdfs:label "Sparks, Ezra" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2146-vcard> .
+
+<http://vivo.school.edu/individual/fac2217> a vivo:FacultyMember ;
+    rdfs:label "Katheryn, Ruben Holt" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2217-vcard> .
+
+<http://vivo.school.edu/individual/fac2254> a vivo:FacultyMember ;
+    rdfs:label "Effie, Leila Vinson" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2254-vcard> .
+
+<http://vivo.school.edu/individual/fac2303> a vivo:FacultyMember ;
+    rdfs:label "Quentin, Sam Hyde" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2303-vcard> .
+
+<http://vivo.school.edu/individual/fac2342> a vivo:FacultyMember ;
+    rdfs:label "Austin, Liz" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2342-vcard> .
+
+<http://vivo.school.edu/individual/fac2383> a vivo:FacultyMember ;
+    rdfs:label "Page, Winnie" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2383-vcard> .
+
+<http://vivo.school.edu/individual/fac2389> a vivo:FacultyMember ;
+    rdfs:label "Buckley, Rose" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2389-vcard> .
+
+<http://vivo.school.edu/individual/fac2401> a vivo:FacultyMember ;
+    rdfs:label "Claude, Elvin Haney" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2401-vcard> .
+
+<http://vivo.school.edu/individual/fac2426> a vivo:FacultyMember ;
+    rdfs:label "Brady, Nellie" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2426-vcard> .
+
+<http://vivo.school.edu/individual/fac2561> a vivo:FacultyMember ;
+    rdfs:label "Derek, Antoine Mccoy" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2561-vcard> .
+
+<http://vivo.school.edu/individual/fac2682> a vivo:FacultyMember ;
+    rdfs:label "Earline, Jaime Fitzgerald" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2682-vcard> .
+
+<http://vivo.school.edu/individual/fac2755> a vivo:FacultyMember ;
+    rdfs:label "Kendrick, Reba Alford" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2755-vcard> .
+
+<http://vivo.school.edu/individual/fac2811> a vivo:FacultyMember ;
+    rdfs:label "Deirdre, Florence Barrera" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2811-vcard> .
+
+<http://vivo.school.edu/individual/fac2895> a vivo:FacultyMember ;
+    rdfs:label "Garrison, Patrica" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2895-vcard> .
+
+<http://vivo.school.edu/individual/fac2941> a vivo:FacultyMember ;
+    rdfs:label "Brian, Heath Pruitt" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2941-vcard> .
+
+<http://vivo.school.edu/individual/fac2948> a vivo:FacultyMember ;
+    rdfs:label "Baxter, Johnathan Browning" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac2948-vcard> .
+
+<http://vivo.school.edu/individual/fac3012> a vivo:FacultyMember ;
+    rdfs:label "Grant, Adam" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3012-vcard> .
+
+<http://vivo.school.edu/individual/fac3066> a vivo:FacultyMember ;
+    rdfs:label "Barnes, Cleo" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3066-vcard> .
+
+<http://vivo.school.edu/individual/fac3095> a vivo:FacultyMember ;
+    rdfs:label "Shields, Rich Pena" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3095-vcard> .
+
+<http://vivo.school.edu/individual/fac3112> a vivo:FacultyMember ;
+    rdfs:label "Evelyn, Summer Frost" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3112-vcard> .
+
+<http://vivo.school.edu/individual/fac3130> a vivo:FacultyMember ;
+    rdfs:label "Burks, Rosella" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3130-vcard> .
+
+<http://vivo.school.edu/individual/fac3297> a vivo:FacultyMember ;
+    rdfs:label "Avila, Damien" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3297-vcard> .
+
+<http://vivo.school.edu/individual/fac3544> a vivo:FacultyMember ;
+    rdfs:label "Mullins, Kimberly" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3544-vcard> .
+
+<http://vivo.school.edu/individual/fac3547> a vivo:FacultyMember ;
+    rdfs:label "Olsen, Robin" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3547-vcard> .
+
+<http://vivo.school.edu/individual/fac3903> a vivo:FacultyMember ;
+    rdfs:label "Dunlap, Ann" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3903-vcard> .
+
+<http://vivo.school.edu/individual/fac3929> a vivo:FacultyMember ;
+    rdfs:label "Berger, Jami" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3929-vcard> .
+
+<http://vivo.school.edu/individual/fac3958> a vivo:FacultyMember ;
+    rdfs:label "Kaufman, Elba" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac3958-vcard> .
+
+<http://vivo.school.edu/individual/fac4150> a vivo:FacultyMember ;
+    rdfs:label "Sims, Angelina" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac4150-vcard> .
+
+<http://vivo.school.edu/individual/fac4539> a vivo:FacultyMember ;
+    rdfs:label "Weiss, Gilbert" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac4539-vcard> .
+
+<http://vivo.school.edu/individual/fac4580> a vivo:FacultyMember ;
+    rdfs:label "Fernando, Toby Calderon" ;
+    obo:ARG_2000028 <http://vivo.school.edu/individual/fac4580-vcard> .
+
+<http://vivo.school.edu/individual/fac1089-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1089-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1089-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1089-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1089-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1089-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1089-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "PayneL@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1089-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.6469" .
+
+<http://vivo.school.edu/individual/fac1089-vcard-name> a vcard:Name ;
+    vcard:familyName "Payne" ;
+    vcard:givenName "Ladonna" .
+
+<http://vivo.school.edu/individual/fac1089-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5639" .
+
+<http://vivo.school.edu/individual/fac1089-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1307-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1307-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1307-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1307-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1307-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1307-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1307-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "PateA@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1307-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.5049" .
+
+<http://vivo.school.edu/individual/fac1307-vcard-name> a vcard:Name ;
+    vcard:familyName "Pate" ;
+    vcard:givenName "Andrea" .
+
+<http://vivo.school.edu/individual/fac1307-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.3723" .
+
+<http://vivo.school.edu/individual/fac1307-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1538-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1538-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1538-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1538-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1538-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1538-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1538-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "MoisesE@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1538-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.8264" .
+
+<http://vivo.school.edu/individual/fac1538-vcard-name> a vcard:Name ;
+    vivo:middleName "Estes" ;
+    vcard:familyName "Moises" ;
+    vcard:givenName "Edgar" .
+
+<http://vivo.school.edu/individual/fac1538-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.2731x3565" .
+
+<http://vivo.school.edu/individual/fac1538-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1567-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1567-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1567-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1567-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1567-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1567-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1567-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BanksS@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1567-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.6979" .
+
+<http://vivo.school.edu/individual/fac1567-vcard-name> a vcard:Name ;
+    vcard:familyName "Banks" ;
+    vcard:givenName "Shannon" .
+
+<http://vivo.school.edu/individual/fac1567-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7198" .
+
+<http://vivo.school.edu/individual/fac1567-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1625-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1625-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1625-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1625-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1625-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1625-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1625-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "HawkinsC@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1625-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4949" .
+
+<http://vivo.school.edu/individual/fac1625-vcard-name> a vcard:Name ;
+    vcard:familyName "Hawkins" ;
+    vcard:givenName "Callie" .
+
+<http://vivo.school.edu/individual/fac1625-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.3350x6480" .
+
+<http://vivo.school.edu/individual/fac1625-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1699-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1699-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1699-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1699-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1699-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1699-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1699-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "StantonK@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1699-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.1015" .
+
+<http://vivo.school.edu/individual/fac1699-vcard-name> a vcard:Name ;
+    vcard:familyName "Stanton" ;
+    vcard:givenName "Kathie" .
+
+<http://vivo.school.edu/individual/fac1699-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7095" .
+
+<http://vivo.school.edu/individual/fac1699-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1824-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1824-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1824-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1824-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1824-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1824-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1824-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "HeadK@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1824-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.6348" .
+
+<http://vivo.school.edu/individual/fac1824-vcard-name> a vcard:Name ;
+    vcard:familyName "Head" ;
+    vcard:givenName "Kurtis" .
+
+<http://vivo.school.edu/individual/fac1824-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7882" .
+
+<http://vivo.school.edu/individual/fac1824-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac1968-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac1968-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac1968-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac1968-vcard-fax>,
+        <http://vivo.school.edu/individual/fac1968-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac1968-vcard-title> .
+
+<http://vivo.school.edu/individual/fac1968-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "MichaelD@univ.edu" .
+
+<http://vivo.school.edu/individual/fac1968-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9960" .
+
+<http://vivo.school.edu/individual/fac1968-vcard-name> a vcard:Name ;
+    vcard:familyName "Michael" ;
+    vcard:givenName "Dianne" .
+
+<http://vivo.school.edu/individual/fac1968-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7592" .
+
+<http://vivo.school.edu/individual/fac1968-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2070-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2070-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2070-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2070-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2070-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2070-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2070-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "MosleyE@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2070-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9285" .
+
+<http://vivo.school.edu/individual/fac2070-vcard-name> a vcard:Name ;
+    vcard:familyName "Mosley" ;
+    vcard:givenName "Edmund" .
+
+<http://vivo.school.edu/individual/fac2070-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.2945" .
+
+<http://vivo.school.edu/individual/fac2070-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2096-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2096-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2096-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2096-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2096-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2096-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2096-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "ChuckL@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2096-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9290" .
+
+<http://vivo.school.edu/individual/fac2096-vcard-name> a vcard:Name ;
+    vivo:middleName "Haney" ;
+    vcard:familyName "Chuck" ;
+    vcard:givenName "Lloyd" .
+
+<http://vivo.school.edu/individual/fac2096-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5568x2652" .
+
+<http://vivo.school.edu/individual/fac2096-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2146-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2146-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2146-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2146-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2146-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2146-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2146-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "SparksE@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2146-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9273" .
+
+<http://vivo.school.edu/individual/fac2146-vcard-name> a vcard:Name ;
+    vcard:familyName "Sparks" ;
+    vcard:givenName "Ezra" .
+
+<http://vivo.school.edu/individual/fac2146-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.9390" .
+
+<http://vivo.school.edu/individual/fac2146-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2217-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2217-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2217-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2217-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2217-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2217-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2217-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "KatherynR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2217-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.3969" .
+
+<http://vivo.school.edu/individual/fac2217-vcard-name> a vcard:Name ;
+    vivo:middleName "Holt" ;
+    vcard:familyName "Katheryn" ;
+    vcard:givenName "Ruben" .
+
+<http://vivo.school.edu/individual/fac2217-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7578" .
+
+<http://vivo.school.edu/individual/fac2217-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2254-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2254-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2254-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2254-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2254-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2254-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2254-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "EffieL@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2254-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.7299" .
+
+<http://vivo.school.edu/individual/fac2254-vcard-name> a vcard:Name ;
+    vivo:middleName "Vinson" ;
+    vcard:familyName "Effie" ;
+    vcard:givenName "Leila" .
+
+<http://vivo.school.edu/individual/fac2254-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.6824" .
+
+<http://vivo.school.edu/individual/fac2254-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2303-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2303-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2303-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2303-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2303-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2303-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2303-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "QuentinS@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2303-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.2712" .
+
+<http://vivo.school.edu/individual/fac2303-vcard-name> a vcard:Name ;
+    vivo:middleName "Hyde" ;
+    vcard:familyName "Quentin" ;
+    vcard:givenName "Sam" .
+
+<http://vivo.school.edu/individual/fac2303-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.8921" .
+
+<http://vivo.school.edu/individual/fac2303-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2342-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2342-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2342-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2342-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2342-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2342-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2342-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "AustinL@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2342-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.6143" .
+
+<http://vivo.school.edu/individual/fac2342-vcard-name> a vcard:Name ;
+    vcard:familyName "Austin" ;
+    vcard:givenName "Liz" .
+
+<http://vivo.school.edu/individual/fac2342-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.4305" .
+
+<http://vivo.school.edu/individual/fac2342-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac2383-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2383-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2383-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2383-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2383-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2383-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2383-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "PageW@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2383-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.3202" .
+
+<http://vivo.school.edu/individual/fac2383-vcard-name> a vcard:Name ;
+    vcard:familyName "Page" ;
+    vcard:givenName "Winnie" .
+
+<http://vivo.school.edu/individual/fac2383-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.9366" .
+
+<http://vivo.school.edu/individual/fac2383-vcard-title> a vcard:Title ;
+    vcard:title "Curator" .
+
+<http://vivo.school.edu/individual/fac2389-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2389-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2389-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2389-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2389-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2389-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2389-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BuckleyR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2389-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.5233" .
+
+<http://vivo.school.edu/individual/fac2389-vcard-name> a vcard:Name ;
+    vcard:familyName "Buckley" ;
+    vcard:givenName "Rose" .
+
+<http://vivo.school.edu/individual/fac2389-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.6855x5018" .
+
+<http://vivo.school.edu/individual/fac2389-vcard-title> a vcard:Title ;
+    vcard:title "Curator" .
+
+<http://vivo.school.edu/individual/fac2401-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2401-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2401-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2401-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2401-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2401-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2401-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "ClaudeE@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2401-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9730" .
+
+<http://vivo.school.edu/individual/fac2401-vcard-name> a vcard:Name ;
+    vivo:middleName "Haney" ;
+    vcard:familyName "Claude" ;
+    vcard:givenName "Elvin" .
+
+<http://vivo.school.edu/individual/fac2401-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.2902" .
+
+<http://vivo.school.edu/individual/fac2401-vcard-title> a vcard:Title ;
+    vcard:title "Curator" .
+
+<http://vivo.school.edu/individual/fac2426-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2426-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2426-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2426-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2426-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2426-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2426-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BradyN@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2426-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.7218" .
+
+<http://vivo.school.edu/individual/fac2426-vcard-name> a vcard:Name ;
+    vcard:familyName "Brady" ;
+    vcard:givenName "Nellie" .
+
+<http://vivo.school.edu/individual/fac2426-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7569" .
+
+<http://vivo.school.edu/individual/fac2426-vcard-title> a vcard:Title ;
+    vcard:title "Curator" .
+
+<http://vivo.school.edu/individual/fac2561-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2561-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2561-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2561-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2561-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2561-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2561-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "DerekA@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2561-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.5454" .
+
+<http://vivo.school.edu/individual/fac2561-vcard-name> a vcard:Name ;
+    vivo:middleName "Mccoy" ;
+    vcard:familyName "Derek" ;
+    vcard:givenName "Antoine" .
+
+<http://vivo.school.edu/individual/fac2561-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.2992" .
+
+<http://vivo.school.edu/individual/fac2561-vcard-title> a vcard:Title ;
+    vcard:title "Curator" .
+
+<http://vivo.school.edu/individual/fac2682-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2682-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2682-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2682-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2682-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2682-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2682-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "EarlineJ@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2682-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4114" .
+
+<http://vivo.school.edu/individual/fac2682-vcard-name> a vcard:Name ;
+    vivo:middleName "Fitzgerald" ;
+    vcard:familyName "Earline" ;
+    vcard:givenName "Jaime" .
+
+<http://vivo.school.edu/individual/fac2682-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.8357" .
+
+<http://vivo.school.edu/individual/fac2682-vcard-title> a vcard:Title ;
+    vcard:title "Associate Curator " .
+
+<http://vivo.school.edu/individual/fac2755-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2755-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2755-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2755-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2755-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2755-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2755-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "KendrickR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2755-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4371" .
+
+<http://vivo.school.edu/individual/fac2755-vcard-name> a vcard:Name ;
+    vivo:middleName "Alford" ;
+    vcard:familyName "Kendrick" ;
+    vcard:givenName "Reba" .
+
+<http://vivo.school.edu/individual/fac2755-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.4618x7744" .
+
+<http://vivo.school.edu/individual/fac2755-vcard-title> a vcard:Title ;
+    vcard:title "Associate Curator " .
+
+<http://vivo.school.edu/individual/fac2811-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2811-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2811-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2811-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2811-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2811-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2811-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "DeirdreF@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2811-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9654" .
+
+<http://vivo.school.edu/individual/fac2811-vcard-name> a vcard:Name ;
+    vivo:middleName "Barrera" ;
+    vcard:familyName "Deirdre" ;
+    vcard:givenName "Florence" .
+
+<http://vivo.school.edu/individual/fac2811-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.6319" .
+
+<http://vivo.school.edu/individual/fac2811-vcard-title> a vcard:Title ;
+    vcard:title "Associate Curator " .
+
+<http://vivo.school.edu/individual/fac2895-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2895-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2895-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2895-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2895-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2895-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2895-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "GarrisonP@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2895-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4958" .
+
+<http://vivo.school.edu/individual/fac2895-vcard-name> a vcard:Name ;
+    vcard:familyName "Garrison" ;
+    vcard:givenName "Patrica" .
+
+<http://vivo.school.edu/individual/fac2895-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.6760" .
+
+<http://vivo.school.edu/individual/fac2895-vcard-title> a vcard:Title ;
+    vcard:title "Associate Curator " .
+
+<http://vivo.school.edu/individual/fac2941-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2941-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2941-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2941-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2941-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2941-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2941-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BrianH@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2941-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.7249" .
+
+<http://vivo.school.edu/individual/fac2941-vcard-name> a vcard:Name ;
+    vivo:middleName "Pruitt" ;
+    vcard:familyName "Brian" ;
+    vcard:givenName "Heath" .
+
+<http://vivo.school.edu/individual/fac2941-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.2800" .
+
+<http://vivo.school.edu/individual/fac2941-vcard-title> a vcard:Title ;
+    vcard:title "Associate Curator " .
+
+<http://vivo.school.edu/individual/fac2948-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac2948-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac2948-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac2948-vcard-fax>,
+        <http://vivo.school.edu/individual/fac2948-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac2948-vcard-title> .
+
+<http://vivo.school.edu/individual/fac2948-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BaxterJ@univ.edu" .
+
+<http://vivo.school.edu/individual/fac2948-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.8336" .
+
+<http://vivo.school.edu/individual/fac2948-vcard-name> a vcard:Name ;
+    vivo:middleName "Browning" ;
+    vcard:familyName "Baxter" ;
+    vcard:givenName "Johnathan" .
+
+<http://vivo.school.edu/individual/fac2948-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5902" .
+
+<http://vivo.school.edu/individual/fac2948-vcard-title> a vcard:Title ;
+    vcard:title "Research Professor" .
+
+<http://vivo.school.edu/individual/fac3012-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3012-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3012-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3012-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3012-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3012-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3012-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "GrantA@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3012-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.8115" .
+
+<http://vivo.school.edu/individual/fac3012-vcard-name> a vcard:Name ;
+    vcard:familyName "Grant" ;
+    vcard:givenName "Adam" .
+
+<http://vivo.school.edu/individual/fac3012-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7775" .
+
+<http://vivo.school.edu/individual/fac3012-vcard-title> a vcard:Title ;
+    vcard:title "Research Professor" .
+
+<http://vivo.school.edu/individual/fac3066-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3066-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3066-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3066-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3066-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3066-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3066-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BarnesC@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3066-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.1583" .
+
+<http://vivo.school.edu/individual/fac3066-vcard-name> a vcard:Name ;
+    vcard:familyName "Barnes" ;
+    vcard:givenName "Cleo" .
+
+<http://vivo.school.edu/individual/fac3066-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.7463x7335" .
+
+<http://vivo.school.edu/individual/fac3066-vcard-title> a vcard:Title ;
+    vcard:title "Research Professor" .
+
+<http://vivo.school.edu/individual/fac3095-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3095-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3095-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3095-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3095-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3095-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3095-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "ShieldsR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3095-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.7215" .
+
+<http://vivo.school.edu/individual/fac3095-vcard-name> a vcard:Name ;
+    vivo:middleName "Pena" ;
+    vcard:familyName "Shields" ;
+    vcard:givenName "Rich" .
+
+<http://vivo.school.edu/individual/fac3095-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.9197" .
+
+<http://vivo.school.edu/individual/fac3095-vcard-title> a vcard:Title ;
+    vcard:title "Professor " .
+
+<http://vivo.school.edu/individual/fac3112-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3112-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3112-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3112-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3112-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3112-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3112-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "EvelynS@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3112-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.5730" .
+
+<http://vivo.school.edu/individual/fac3112-vcard-name> a vcard:Name ;
+    vivo:middleName "Frost" ;
+    vcard:familyName "Evelyn" ;
+    vcard:givenName "Summer" .
+
+<http://vivo.school.edu/individual/fac3112-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.8895" .
+
+<http://vivo.school.edu/individual/fac3112-vcard-title> a vcard:Title ;
+    vcard:title "Professor " .
+
+<http://vivo.school.edu/individual/fac3130-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3130-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3130-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3130-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3130-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3130-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3130-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BurksR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3130-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4065" .
+
+<http://vivo.school.edu/individual/fac3130-vcard-name> a vcard:Name ;
+    vcard:familyName "Burks" ;
+    vcard:givenName "Rosella" .
+
+<http://vivo.school.edu/individual/fac3130-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.1253" .
+
+<http://vivo.school.edu/individual/fac3130-vcard-title> a vcard:Title ;
+    vcard:title "Professor " .
+
+<http://vivo.school.edu/individual/fac3297-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3297-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3297-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3297-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3297-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3297-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3297-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "AvilaD@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3297-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.7914" .
+
+<http://vivo.school.edu/individual/fac3297-vcard-name> a vcard:Name ;
+    vcard:familyName "Avila" ;
+    vcard:givenName "Damien" .
+
+<http://vivo.school.edu/individual/fac3297-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.1352" .
+
+<http://vivo.school.edu/individual/fac3297-vcard-title> a vcard:Title ;
+    vcard:title "Professor " .
+
+<http://vivo.school.edu/individual/fac3544-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3544-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3544-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3544-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3544-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3544-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3544-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "MullinsK@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3544-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9783" .
+
+<http://vivo.school.edu/individual/fac3544-vcard-name> a vcard:Name ;
+    vcard:familyName "Mullins" ;
+    vcard:givenName "Kimberly" .
+
+<http://vivo.school.edu/individual/fac3544-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5471x1017" .
+
+<http://vivo.school.edu/individual/fac3544-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac3547-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3547-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3547-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3547-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3547-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3547-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3547-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "OlsenR@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3547-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9262" .
+
+<http://vivo.school.edu/individual/fac3547-vcard-name> a vcard:Name ;
+    vcard:familyName "Olsen" ;
+    vcard:givenName "Robin" .
+
+<http://vivo.school.edu/individual/fac3547-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.1378" .
+
+<http://vivo.school.edu/individual/fac3547-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac3903-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3903-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3903-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3903-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3903-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3903-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3903-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "DunlapA@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3903-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4290" .
+
+<http://vivo.school.edu/individual/fac3903-vcard-name> a vcard:Name ;
+    vcard:familyName "Dunlap" ;
+    vcard:givenName "Ann" .
+
+<http://vivo.school.edu/individual/fac3903-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.9067" .
+
+<http://vivo.school.edu/individual/fac3903-vcard-title> a vcard:Title ;
+    vcard:title "Assistant Professor" .
+
+<http://vivo.school.edu/individual/fac3929-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3929-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3929-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3929-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3929-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3929-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3929-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "BergerJ@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3929-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.5650" .
+
+<http://vivo.school.edu/individual/fac3929-vcard-name> a vcard:Name ;
+    vcard:familyName "Berger" ;
+    vcard:givenName "Jami" .
+
+<http://vivo.school.edu/individual/fac3929-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.8158" .
+
+<http://vivo.school.edu/individual/fac3929-vcard-title> a vcard:Title ;
+    vcard:title "Research Professor" .
+
+<http://vivo.school.edu/individual/fac3958-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac3958-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac3958-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac3958-vcard-fax>,
+        <http://vivo.school.edu/individual/fac3958-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac3958-vcard-title> .
+
+<http://vivo.school.edu/individual/fac3958-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "KaufmanE@univ.edu" .
+
+<http://vivo.school.edu/individual/fac3958-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.3298" .
+
+<http://vivo.school.edu/individual/fac3958-vcard-name> a vcard:Name ;
+    vcard:familyName "Kaufman" ;
+    vcard:givenName "Elba" .
+
+<http://vivo.school.edu/individual/fac3958-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.9507" .
+
+<http://vivo.school.edu/individual/fac3958-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac4150-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac4150-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac4150-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac4150-vcard-fax>,
+        <http://vivo.school.edu/individual/fac4150-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac4150-vcard-title> .
+
+<http://vivo.school.edu/individual/fac4150-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "SimsA@univ.edu" .
+
+<http://vivo.school.edu/individual/fac4150-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4400" .
+
+<http://vivo.school.edu/individual/fac4150-vcard-name> a vcard:Name ;
+    vcard:familyName "Sims" ;
+    vcard:givenName "Angelina" .
+
+<http://vivo.school.edu/individual/fac4150-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5278" .
+
+<http://vivo.school.edu/individual/fac4150-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac4539-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac4539-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac4539-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac4539-vcard-fax>,
+        <http://vivo.school.edu/individual/fac4539-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac4539-vcard-title> .
+
+<http://vivo.school.edu/individual/fac4539-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "WeissG@univ.edu" .
+
+<http://vivo.school.edu/individual/fac4539-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.4975" .
+
+<http://vivo.school.edu/individual/fac4539-vcard-name> a vcard:Name ;
+    vcard:familyName "Weiss" ;
+    vcard:givenName "Gilbert" .
+
+<http://vivo.school.edu/individual/fac4539-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.5969" .
+
+<http://vivo.school.edu/individual/fac4539-vcard-title> a vcard:Title ;
+    vcard:title "Professor" .
+
+<http://vivo.school.edu/individual/fac4580-vcard> a vcard:Individual ;
+    vcard:hasEmail <http://vivo.school.edu/individual/fac4580-vcard-email> ;
+    vcard:hasName <http://vivo.school.edu/individual/fac4580-vcard-name> ;
+    vcard:hasTelephone <http://vivo.school.edu/individual/fac4580-vcard-fax>,
+        <http://vivo.school.edu/individual/fac4580-vcard-phone> ;
+    vcard:hasTitle <http://vivo.school.edu/individual/fac4580-vcard-title> .
+
+<http://vivo.school.edu/individual/fac4580-vcard-email> a vcard:Email,
+        vcard:Work ;
+    vcard:email "FernandoT@univ.edu" .
+
+<http://vivo.school.edu/individual/fac4580-vcard-fax> a vcard:Fax,
+        vcard:Telephone,
+        vcard:Work ;
+    vcard:telephone "963.777.9864" .
+
+<http://vivo.school.edu/individual/fac4580-vcard-name> a vcard:Name ;
+    vivo:middleName "Calderon" ;
+    vcard:familyName "Fernando" ;
+    vcard:givenName "Toby" .
+
+<http://vivo.school.edu/individual/fac4580-vcard-phone> a vcard:Telephone,
+        vcard:Voice,
+        vcard:Work ;
+    vcard:telephone "963.555.6469" .
+
+<http://vivo.school.edu/individual/fac4580-vcard-title> a vcard:Title ;
+    vcard:title "Research Professor" .
+
+
