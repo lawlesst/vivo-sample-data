@@ -160,8 +160,8 @@ with open(sys.argv[1]) as infile:
 
 
 g = Graph()
-g.namespace_manager = ns_mgr
 out = to_rdf(fac, g)
+out.namespace_manager = ns_mgr
 print out.serialize(format='turtle')
 
 
