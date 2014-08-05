@@ -15,14 +15,14 @@ logging.basicConfig(level=logging.INFO)
 
 from rdflib import Graph
 from rdflib_jsonld.parser import to_rdf
-from utils import ns_mgr
+from utils import ns_mgr, DATA_NAMESPACE
 
 #Data namespace
 ns = "http://vivo.school.edu/individual/"
 
 faculty_ctx = {
     "@context": {
-        "@base": ns,
+        "@base": DATA_NAMESPACE,
         "a": "@type",
         "uri": "@id",
         "vivo": "http://vivoweb.org/ontology/core#",

@@ -12,6 +12,9 @@ import requests
 from rdflib import Graph, Namespace
 from rdflib.namespace import NamespaceManager, ClosedNamespace
 
+#Data namespace
+DATA_NAMESPACE = os.environ.get('DATA_NAMESPACE') or 'http://vivo.school.edu'
+
 VIVO = Namespace('http://vivoweb.org/ontology/core#')
 #FOAF = Namespace('http://xmlns.com/foaf/0.1/')
 BIBO = Namespace('http://purl.org/ontology/bibo/')
