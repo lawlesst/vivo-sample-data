@@ -3,5 +3,6 @@ env.sh
 tmp.n3
 data/sample*
 .ipynb_checkpoints/*
+tutorial/.ipy*
 
 *pyc

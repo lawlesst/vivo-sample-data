@@ -31,3 +31,8 @@ Python is used to map from the source CSV files to RDF in the VIVO-ISF ontology.
 
 The code makes use of [JSON-LD](http://www.w3.org/TR/json-ld/) [contexts](http://www.w3.org/TR/json-ld/#the-context) to map from Python lists of dictionaries with the attributes to RDF.  See the sample [organization context](organizations.py#L20).  These contexts could potentially be shared across VIVO implementers to ease the extracting transforming and loading process that makes up a large portion of the work required to get up and running with VIVO. 
 
+###Tutorial
+Two tutorials have been created with iPython notebooks as examples for those interested in getting started with Python, RDFLib and VIVO.  These tutorials use the sample files included in `data/csv` and the code utilities in [utils.py](utils.py).  
+
+ * [People data loading example](http://nbviewer.ipython.org/github/lawlesst/vivo-sample-data/blob/master/tutorial/demo-vivo-ingest.ipynb)
+ * [Fetching, converting and loading publication data from CrossRef](http://nbviewer.ipython.org/github/lawlesst/vivo-sample-data/blob/master/tutorial/publications-ingest.ipynb)
