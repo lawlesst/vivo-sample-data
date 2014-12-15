@@ -5,4 +5,8 @@ data/sample*
 .ipynb_checkpoints/*
 tutorial/.ipy*
 
+orgref/data/*nt
+orgref/data/sites/*nt
+orgref/data/*sqlite
+
 *pyc
