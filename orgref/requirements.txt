@@ -1,0 +1,6 @@
+requests
+#Optional but encouraged if crawling sites.
+requests-cache
+rdflib
+click
+fuzzywuzzy
